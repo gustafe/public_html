@@ -1,0 +1,487 @@
+LENS	TYPE	DESIGN	QTY
+10-24/3.5-4.5 G IF-ED	AF-S	zoom	20620
+10.5/2.8 G ED Fisheye	AF	prime	89629
+10.5cm/4 T NKJ	F	prime	5905
+10/5.6 Fisheye 180°-OP NKJ	F	prime	542
+10/5.6 Fisheye 180°-OP Nikon	F	prime	158
+100-300/5.6 Zoom	Ai-S	zoom	58200
+100/2.8 Series E	E	prime	109424
+100/2.8 Series E New	E	prime	81033
+1000/11 Reflex	Ai	prime	12525
+1000/11 Reflex	K	prime	640
+1000/11 Reflex NKJ	F	prime	1169
+1000/11 Reflex Nikon	F	prime	886
+1000/11 Reflex.C	C	prime	1067
+1000/6.3 Reflex NKJ	F	prime	56
+105/1.8	Ai-S	prime	43829
+105/2.5	Ai	prime	157333
+105/2.5	Ai-S	prime	163738
+105/2.5	K	prime	56670
+105/2.5 P Auto NKJ	F	prime	131567
+105/2.5 P Auto Nikon	F	prime	66534
+105/2.5 P.C Auto	C	prime	71564
+105/2.8 Micro	Ai-S	prime	2642
+105/2.8 D Micro	AF	prime	209259
+105/2.8 G Micro IF-ED VR [N]	AF-S	prime	201327
+105/2.8 Micro	AF	prime	135102
+105/2.8 Micro	Ai-S	prime	86622
+105/2 D DC	AF	prime	19090
+105/4.5 UV	Ai-S	prime	3150
+105/4.5 UV-Micro	Ai-S	prime	1
+105/4 Micro	Ai	prime	43416
+105/4 Micro	Ai-S	prime	24544
+105/4 Micro	K	prime	12945
+105/4 P NKJ	F	prime	3515
+105/4 P Nikon	F	prime	3401
+12-24/4 G IF-ED	AF-S	zoom	125136
+120/4 Medical IF	Ai*	prime	22840
+1200-1700/5.6-8 P IF-ED	Ai-P	zoom	15
+1200/11 P NKJ	F	prime	163
+1200/11 P Nikon	F	prime	148
+1200/11 P.C Auto	C	prime	188
+1200/11 Nikkor*ED	K	prime	80
+1200/11 Nikkor*ED IF	Ai	prime	128
+1200/11 Nikkor*ED IF	Ai-S	prime	366
+1200/11 P NKJ	F	prime	56
+13/5.6	Ai	prime	15
+13/5.6	Ai-S	prime	302
+13/5.6	K	prime	36
+135/2	Ai	prime	7527
+135/2	Ai-S	prime	32183
+135/2	K	prime	4576
+135/2.8	Ai	prime	146834
+135/2.8	Ai-S	prime	75102
+135/2.8	K	prime	33210
+135/2.8 Q Auto NKJ	F	prime	15111
+135/2.8 New	K	prime	26716
+135/2.8 Q Auto NKJ	F	prime	8822
+135/2.8 Q Auto Nikon	F	prime	177919
+135/2.8 Q.C Auto	C	prime	41067
+135/2.8 Series E	E	prime	77015
+135/2 D DC	AF	prime	13900
+135/2 DC	AF	prime	13258
+135/3.5	Ai	prime	103059
+135/3.5	Ai-S	prime	19973
+135/3.5	K	prime	23710
+135/3.5 Q Auto NKJ	F	prime	94979
+135/3.5 Q Auto NKJ New	F	prime	38980
+135/3.5 Q Auto Nikon	F	prime	71870
+135/3.5 Q.C Auto	C	prime	30390
+135/4 Q NKJ	F	prime	3370
+14-24/2.8 G IF-ED [N]	AF-S	zoom	96434
+14/2.8 D ED	AF	prime	18717
+15/3.5	Ai	prime	1876
+15/3.5	Ai-S	prime	8612
+15/5.6	Ai	prime	687
+15/5.6	K,Ai	prime	565
+15/5.6 QD Auto	F	prime	2
+15/5.6 QD.C Auto	C	prime	2387
+16-35/4 G IF-ED VR [N]	AF-S	zoom	10008
+16-85/3.5-5.6 G IF-ED VR	AF-S	zoom	112479
+16/2.8 D Fisheye	AF	prime	38250
+16/2.8 Fisheye	Ai	prime	4672
+16/2.8 Fisheye	Ai-S	prime	23827
+16/3.5 Fisheye	Ai	prime	4111
+16/3.5 Fisheye	K,Ai	prime	1588
+16/3.5 Fisheye Auto	C	prime	4697
+17-35/2.8 D IF-ED	AF-S	zoom	130230
+17-55/2.8 G IF-ED	AF-S	zoom	154344
+18-105/3.5-5.6 G IF-ED VR	AF-S	zoom	1044096
+18-135/3.5-5.6 G IF-ED	AF-S	zoom	1081443
+18-200/3.5-5.6 G IF-ED VR	AF-S	zoom	1091657
+18-200/3.5-5.6 G IF-ED VR II	AF-S	zoom	17456
+18-35/3.5-4.5 D IF-ED	AF	zoom	104168
+18-55/3.5-5.6 G ED	AF-S	zoom	872817
+18-55/3.5-5.6 G ED II	AF-S	zoom	3300255
+18-55/3.5-5.6 G VR	AF-S	zoom	2890223
+18-70/3.5-4.5 G IF-ED	AF-S	zoom	2256520
+18/2.8 D	AF	prime	7036
+18/3.5	Ai-S	prime	13743
+18/4	Ai	prime	3859
+18/4	K,Ai	prime	4277
+180-600/8 Zoom*ED	Ai	zoom	140
+180-600/8 Zoom*ED	Ai-S	zoom	555
+180/2.8	Ai	prime	18347
+180/2.8 D IF-ED	AF	prime	21170
+180/2.8 IF-ED	AF	prime	11081
+180/2.8 IF-ED New	AF	prime	49557
+180/2.8 Nikkor*ED	Ai-S	prime	74048
+180/2.8 P Auto NKJ	F	prime	1351
+180/2.8 P Auto Nikon	F	prime	16108
+180/2.8 P.C Auto	C	prime	3153
+2.1cm/4 O NKJ	F	prime	1
+2.1cm/4 O NKJ	F	prime	5866
+2.8cm/3.5 H Auto NKJ	F	prime	53861
+20-35/2.8 D IF	AF	zoom	44928
+20/2.8	AF	prime	69471
+20/2.8	Ai-S	prime	69143
+20/2.8 D	AF	prime	116648
+20/3.5	Ai	prime	28395
+20/3.5	Ai-S	prime	28647
+20/3.5	K	prime	1
+20/3.5 UD NKJ	F	prime	2
+20/3.5 UD NKJ	F	prime	19683
+20/3.5 UD Nikon	F	prime	20633
+20/4	Ai	prime	10763
+20/4	K,Ai	prime	22156
+200-400/4 G IF-ED VR	AF-S	zoom	11849
+200-400/4 G IF-ED VRII	AF-S	zoom	23
+200-400/4 Zoom*ED	Ai-S	zoom	448
+200-600/9.5-10.5AutoTele-Zoom	F	zoom	1599
+200-600/9.5 Zoom	Ai	zoom	1922
+200-600/9.5 Zoom	Ai-S	zoom	525
+200-600/9.5 Zoom Auto Nikon	F	zoom	1121
+200/2 G IF-ED VR	AF-S	prime	4839
+200/2 IF-ED N	Ai-S	prime	1768
+200/2 Nikkor*ED IF	Ai	prime	1234
+200/2 Nikkor*ED IF	Ai-S	prime	660
+200/3.5 Nikkor*ED IF	F3AF	prime	4982
+200/4	Ai	prime	189810
+200/4	Ai-S	prime	74787
+200/4	K	prime	35139
+200/4 Micro IF	Ai	prime	1
+200/4 D IF-ED Micro	AF	prime	15270
+200/4 Micro IF	Ai	prime	20138
+200/4 Micro IF	Ai-S	prime	19955
+200/4 Q Auto NKJ	F	prime	80932
+200/4 Q Auto Nikon	F	prime	90601
+200/4 Q.C Auto	C	prime	63238
+200/5.6 Medical.C Auto	C	prime	2515
+200/5.6 Medical Auto NKJ	F	prime	9001
+200/5.6 Medical Auto Nikon	F	prime	1101
+200/5.6 Medical.C Auto	C	prime	4866
+2000/11 Reflex	Ai	prime	15
+2000/11 Reflex NKJ	F	prime	41
+2000/11 Reflex.C	C	prime	231
+20cm/4 Q Auto NKJ	F	prime	48741
+24-120/3.5-5.6 D IF	AF	zoom	255515
+24-120/3.5-5.6 G IF-ED VR	AF-S	zoom	188306
+24-50/3.3-4.5	AF	zoom	79341
+24-50/3.3-4.5 D	AF	zoom	21991
+24-70/2.8 G IF-ED [N]	AF-S	zoom	213879
+24-85/2.8-4 D IF	AF	zoom	153404
+24-85/3.5-4.5 G IF-ED	AF-S	zoom	100100
+24/1.4 G ED [N]	AF-S	prime	5048
+24/2	Ai	prime	17192
+24/2	Ai-S	prime	47342
+24/2.8	AF	prime	57046
+24/2.8	Ai	prime	159250
+24/2.8	Ai-S	prime	159381
+24/2.8	K	prime	69340
+24/2.8 D	AF	prime	113091
+24/2.8 N Auto NKJ	F	prime	48441
+24/2.8 N Auto Nikon	F	prime	43252
+24/2.8 N.C Auto	C	prime	64741
+24/2.8 New	AF	prime	49027
+24/3.5 D PC-E [N]	n/a	prime	4504
+25-50/4 Zoom	Ai	zoom	11433
+25-50/4 Zoom	Ai-S	zoom	16906
+28-100/3.5-5.6 G	AF	zoom	290234
+28-105/3.5-4.5 D IF	AF	zoom	395013
+28-200/3.5-5.6 D IF	AF	zoom	132601
+28-200/3.5-5.6 G IF-ED	AF	zoom	57433
+28-45/4.5 Zoom	Ai	zoom	19729
+28-50/3.5 Zoom	Ai-S	zoom	21352
+28-70/2.8 D IF-ED	AF-S	zoom	130740
+28-70/3.5-4.5	AF	zoom	92773
+28-70/3.5-4.5 D	AF	zoom	238755
+28-80/3.3-5.6 G	AF	zoom	1695139
+28-80/3.5-5.6 D	AF	zoom	267134
+28-80/3.5-5.6 D New	AF	zoom	608597
+28-85/3.5-4.5	AF	zoom	143009
+28-85/3.5-4.5 Zoom	Ai-S	zoom	2458
+28-85/3.5-4.5 New	AF	zoom	217956
+28-85/3.5-4.5 Zoom	Ai-S	zoom	88789
+28/1.4 D	AF	prime	7333
+28/2	Ai	prime	29945
+28/2	Ai-S	prime	44716
+28/2	K	prime	12594
+28/2.8	AF	prime	81509
+28/2.8	Ai	prime	182456
+28/2.8	Ai-S	prime	203780
+28/2.8	K	prime	37647
+28/2.8 D	AF	prime	109870
+28/2.8 New	AF	prime	51013
+28/2.8 Series E	E	prime	60969
+28/2.8 Series E New	E	prime	191239
+28/2 N Auto NKJ	C	prime	2726
+28/2 N Auto Nikon	C	prime	10770
+28/2 N.C Auto	C	prime	17984
+28/3.5	Ai	prime	194095
+28/3.5	Ai-S	prime	39599
+28/3.5	K	prime	83581
+28/3.5 PC	AiS*	prime	1
+28/3.5 H Auto NKJ	F	prime	70173
+28/3.5 H Auto Nikon	F	prime	127614
+28/3.5 H.C Auto	C	prime	48367
+28/3.5 PC	AiS*	prime	35058
+28/4 PC	Ai	prime	7349
+3.5-8.5cm/2.8-4 Auto Wide-Zoom	F	prime	3
+3.5cm/2.8 S Auto NKJ	F	prime	7080
+300/2.8 D IF-ED	AF-I	prime	6249
+300/2.8 D IF-ED	AF-S	prime	8935
+300/2.8 D IF-ED II	AF-S	prime	5705
+300/2.8 G IF-ED II VR [N]	AF-S	prime	47
+300/2.8 G IF-ED VR [N]	AF-S	prime	10646
+300/2.8 IF-ED	AF	prime	1860
+300/2.8 IF-ED New	AF	prime	12508
+300/2.8 IF-ED New	Ai-S	prime	7635
+300/2.8 Nikkor*ED	K	prime	63
+300/2.8 Nikkor*ED IF	Ai	prime	2443
+300/2.8 Nikkor*ED IF	Ai-S	prime	5751
+300/2.8 Nikkor-H	F	prime	72
+300/2 Nikkor*ED IF	Ai-S	prime	441
+300/4.5	Ai	prime	33930
+300/4.5	Ai-S	prime	32930
+300/4.5	K	prime	23895
+300/4.5 P Auto NKJ	F	prime	4
+300/4.5 H Auto NKJ	F	prime	17009
+300/4.5 H Auto Nikon	F	prime	36701
+300/4.5 Nikkor*ED	Ai	prime	968
+300/4.5 Nikkor*ED	K	prime	898
+300/4.5 Nikkor*ED IF	Ai	prime	8080
+300/4.5 Nikkor*ED IF	Ai-S	prime	28835
+300/4.5 P Auto NKJ	F	prime	15256
+300/4 D IF-ED	AF-S	prime	28430
+300/4 IF-ED	AF	prime	67944
+35-105/3.5-4.5	AF	zoom	346347
+35-105/3.5-4.5 D IF	AF	zoom	58237
+35-105/3.5-4.5 New	AF	zoom	64155
+35-105/3.5-4.5 Zoom	Ai-S	zoom	371560
+35-135/3.5-4.5	AF	zoom	51412
+35-135/3.5-4.5 New	AF	zoom	225181
+35-135/3.5-4.5 Zoom	Ai-S	zoom	91801
+35-200/3.5-4.5 Zoom	Ai-S	zoom	42524
+35-70/2.8	AF	zoom	129242
+35-70/2.8 D	AF	zoom	348485
+35-70/3.3-4.5	AF	zoom	778075
+35-70/3.3-4.5 New	AF	zoom	1022170
+35-70/3.3-4.5 Zoom	Ai-S	zoom	304383
+35-70/3.5 Zoom	Ai	zoom	1
+35-70/3.5-4.8 Zoom	Ai-S	zoom	1051652
+35-70/3.5 Zoom	Ai	zoom	48506
+35-70/3.5 Zoom	Ai-S	zoom	158539
+35-80/4-5.6 D	AF	zoom	1661308
+35/1.4	Ai	prime	16628
+35/1.4	Ai-S	prime	85188
+35/1.4	K	prime	4434
+35/1.4 NASA	Ai-S	prime	23
+35/1.4 N Auto NKJ	C	prime	2700
+35/1.4 N Auto Nikon	C	prime	8727
+35/1.4 N.C Auto	C	prime	7086
+35/1.8 G	AF-S	prime	180494
+35/2	AF	prime	38317
+35/2	Ai	prime	127967
+35/2	Ai-S	prime	123408
+35/2	K	prime	33116
+35/2 O Auto NKJ	F	prime	13
+35/2.5 Series E	E	prime	95502
+35/2.5 Series E New	E	prime	98854
+35/2.8	Ai	prime	19063
+35/2.8	Ai-S	prime	72678
+35/2.8	K	prime	77658
+35/2.8 PC NKJ	F	prime	1
+35/2.8 New	Ai	prime	109942
+35/2.8 PC	Ai	prime	9517
+35/2.8 PC	AiS*	prime	26195
+35/2.8 PC NKJ	F	prime	10718
+35/2.8 PC Nikon	F	prime	16420
+35/2.8 S Auto NKJ	F	prime	94310
+35/2.8 S Auto Nikon	F	prime	92562
+35/2 D	AF	prime	137609
+35/2 O Auto NKJ	F	prime	78787
+35/2 O Auto Nikon	F	prime	43213
+35/2 O.C Auto	C	prime	36141
+35/3.5 PC NKJ	F	prime	9579
+36-72/3.5 Series E Zoom	E	zoom	219401
+360-1200/11 Zoom*ED	Ai	zoom	97
+360-1200/11 Zoom*ED	Ai-S	zoom	81
+400/2.8 D IF-ED	AF-I	prime	1504
+400/2.8 D IF-ED	AF-S	prime	2062
+400/2.8 D IF-ED II	AF-S	prime	2209
+400/2.8 G IF-ED VR [N]	AF-S	prime	1751
+400/2.8 IF-ED	Ai-S	prime	2601
+400/2.8 Nikkor*ED IF	Ai-S	prime	112
+400/3.5 Nikkor*ED IF	Ai	prime	3700
+400/3.5 Nikkor*ED IF	Ai-S	prime	8075
+400/3.5 Nikkor*ED IF	K	prime	71
+400/4.5 Q Auto NKJ	F	prime	1220
+400/4.5 Q Auto Nikon	F	prime	541
+400/4.5 Q.C Auto	C	prime	360
+400/5.6 P Auto	F	prime	2
+400/5.6 Nikkor*ED	Ai	prime	855
+400/5.6 Nikkor*ED	K	prime	1177
+400/5.6 Nikkor*ED IF	Ai	prime	2791
+400/5.6 Nikkor*ED IF	Ai-S	prime	8898
+400/5.6 P.C Auto	C	prime	1410
+43-86/3.5 Zoom	Ai	zoom	238150
+43-86/3.5 Zoom	K	zoom	29951
+43-86/3.5 Zoom Auto NKJ	F	zoom	52027
+43-86/3.5 Zoom Auto Nikon	F	zoom	54261
+43-86/3.5 Zoom.C Auto	C	zoom	54118
+45/2.8 D PC-E Micro	n/a	prime	2841
+45/2.8 GN Auto C	C	prime	13047
+45/2.8 GN Auto NKJ	F	prime	23848
+45/2.8 GN Auto Nikon	F	prime	6389
+45/2.8 P	Ai-P	prime	34605
+5.5cm/3.5 Micro NKJ	F	prime	2277
+5.8cm/1.4 S Auto NKJ	F	prime	39001
+50-135/3.5 Zoom	Ai-S	zoom	31525
+50-300/4.5 Zoom*ED	Ai	zoom	2
+50-300/4.5 Zoom	Ai	zoom	659
+50-300/4.5 Zoom	K	zoom	2635
+50-300/4.5 Zoom Auto NKJ	F	zoom	8592
+50-300/4.5 Zoom Auto Nikon	F	zoom	5700
+50-300/4.5 Zoom*ED	Ai	zoom	3865
+50-300/4.5 Zoom*ED	Ai-S	zoom	6904
+50/1.2	Ai	prime	73049
+50/1.2	Ai-S	prime	149148
+50/1.2 Classic	Ai-S	prime	100
+50/1.4	AF	prime	77229
+50/1.4	Ai	prime	909635
+50/1.4	Ai-S	prime	768927
+50/1.4	K	prime	206980
+50/1.4 D	AF	prime	414471
+50/1.4 Dragon	Ai-S	prime	2000
+50/1.4 F3/T	Ai-S	prime	300
+50/1.4 G	AF-S	prime	162973
+50/1.4 Gold	Ai	prime	300
+50/1.4 New	AF	prime	64331
+50/1.4 New	K	prime	131259
+50/1.4 S Auto NKJ	F	prime	554071
+50/1.4 S Auto Nikon	F	prime	235894
+50/1.4 S.C Auto	C	prime	333735
+50/1.8	AF	prime	390425
+50/1.8	Ai	prime	404618
+50/1.8	Ai-S	prime	169551
+50/1.8 Series E	E	prime	30
+50/1.8 D	AF	prime	706896
+50/1.8 Japan	Ai-S	prime	218017
+50/1.8 New	AF	prime	403788
+50/1.8 New	Ai-S	prime	459567
+50/1.8 Series E	E	prime	814947
+50/1.8 Series E New	E	prime	1698519
+50/2	Ai	prime	312912
+50/2	K	prime	239337
+50/2 H Auto NKJ	F	prime	343254
+50/2 H Auto Nikon	F	prime	195203
+50/2 H.C Auto	C	prime	188800
+500/4 D IF-ED	AF-I	prime	903
+500/4 D IF-ED	AF-S	prime	2377
+500/4 D IF-ED II	AF-S	prime	1791
+500/4 G IF-ED VR [N]	AF-S	prime	3606
+500/4 P IF-ED	Ai-P	prime	7509
+500/5 Reflex NKJ	F	prime	2202
+500/8 Reflex	Ai*	prime	31317
+500/8 Reflex NKJ	F	prime	3657
+500/8 Reflex Nikon	F	prime	12806
+500/8 Reflex.C	C	prime	54669
+50cm/5 Reflex NKJ	F	prime	711
+55-200/4-5.6 G ED	AF-S	zoom	929561
+55-200/4.5-5.6 G IF-ED VR	AF-S	zoom	1537100
+55/1.2	Ai	prime	25518
+55/1.2	K	prime	35729
+55/1.2 S Auto NKJ	F	prime	3
+55/1.2 S Auto NKJ	F	prime	46217
+55/1.2 S Auto Nikon	F	prime	20533
+55/1.2 S.C Auto	C	prime	50556
+55/2.8 Micro	Ai-S	prime	3457
+55/2.8 Micro	AF	prime	40563
+55/2.8 Micro	Ai-S	prime	572255
+55/3.5 Micro	Ai	prime	165496
+55/3.5 Micro	K	prime	72641
+55/3.5 Micro Auto NKJ	F	prime	72561
+55/3.5 Micro-P Auto NKJ	F	prime	20111
+55/3.5 Micro-P Auto Nikon	F	prime	98347
+55/3.5 Micro-P.C Auto	C	prime	81928
+58/1.2 Noct	Ai	prime	2462
+58/1.2 Noct	Ai-S	prime	8951
+58/1.2 Noct	K,Ai	prime	2
+5cm/1.4 S Auto NKJ	F	prime	1
+5cm/2 S Auto NKJ	F	prime	2
+5cm/2 S Auto NKJ	F	prime	64294
+6.2/5.6 Fish-eye 220° NKJ	F	prime	5
+6/2.8 Fisheye	Ai-S	prime	435
+6/2.8 Fisheye Auto Nikon	Ai	prime	118
+6/2.8 Fisheye Auto Nikon	F	prime	29
+6/5.6 Fisheye 220° NKJ	F	prime	82
+6/5.6 Fisheye 220° Nikon	F	prime	109
+60/2.8 D Micro	AF	prime	288842
+60/2.8 G Micro IF-ED [N]	AF-S	prime	47043
+60/2.8 Micro	AF	prime	255807
+600/4 D IF-ED	AF-I	prime	1237
+600/4 D IF-ED	AF-S	prime	2411
+600/4 D IF-ED II	AF-S	prime	2304
+600/4 G IF-ED VR [N]	AF-S	prime	3331
+600/4 IF-ED New	Ai-S	prime	2487
+600/4 Nikkor*ED IF	Ai	prime	1179
+600/4 Nikkor*ED IF	Ai-S	prime	982
+600/5.6 IF-ED New	Ai-S	prime	2740
+600/5.6 Nikkor*ED	K	prime	181
+600/5.6 Nikkor*ED IF	Ai	prime	1513
+600/5.6 Nikkor*ED IF	Ai-S	prime	1147
+600/5.6 Nikkor*ED IF	K	prime	23
+600/5.6 P Auto NKJ	F	prime	1148
+600/5.6 P Auto Nikon	F	prime	754
+600/5.6 P.C Auto	C	prime	885
+7.5/5.6 Fisheye NKJ	F	prime	2212
+70-180/4.5-5.6 D ED Micro	AF	zoom	18487
+70-200/2.8 G IF-ED VR	AF-S	zoom	270705
+70-200/2.8 G IF-ED VR II	AF-S	zoom	51392
+70-210/4	AF	zoom	221310
+70-210/4-5.6	AF	zoom	588125
+70-210/4-5.6 D	AF	zoom	171324
+70-210/4.5-5.6 Zoom	Ai-S	zoom	26369
+70-210/4 Series E Zoom	E	zoom	184365
+70-300/4-5.6 D	AF	zoom	7872
+70-300/4-5.6 D ED	AF	zoom	401408
+70-300/4-5.6 G	AF	zoom	830610
+70-300/4.5-5.6 G IF-ED VR	AF-S	zoom	648431
+75-150/3.5 Series E Zoom	E	zoom	262866
+75-240/4.5-5.6 D	AF	zoom	99625
+75-300/4.5-5.6	AF	zoom	219904
+8.5-25cm/4-4.5 Auto Tele-Zoom	F	prime	6267
+8/2.8 Fisheye Auto NKJ	F	prime	2
+8/2.8 Fisheye	Ai-S	prime	4456
+8/2.8 Fisheye Auto NKJ	F	prime	1275
+8/2.8 Fisheye Auto Nikon	Ai	prime	2448
+8/8 Fish-eye NKJ	F	prime	2
+8/8 Fish-eye NKJ	F	prime	1378
+80-200/2.8 D ED	AF	zoom	163085
+80-200/2.8 D ED New	AF	zoom	267483
+80-200/2.8 D IF-ED	AF-S	zoom	61492
+80-200/2.8 ED	AF	zoom	187334
+80-200/2.8 Zoom*ED	Ai-S	zoom	1539
+80-200/4.5-5.6 D	AF	zoom	199811
+80-200/4.5 Zoom	Ai	zoom	13832
+80-200/4.5 Zoom	K	zoom	45963
+80-200/4.5 Zoom Auto NKJ	F	zoom	2173
+80-200/4.5 Zoom Auto Nikon	F	zoom	22245
+80-200/4.5 Zoom New	Ai	zoom	152724
+80-200/4.5 Zoom.C Auto	C	zoom	52626
+80-200/4 Zoom	Ai-S	zoom	147991
+80-400/4.5-5.6 D ED VR	AF	zoom	173363
+80/2.8	F3AF	prime	11553
+800/5.6 IF-ED	Ai-S	prime	2972
+800/8 Nikkor*ED	K	prime	75
+800/8 Nikkor*ED IF	Ai	prime	275
+800/8 Nikkor*ED IF	Ai-S	prime	857
+800/8 P Auto NKJ	F	prime	437
+800/8 P Auto Nikon	F	prime	343
+800/8 P.C Auto	C	prime	420
+85-250/4-4.5 Auto Tele-Zoom	F	zoom	377
+85-250/4 Zoom Auto NKJ	F	zoom	1552
+85/1.4	Ai-S	prime	66630
+85/1.4 D IF	AF	prime	69750
+85/1.8	AF	prime	107925
+85/1.8	K	prime	33163
+85/1.8 H Auto NKJ	F	prime	3
+85/1.8 D	AF	prime	178040
+85/1.8 H Auto NKJ	F	prime	39721
+85/1.8 H Auto Nikon	F	prime	34661
+85/1.8 H.C Auto	C	prime	12004
+85/2	Ai	prime	89309
+85/2	Ai-S	prime	87756
+85/2.8 D PC Micro	n/a	prime	8905
+85/2.8 D PC-E Micro	n/a	prime	1959
+85/3.5 G Micro IF-ED VR	AF-S	prime	5095

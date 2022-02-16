@@ -1,0 +1,41 @@
+# Bloxsom Plugin:Fnumber
+# Author: Gustaf Erikson
+# Version: 1.0
+
+package fnumber;
+
+sub start {
+    1;
+}
+
+sub story {
+    my ( $pkg, $path, $filename, $story_ref, $title_ref, $body_ref ) = @_;
+    $$title_ref =~ s(f/(\d+|\d\.\d|\d-\d|\d-\d\.\d|\d\.\d-\d|\d.\d-\d\.\d))(&#x0192;/$1)g;
+    $$body_ref =~ s(f/(\d+|\d\.\d|\d-\d|\d-\d\.\d|\d\.\d-\d|\d.\d-\d\.\d))(&#x0192;/$1)g;
+    1;
+}
+
+1;
+
+__END__
+
+=head1 NAME
+
+Blosxom Plug-in: fnumber
+
+=head1 DESCRIPTION
+
+Will replace text in the form of "f/2.8" with a Unicode hooked italic lowercase f (U0192). Handles ranges such as "f/3.5-5.6". 
+
+=head1 AUTHOR
+
+Gustaf Erikson -- http://gustaf.symbiandiaries.com/weblog
+
+=head1 LICENSE
+
+This source is submitted to the public domain.  Feel free to use and
+modify it.  If you like, a comment in your modified source attributing
+credit to myself for my original work would be appreciated.
+
+THIS SOFTWARE IS PROVIDED AS IS AND WITHOUT ANY WARRANTY OF ANY KIND.
+USE AT YOUR OWN RISK!

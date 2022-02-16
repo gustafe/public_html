@@ -1,0 +1,259 @@
+#!/usr/bin/perl -w
+# based on a script by cowboyd, found at <http://www.cogentdude.com/node/view/11&e=7370>
+# crudely rehacked by Gustaf Erikson <gerikson@gmail.com>
+
+use XML::SAX::Base;
+use XML::SAX::ParserFactory;
+use Time::Local;
+
+my $debug = 0;
+# this hash maps current MT categories to blosxom categories/directories
+my %cat_dirs = ( 'books' => 'books/read',
+		 'comp' => 'comp',
+		 'life' => 'alt',
+		 'music' => 'alt',
+		 'meta' => 'comm/weblog',
+		 'mobile' => 'comm/mobile',
+		 'taco' => 'comm/mobile',
+		 'politics' => 'alt/politics',
+		 'se.pol' => 'alt/politics',
+		 'huset' => 'huset',);
+
+# where should the files be written?
+my $dest_dir = '/home/gustaf/projects/migrate/testdata';
+
+package ConversionFilter;
+
+@ISA = qw(XML::SAX::Base);
+
+
+sub characters {
+	my ($self,$data) = @_;
+	$self->{_characters} .= $data->{Data};
+}
+
+sub start_element {	
+	my ($self, $element) = @_; 
+	my $tagname = $element->{LocalName};
+	my $handle = "start_$tagname";
+	if ($self->can($handle)) {
+		$self->$handle($element);
+	} 
+	$self->SUPER::start_element($element);
+}
+
+sub end_element {
+	my ($self, $element) = @_;
+	my $tagname = $element->{LocalName};
+	my $handle = "end_$tagname";
+	if ($self->can($handle)) {
+		$self->$handle($element);
+	} 
+	$self->SUPER::end_element();
+}
+
+sub start_item {
+	my $self = shift;
+	$self->{_current_item} = new Node();
+    
+}
+
+sub end_item {
+	my $self = shift;
+#	print $self->{_current_item}->print_item()
+	$self->{_current_item}->write_to_file();
+}
+
+sub start_description {
+	my $self = shift;
+	$self->clear_characters();
+}
+
+sub end_description {
+	my $self = shift;
+	$self->{_current_item}->{description} = $self->get_characters();
+}
+
+sub start_title {
+	my $self = shift;
+	$self->clear_characters();
+}
+
+sub end_title {
+	my $self = shift;
+	$self->{_current_item}->{title} = $self->get_characters();
+}
+
+sub start_date {
+	my $self = shift;
+	$self->clear_characters();
+}
+
+sub end_date {
+	my $self = shift;
+	$self->{_current_item}->{created} = $self->get_characters();
+}
+
+sub start_link {
+    my $self = shift;
+    $self->clear_characters();
+}
+
+sub end_link {
+    my $self = shift;
+    $self->{_current_item}->{link} = $self->get_characters();
+}
+
+sub start_subject {
+    my $self = shift;
+    $self->clear_characters();
+}
+
+sub end_subject {
+    my $self = shift;
+    $self->{_current_item}->{category} = $self->get_characters();
+}
+
+sub clear_characters {
+	my $self = shift;
+	$self->{_characters} = "";
+}
+
+sub get_characters {
+	my $self = shift;
+	return $self->{_characters};
+}
+
+package Node;
+
+sub new {
+	my $class = shift;
+	return bless {}, $class;
+}
+
+
+sub print_item { # used for debugging
+    my $self = shift;
+    my $title = $self->{title};
+    my $timestamp = $self->{created};
+    my $link = $self->{link};
+    my $body = $self->{description};
+    my $cat = $self->{category};
+    return "==> $title <$timestamp> ($cat)\n" . $body . "\n". "-- $link\n\n";
+}
+
+sub write_to_file {
+    my $self = shift;
+    my $title = $self->{title};
+    my $timestamp = $self->{created};
+    my $link = $self->{link};
+    my $body = $self->{description};
+    my $cat = $self->{category};
+    my $filename;
+    my $epoch_s = str2date($timestamp);
+    if ( $title =~ m!<a href=.*>(.*)</a>! ) {
+	$filename = normalize($1) . ".txt";
+    } else {
+	$filename = normalize($title) . ".txt";
+    }
+    if ( $debug ) {
+	print "<!-- $title ($timestamp / $epoch_s) => $filename -->\n";
+	print "$body\n";
+    } else {
+	my $dest = '';
+	if ( exists($cat_dirs{$cat})) {
+	    $dest = "$dest_dir/$cat_dirs{$cat}/$filename";
+	    print "==> writing to $dest\n";
+	} else {
+	    $dest = "$dest_dir/misc/$filename";
+	    print "==> category $cat doesn't have a directory associated with it\n==> writing to $dest/misc/\n";
+	}
+	open OUT, ">$dest" or die "can' open file '$dest' for writing: $!";
+	print OUT "$title\n";
+	print OUT "$body\n";
+	close OUT;
+	utime $epoch_s, $epoch_s, $dest;
+    }
+}
+	
+sub normalize {
+    my $string = shift;
+    if ( $string =~ m!<.*>(.*)</em>! ) {
+	$string = $1;
+    }
+    $string =~ s/[,\'\":!]//g;
+    $string =~ s/[\ ]/-/g;
+    $string =~ s/[ед]/a/g;
+    $string =~ s/ц/o/g;
+  
+    return $string;
+}
+
+sub str2date { 
+    my $string = shift;
+    if ( $string =~ m!(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2}):(\d{2})\+(\d{2}:\d{2})! ) {
+	my ($yyyy, $mm, $dd, $hh, $mi, $ss, $tz) = ($1, $2, $3, $4, $5, $6, $7);
+#	my $timestamp = "$yyyy-$mm-$dd $hh:$mi:$ss";
+	my $epoch_s = Time::Local::timelocal( $ss, $mi, $hh, $dd, $mm - 1, $yyyy - 1900 );
+	return ( $epoch_s );
+    } else {
+	return (  undef );
+    }
+}
+
+
+
+
+sub mysql_escape {
+	my $string = shift;
+	$string =~ s/\n/\\n/mg;
+	$string =~ s/(\'|\")/\\$1/g;
+	return $string;
+}
+
+sub to_mysql_date {
+	my $string = shift;
+	$string =~ s/T/ /;
+	$string =~ s/\+00:00$//;
+	return $string;
+}
+
+package main;
+
+my $filename = $ARGV[0] or die "usage: $0 filename\n";
+
+# create dirs
+
+
+foreach my $cat ( keys %cat_dirs ) {
+
+    if ( ! -d "$dest_dir/$cat_dirs{$cat}" ) {
+ 	print "creating directory $dest_dir/$cat_dirs{$cat}\n";
+	system( "mkdir -p $dest_dir/$cat_dirs{$cat}" );
+	if ($? == -1) {
+	    print "failed to execute: $!\n";
+	}
+	elsif ($? & 127) {
+	    printf "child died with signal %d, %s coredump\n",
+	    ($? & 127),  ($? & 128) ? 'with' : 'without';
+	}
+	else {
+#	    printf "child exited with value %d\n", $? >> 8;
+	}
+
+    }
+}
+
+if ( ! -d "$dest_dir/misc" ) {
+    print "creating directory $dest_dir/misc\n";
+ 	mkdir("$dest_dir/misc") or die "couldn't create directory $dest_dir/misc: $!\n";
+}
+
+exit 0 if $debug;
+
+my $handler = new ConversionFilter();
+
+my $parser = new XML::SAX::ParserFactory->parser(Handler => $handler);
+
+$parser->parse_uri($filename);
+

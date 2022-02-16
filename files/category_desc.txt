@@ -1,0 +1,75 @@
+# Blosxom Plugin: category_desc
+# Author: Gustaf Erikson
+# Version: 0.1
+ 
+package category_desc;
+use strict;
+use vars qw( $description $title );
+
+# --- Configurable variables ----
+
+# populate this hash with the data you want displayed
+# the keys are the category/directory names
+# the values are the descriptions
+
+my %descriptions = (
+		    '/' => 'This is the entire weblog',
+		    'General' => 'This category contains posts of a general nature',
+		    'Technical' => 'This category contains posts of a technical nature'
+		    );
+
+# -------------------------------
+
+sub start {
+    return 1;
+}
+
+sub head {
+    my $pi = $blosxom::path_info;
+    $pi =~ s/\/?[^\/]+\..+$//;     # remove file name
+    $pi =~ s/.*\/([^\/]*)$/$1/;    # retain last dir
+    $pi ||= '/';                   # can't have empty hash key
+    $description = $descriptions{$pi};
+}
+
+sub story {
+    my ($pkg, $path, $filename, $story_ref, $title_ref, $body_ref) = @_;
+    $path =~ s/.*\/([^\/]*)$/$1/;  # retain last dir
+    $path ||= '/';                 # can't have empty hash key
+    $description = $descriptions{$path};
+    1;
+}
+
+1;
+
+__END__
+
+=head1 NAME
+
+Blosxom plugin: category_desc
+
+=head1 DESCRIPTION
+
+Provides information about categories that can be displayed on the
+category page.
+
+=head1 AUTHOR
+
+Gustaf Erikson, http://gustaf.symbiandiaries.com/weblog
+
+=head1 BUGS/TODO
+
+Configuration is a Perl hash, should be moved to a separate file and given a nicer syntax.
+
+=head1 CREDITS
+
+Thanks Stu MacKenzie for help and suggestions.
+
+=head1 LICENSE
+
+This source is submitted to the public domain.  Feel free to use and
+modify it.  
+
+THIS SOFTWARE IS PROVIDED AS IS AND WITHOUT ANY WARRANTY OF ANY KIND.
+USE AT YOUR OWN RISK!
+

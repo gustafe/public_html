@@ -1,0 +1,53 @@
+#!/usr/bin/perl -w
+
+# blosmail
+# Allows you to post (and modify) blosxom entries via email
+# Version 0+1a
+# DJ Adams June 2002
+
+# See http://www.pipetree.com/testwiki/Blosmail
+# Changes
+# 0+1b fixed secret mechanism
+# 0+1a added -secret parameter
+# 0+1  original version
+
+use strict;
+use FileHandle;
+use CGI qw/:standard/;
+
+# --- Configurable variables -----
+
+# Where are my blog entries kept?
+my $datadir = "/home/gustaf/blosxom-data";
+
+# --------------------------------
+
+$datadir = "$datadir/".param('-blog') if param('-blog');
+my $fh = new FileHandle;
+
+# Get the list of valid email addresses
+my @validEmail = $fh->open("< $datadir/blosmail.dat") ? (<$fh>) : ();
+chomp @validEmail;
+
+# Read in whole mail and split into headers and body
+my ($headers, $body);
+{
+  local $/ = undef;
+  ($headers, $body) = split("\n\n", <STDIN>, 2);
+}
+
+# Check secret if necessary
+if (param('-secret')) {
+  (my $secret, $body) = split(/\n/, $body, 2);
+  chomp $secret;
+  die "Incorrect secret sent" if $secret ne param('-secret');
+}
+
+# Check it's from a valid email address
+my ($from) = $headers =~ /^From:\s.*?<([^>]+)>.*?$/m;
+die "Entry from invalid email address" unless grep(/$from/, @validEmail);
+
+# Determine filename and write entry
+my ($filename) = $headers =~ /^Subject:\s#(.*?)\s*?$/m;
+$fh->open("> $datadir/moblog/$filename") and print $fh $body;
+chmod 0644, "$datadir/moblog/$filename";

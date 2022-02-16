@@ -1,0 +1,44 @@
+<html>
+  <head>
+<title>Teleopti World Clock</title>
+<style type="text/css"> 
+body {
+background: #073642;
+font-family: sans-serif, Helvetica, Arial;
+
+
+color: #93a1a1;
+}
+caption { font-size: 150%; font-weight: bold;}
+a { color: #268bd2; }
+a:visited { color: #6c71c4; }
+#footer { position: fixed; bottom: 0; }
+table { width:100%; }
+.citydisplay {font-size: 250%; }
+.timedisplay {font-size: 500%; font-weight: bolder; color: #b58900;}
+.datedisplay {font-size: 150%; font-style: italic; color: #268bd2}
+</style>
+</head>
+<body>
+<table cellpadding="10" cellspacing="10"><tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>US Pacific</span><br /><span id="San_Francisco_z14e" /></td> <td><span class='citydisplay'>US Mountain</span><br /><span id="Denver_z12b" /></td> <td><span class='citydisplay'><span style='color:#dc322f;'>US Central</span></span><br /><span id="Oklahoma_City_z123" /></td> <td><span class='citydisplay'>US Eastern</span><br /><span id="New_York_z161" /></td></tr> <tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>London</span><br /><span id="London_z716" /></td> <td><span class='citydisplay'><span style='color:#dc322f;'>Stockholm</span></span><br /><span id="Stockholm_z72a" /></td> <td><span class='citydisplay'>Helsinki</span><br /><span id="Helsinki_z70e" /></td> <td><span class='citydisplay'>Istanbul</span><br /><span id="Istanbul_z710" /></td></tr> <tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>Moscow</span><br /><span id="Moscow_z71d" /></td> <td><span class='citydisplay'>Dubai</span><br /><span id="Dubai_z414" /></td> <td><span class='citydisplay'>Beijing &amp; KL</span><br /><span id="Beijing_z43d" /></td> <td><span class='citydisplay'>Sydney</span><br /><span id="Sydney_z60b" /></td></tr></table><script src="https://widget.time.is/en.js"></script>
+<script>time_is_widget.init({San_Francisco_z14e: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Denver_z12b: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Oklahoma_City_z123: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+New_York_z161: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+London_z716: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Stockholm_z72a: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Helsinki_z70e: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Istanbul_z710: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Moscow_z71d: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Dubai_z414: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Beijing_z43d: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Sydney_z60b: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+}); </script>
+
+<div id="footer">
+<address>
+Find the <a href="http://time.is/" id="time_is_link">current time for any location or time zone on Time.is!</a>
+</address>
+</div>
+</body>
+</html>

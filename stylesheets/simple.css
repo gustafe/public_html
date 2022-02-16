@@ -1,0 +1,363 @@
+/* elements */
+
+
+
+IMG {
+                border: 2px solid #444;
+}
+
+/* Use appropriate serif fonts by default. */
+address, blockquote, body, caption, center, dd, dir, div, dl, dt, form,
+    h1, h2, h3, h4, h5, h6, menu, ol, p, td, th, ul {
+  font-size: 1em;
+  font-family: Georgia, Palatino, "Times New Roman", Times, serif;
+}
+
+/* Explicitly style all elements. */
+a:link {
+  color: blue;
+  background: transparent;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: purple;
+  background: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+  background: transparent;
+  text-decoration: underline;
+}
+
+a:hover { text-decoration: underline; }
+
+BIG {font-size: 1em}
+
+blockquote {
+  margin: 0.33em 3em 0.75em 1em;
+/*	font-style:  italic; */
+  line-height: 1;
+	padding-left: 1em;
+	border-left: 2px solid #ddd;
+/*  font-size: 90%; */
+
+}
+
+body {
+  margin: 0em 0% 0em 0%;
+  font: 1em/1 sans-serif;
+  background-color: #fffff0;
+  cursor: default;
+
+}
+
+BUTTON {cursor: auto}
+
+CAPTION {margin: 0em 0% 0em 0%;
+line-height: 1}
+
+code {
+  font-size: 1em;
+  font-family: monospace; /* don't override boldness/italicity by using font */
+}
+
+div {
+  margin: 0em 0% 0em 0%;
+  line-height: 1;
+}
+
+DD {margin: 0em 0% 0em 0%;
+line-height: 1}
+
+DL {margin: 0em 0% 0em 0%}
+
+DT {margin: 0em 0% 0em 0%;
+line-height: 1}
+
+h1 {
+  margin: 0.67em 0% 0.5em 0%;
+  font-size: 140%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  margin: 0.5em 0% 0.33em 0%;
+  font-size: 120%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  margin: 0.5em 0% 0.33em 0%;
+  font-size: 110%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  margin: 0.5em 0% 0.33em 0%;
+  font-size: 100%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+h5 {
+  margin: 0.5em 0% 0.33em 0%;
+  font-size: 100%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+h6 {
+  margin: 0.5em 0% 0.33em 0%;
+  font-size: 100%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+/* HR {margin: 0em 0% 0em 0%;} */
+hr { 
+  margin: 0 0% 1em 0%;
+  padding-top: 0;
+  border-width: 1px 0 0 0;
+
+}
+
+
+input { cursor: auto; }
+
+kbd { font: 1em monospace; }
+
+li {
+  margin: 0.33em 0% 0.33em 0%;
+  line-height: 1.1;
+}
+
+ol {
+  margin: 0.33em 0% 0.75em 0%;
+  padding: 0 4em 0 2em;
+  list-style: decimal;
+}
+
+ul ul ol ol, ul ol ul ol, ol ul ol ol,
+    ol ol ul ol, ol ul ol, ol ol { list-style: lower-alpha; }
+
+ol ul ol ol, ol ol ul ol, ul ol ol ol, ol ol ol { list-style: lower-roman; }
+
+ol ol ol ol {list-style: decimal}
+
+
+div.story p {
+  margin: 0.33em 0% 0.75em 0%;
+  line-height: 1.3em;
+}
+div.story blockquote p {
+	line-height: 1;
+}
+
+pre {
+  margin: 0.33em 0% 0.75em 0%;
+  padding: 10pt 0pt 10pt 2em;
+  font: 1em/1 monospace;
+  background: #FFE0F0;
+}
+
+
+samp { font: 1em monospace; }
+
+SMALL {font-size: 1em}
+
+SUB {font-size: 1em}
+
+SUP {font-size: 1em}
+
+TD {line-height: 1}
+
+textarea {
+  cursor: text;
+}
+
+TH {font: bold 1em/1 sans-serif}
+
+tt { font: 1em monospace; }
+
+ul {
+  margin: 0.33em 0% 0.75em 0%;
+  padding: 0 4em 0 2em;
+  list-style: disc;
+}
+
+ul ul, ol ol ul ul, ol ul ol ul, ul ol ol ul,
+    ol ul ul, ul ol ul { list-style: circle; }
+
+ol ul ul ul, ul ol ul ul, ul ul ol ul, ul ul ul { list-style: square; }
+
+ul ul ul ul {list-style: disc}
+
+
+/* Restyle elements in certain contexts. */
+h1 a:link {
+  color: black;
+  background: transparent;
+  text-decoration: none;
+}
+
+h1 a:visited {
+  color: black;
+  background: transparent;
+  text-decoration: none;
+}
+
+h1 a:active {
+  color: black;
+  background: transparent;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+h2 a:link, h3 a:link, h4 a:link {
+  color: black;
+  background: transparent;
+}
+
+h2 a:visited, h3 a:visited, h4 a:visited {
+  color: black;
+  background: transparent;
+}
+
+h2 a:active, h3 a:active, h4 a:active {
+  color: black;
+  background: transparent;
+}
+
+
+/* Custom styles for classes. */
+
+.dateheader {
+padding-top: .5em;
+padding-bottom: .5em;
+
+}
+
+.storylink {
+  text-align: right;
+  font-size: 80%;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+  margin: 1em 0% 2em 0%;
+}
+
+.trackbackURI {
+  font-size: 75%;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+  margin: 0em 0% 0em 0%;
+}
+
+/* purple links */
+
+.plink {font-size: 80%; 
+}
+a.plink {text-decoration: none;
+color: #c8a8ff;}
+a.plink:hover {text-decoration: underline;}
+
+
+
+/* Position page elements in liquid two-column layout using technique from
+   http://www.alistapart.com/articles/negativemargins (here simplified
+   because we're not using background colors). */
+
+#header { margin: 1em 0% 0.5em 2em; }
+
+#container {
+  width: 100%;
+  float: left;
+  margin-right: -200px;
+}
+
+#content {
+  margin-right: 200px;
+  padding: 0 4em 0 2em;
+}
+
+#sidebar {
+  width: 200px;
+  float: right;
+  font-size: 80%;
+}
+
+#footer {
+  clear: both;
+  text-align: center;
+  font-size: 90%;
+  padding-top: 1.5em;
+}
+
+/* Custom styles within page sections. */
+
+#header h1 {
+ letter-spacing: 5px;
+	font-size: 250%;
+font-style: italic;
+}
+
+#intro p {
+  font-size: 90%;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+#footer hr {
+  margin: 0 20% 1em 20%;
+  padding-top: 0;
+  border-width: 1px 0 0 0;
+}
+
+#footer p {
+    font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+#sidebar h2 {
+  margin: 1em 0% 0.33em 0%;
+  font-size: 120%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+#sidebar h3 {
+  margin: 1em 0% 0.33em 0%;
+  font-size: 110%;
+  line-height: 1;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+
+
+#sidebar ul {
+
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 2em;
+  padding-right: 0;
+  text-indent: -1em;
+  list-style: none;
+  font-family: "Lucida Grande", "Trebuchet MS",
+    Verdana, Geneva, Lucida, Arial, Helvetica, sans-serif;
+}
+

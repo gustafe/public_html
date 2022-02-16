@@ -1,0 +1,45 @@
+# -*- CPerl -*-
+# Bloxsom Plugin:Submit
+# Author: Gustaf Erikson
+# Version: 0.1
+
+package submit;
+
+# our target sites
+$delicious = '';
+$digg = '';
+$reddit = '';
+$technorati = '';
+
+# encode troublesome characters 
+sub urlencode { 
+   my $input = $_[0];
+   $input =~ s/([\W])/"%" . uc(sprintf("%2.2x",ord($1)))/eg;
+   return $input;
+}
+
+sub start {
+    1;
+}
+
+sub story {
+    my ($pkg, $path, $filename, $story_ref, $title_ref, $body_ref) = @_;
+
+    # if you use another permalink structure than I do, adjust the following
+    # variable accordingly:
+    my $url = $blosxom::url . $path . '/' . $filename . '.html';
+
+    my $title = $$title_ref;
+    $url = urlencode( $url );
+    $title = urlencode( $title );
+
+    # note, the submission URLs have simply been cribbed from another site,
+    # I have no idea if this is actually the correct way to handle them.
+    $delicious = 'http://del.icio.us/post?url='. $url . '&amp;title=' . $title;
+    $digg = 'http://digg.com/submit?phase=2&amp;url=' . $url;
+    $reddit = 'http://reddit.com/submit?url=' . $url . '&amp;title=' . $title;
+    $technorati = 'http://technorati.com/cosmos/search.html?url=' . $url;
+    1;
+}
+
+1;

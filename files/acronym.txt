@@ -1,0 +1,73 @@
+# Bloxsom Plugin:Acronym
+# Author: Gustaf Erikson
+# Version: 0.1
+# modelled after dictionary by Gregory Bair
+# and Autolink by Fletcher T. Penney
+
+package acronym;
+
+# --- Configurable variables ----
+
+# Where is the definition page
+$acronym_file = "$blosxom::datadir/acronyms";
+
+
+# -------------------------------
+
+$ignore = 0;
+
+sub start {
+	open (LINKS, $acronym_file);
+	@acrolist = <LINKS>;
+	close LINKS;
+	1;
+}
+
+sub story {
+	my ($pkg, $path, $filename, $story_ref, $title_ref, $body_ref) = @_;
+
+	if ($$story_ref =~ m/<!-- noacronym -->/gi || $$body_ref =~ m/<!-- noacronym -->/gi) {
+		$ignore = 1;
+	}
+
+	if ($ignore == 0) {
+		foreach $i (@acrolist) {
+			if ($i =~ /(.*?)=(.*)/) {
+				$acronym = $1;
+				$expansion = $2;
+
+# By default, autolinks now changes only the first occurence of a given term
+# If you want to change all occurences, 
+# change the end of the following line to '\/a>/ig'
+				$$body_ref =~ s/(?<=\s)($acronym)(?=([\s\,\!\;]|\.\s|\:\s|[\(\)]\s))/<acronym title="$expansion">$1<\/acronym>/i;
+			}
+		}
+	}
+	1;
+}
+
+1;
+
+
+__END__
+
+=head1 NAME
+
+Blosxom Plug-in: acronym
+
+=head1 DESCRIPTION
+
+Allows you to create a list of acronyms and abbreviations that are automatically converted to a <acronym> tag  whenever they are used in a story.  You can insert "<!-- noacronym -->" in a story to prevent any changes
+
+You can set your own location for the acronym data file, but by default it lives in your data directory.
+
+=head1 AUTHOR
+
+Gustaf Erikson -- http://gustaf.symbiandiaries.com/weblog
+
+
+=head1 LICENSE
+
+This source is submitted to the public domain.  Feel free to use and modify it.  If you like, a comment in your modified source attributing credit to myself, Fletcher T. Penney  and Gregory Bair for their original work would be appreciated.
+
+THIS SOFTWARE IS PROVIDED AS IS AND WITHOUT ANY WARRANTY OF ANY KIND.  USE AT YOUR OWN RISK!

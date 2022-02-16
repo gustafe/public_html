@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /gallery2
+Disallow: /blog/2004/
+Disallow: /blog/2005/
+Disallow: /blog/2006/
+Disallow: /blog/2007/
+Disallow: /blog/2008/
+Disallow: /blog/2009/
+Disallow: /newdesign
+Disallow: /blog/2010/
+Disallow: /blog/2011/
+Disallow: /blog/2012/
+Disallow: /blog/2013/
+Disallow: /blog/2014/
+Disallow: /blog/2015/
+Disallow: /blog/scratch
+Disallow: /t
+

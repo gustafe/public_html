@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<items>
+<MTEntries lastn="1000">
+<item rdf:about="<$MTEntryLink$>">
+<title><$MTEntryTitle encode_xml="1"$></title>
+<description><$MTEntryBody encode_xml="1"$></description>
+<link><$MTEntryLink$></link>
+<dc:subject><$MTEntryCategory encode_xml="1"$></dc:subject>
+<dc:creator><$MTEntryAuthor encode_xml="1"$></dc:creator>
+<dc:date><$MTEntryDate format="%Y-%m-%dT%H:%M:%S"$><$MTBlogTimezone$></dc:date>
+
+</item>
+</MTEntries>
+</items>

@@ -1,0 +1,209 @@
+/* Layout elements */
+
+#header {
+}
+
+#container {
+	width: 90%;
+	float: left;
+	margin-right: -200px;
+
+	}
+
+.story {
+  	margin-right: 200px;
+	margin-left: 2em;
+	margin-bottom: 40px;
+}
+
+
+#sidebar {
+	width: 200px;
+	float: right;
+}
+
+#footer {
+	clear: both;
+}
+
+
+/* ### Universal Elements ### */
+
+BODY { 
+	font-family: system-ui,Verdana, sans-serif, Tahoma, Arial;
+	background-color: #fffff0;
+/*	font-size: 10pt; */
+
+}
+
+a:link {
+}
+
+a:hover, a:active, a:visited {
+}
+
+a.postMeta:link {
+		text-decoration: none;
+		font-weight: bold; 
+
+}
+a.postMeta:visited {
+
+		text-decoration: none;
+		font-weight: bold; 
+
+}
+a.postMeta:hover, a.postMeta:active {
+
+		text-decoration: underline;
+}
+
+IMG { 
+		border: 0px; 
+}
+
+blockquote { font-size: 90%; }
+
+acronym {
+		border-bottom-style: dotted;
+		border-bottom-width: 1px;
+		cursor: help;
+}
+
+
+/* ### SideBar Elements ### */
+
+.sidebox { 
+	margin-left: 20px;
+		margin-bottom: 20px;
+		font-size: smaller; 
+}
+
+
+.sideboxtitlebg { 
+		width: 100%;
+		vertical-align: top;
+}
+
+h2.sideboxtitle { 
+		vertical-align: top;
+padding-bottom: 0;
+	margin-bottom: 0;
+
+}
+
+h3.sideboxsubtitle {
+padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+.menumargin { 
+		margin-left: 5px;
+          margin-top: 1px;
+		margin-bottom: 1px;
+}
+
+/* ### Header Elements ### */
+
+
+h1.title { 
+    letter-spacing: 1px;
+}
+
+h2.datetitle {
+
+	font-size: smaller; 
+}
+
+h3.articletitle {
+
+}
+
+
+/* ### Content Area Elements ### */
+
+.headertext {
+	margin-left: 2em;
+	font-size: smaller;
+}
+
+
+.datearea { 	
+	text-align: right;	
+}
+
+
+
+/* COMMENT STUFF, FIXME LATER
+
+.commentarea {
+		width: 88%;
+		margin-top: 2%;
+		margin-right: 28%;
+		margin-left: 7%;
+		border-bottom: solid 1px #000000;
+}
+
+.trackbackarea {
+		width: 88%;
+		margin-top: 2%;
+		margin-left: 28%;
+		border-bottom: solid 1px #000000;
+	font-size: smaller;
+}
+
+
+.commentformarea {
+		width: 58%;
+		margin-top: 2%;
+		margin-right: 28%;
+		margin-left: 7%;
+		border-bottom: solid 1px #000000;
+}
+*/
+
+
+
+
+
+.permalink { 
+		text-align: right;
+		font-size: smaller;
+		background-color: transparent;
+		margin-top: 5px;
+
+}
+
+
+
+/* ### Footer Elements ### */
+
+.footertext {
+		text-align: center;
+	font-size: smaller;
+}
+
+ul.sideboxItems {
+			list-style: none;
+			margin-left: 0;
+			padding-left: 0;
+			text-indent: 0;
+}
+		ul.categories {
+			list-style: none;
+			margin-left: 0;
+			padding-left: 2em;
+			text-indent: -1em;
+
+		}
+
+
+		ul.archives {
+			list-style: none;
+			margin-left: 0;
+			padding-left: 2em;
+			text-indent: -1em;
+
+		}
+
+

@@ -1,0 +1,48 @@
+<html>
+  <head>
+<title>gerikson.com World Clock</title>
+<style type="text/css"> 
+body {
+background: #073642;
+font-family: sans-serif, Helvetica, Arial;
+
+
+color: #93a1a1;
+}
+caption { font-size: 150%; font-weight: bold;}
+a { color: #268bd2; }
+a:visited { color: #6c71c4; }
+#footer { position: fixed; bottom: 0; }
+table { width:100%; }
+.citydisplay {font-size: 250%; }
+.timedisplay {font-size: 500%; font-weight: bolder; color: #b58900;}
+.datedisplay {font-size: 150%; font-style: italic; color: #268bd2}
+</style>
+</head>
+<body>
+<table cellpadding="10" cellspacing="10"><tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>US Pacific</span><br /><span id="San_Francisco_z14e" /></td> <td><span class='citydisplay'>US Mountain</span><br /><span id="Denver_z12b" /></td> <td><span class='citydisplay'>US Central</span><br /><span id="Oklahoma_City_z123" /></td> <td><span class='citydisplay'>US Eastern</span><br /><span id="New_York_z161" /></td></tr> <tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>S&atilde;o Paulo</span><br /><span id="_z17b" /></td> <td><span class='citydisplay'><span style='color:#dc322f;'>UTC</span></span><br /><span id="UTC_za00" /></td> <td><span class='citydisplay'>London</span><br /><span id="London_z716" /></td> <td><span class='citydisplay'><span style='color:#dc322f;'>Stockholm</span></span><br /><span id="Stockholm_z72a" /></td></tr> <tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>Cairo</span><br /><span id="Cairo_z00c" /></td> <td><span class='citydisplay'>Istanbul</span><br /><span id="Istanbul_z710" /></td> <td><span class='citydisplay'>Moscow</span><br /><span id="Moscow_z71d" /></td> <td><span class='citydisplay'>New Delhi</span><br /><span id="New_Delhi_z424" /></td></tr> <tr align="CENTER" valign="BOTTOM"><td><span class='citydisplay'>Yangon</span><br /><span id="Yangon_z438" /></td> <td><span class='citydisplay'>Beijing &amp; KL</span><br /><span id="Beijing_z43d" /></td> <td><span class='citydisplay'>Tokyo</span><br /><span id="Tokyo_z444" /></td> <td><span class='citydisplay'>Sydney</span><br /><span id="Sydney_z60b" /></td></tr></table><script src="https://widget.time.is/en.js"></script>
+<script>time_is_widget.init({San_Francisco_z14e: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Denver_z12b: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Oklahoma_City_z123: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+New_York_z161: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+_z17b: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+UTC_za00: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+London_z716: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Stockholm_z72a: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Cairo_z00c: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Istanbul_z710: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Moscow_z71d: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+New_Delhi_z424: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Yangon_z438: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Beijing_z43d: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Tokyo_z444: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+Sydney_z60b: { template: "<span class='timedisplay'>TIME</span><br/><span class='datedisplay'>DATE</span>", time_format:"hours:minutes", date_format: "year-monthnum-daynum"},
+}); </script>
+
+<div id="footer">
+<address>
+Find the <a href="http://time.is/" id="time_is_link">current time for any location or time zone on Time.is!</a>
+</address>
+</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+a:link { color: blue;
+background: transparent;
+text-decoration: none }
+
+a:visited {color: purple;
+background: transparent;
+text-decoration: none }
+
+
+a:hover { text-decoration: underline; }
+
+ul {
+font-size: smaller;
+font-family: Verdana, sans-serif}
+
+

@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/gerikson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gerikson.com
+    * I am gerikson (https://keybase.io/gerikson) on keybase.
+      * I have a public key ASCzoe_qBFY8MfhF1q_TFciB82Cw8dCjmyjB4xYmTnSJFwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+      "key": {
+            "eldest_kid": "0120b3a1efea04563c31f845d6afd315c881f360b0f1d0a39b28c1e316264e7489170a",
+	          "host": "keybase.io",
+		        "kid": "0120b3a1efea04563c31f845d6afd315c881f360b0f1d0a39b28c1e316264e7489170a",
+			      "uid": "a039ebb1f892add42f5abc010b4ee019",
+			            "username": "gerikson"
+				        },
+					    "merkle_root": {
+					          "ctime": 1510413129,
+						        "hash": "cd5060f84290b680ad2ef6cdce9e82408a8c31f4ae351441b19a5d6a3ba6b697f863ec1366764236eae507522d223d1f1e22b3a3e54063ae5127441501fdb83d",
+							      "hash_meta": "aacfd05ed6cc17e9de68d0ff457dfc7f0b737202be48b74cb8cef88397ba2fb6",
+							            "seqno": 1693738
+								        },
+									    "service": {
+									          "hostname": "gerikson.com",
+										        "protocol": "http:"
+											    },
+											        "type": "web_service_binding",
+												    "version": 1
+												      },
+												        "client": {
+													    "name": "keybase.io go client",
+													        "version": "1.0.34"
+														  },
+														    "ctime": 1510413159,
+														      "expire_in": 504576000,
+														        "prev": "767b898905b6896978a856cbe714edbc93fe3e5084a1dec099208c57b2e73dc9",
+															  "seqno": 19,
+															    "tag": "signature"
+															    }
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgs6Hv6gRWPDH4Rdav0xXIgfNgsPHQo5soweMWJk50iRcKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjNhMWVmZWEwNDU2M2MzMWY4NDVkNmFmZDMxNWM4ODFmMzYwYjBmMWQwYTM5YjI4YzFlMzE2MjY0ZTc0ODkxNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjNhMWVmZWEwNDU2M2MzMWY4NDVkNmFmZDMxNWM4ODFmMzYwYjBmMWQwYTM5YjI4YzFlMzE2MjY0ZTc0ODkxNzBhIiwidWlkIjoiYTAzOWViYjFmODkyYWRkNDJmNWFiYzAxMGI0ZWUwMTkiLCJ1c2VybmFtZSI6Imdlcmlrc29uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEwNDEzMTI5LCJoYXNoIjoiY2Q1MDYwZjg0MjkwYjY4MGFkMmVmNmNkY2U5ZTgyNDA4YThjMzFmNGFlMzUxNDQxYjE5YTVkNmEzYmE2YjY5N2Y4NjNlYzEzNjY3NjQyMzZlYWU1MDc1MjJkMjIzZDFmMWUyMmIzYTNlNTQwNjNhZTUxMjc0NDE1MDFmZGI4M2QiLCJoYXNoX21ldGEiOiJhYWNmZDA1ZWQ2Y2MxN2U5ZGU2OGQwZmY0NTdkZmM3ZjBiNzM3MjAyYmU0OGI3NGNiOGNlZjg4Mzk3YmEyZmI2Iiwic2Vxbm8iOjE2OTM3Mzh9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2VyaWtzb24uY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUxMDQxMzE1OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiI3NjdiODk4OTA1YjY4OTY5NzhhODU2Y2JlNzE0ZWRiYzkzZmUzZTUwODRhMWRlYzA5OTIwOGM1N2IyZTczZGM5Iiwic2Vxbm8iOjE5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQDu7bb4SGrU8XF/3mkkE8YNATvX3/Dd/TGC4BoCZyWRn+AtHxe73RVAyXJcaQpGG1sCqq+Pw0VHgFhn/8NNJiwaoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA/9nM6P7foXlJwCmzUzcXWqmXDn0tIJ4bYqsOjXdxr+KN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gerikson
+
+==================================================================

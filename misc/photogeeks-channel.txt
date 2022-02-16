@@ -1,0 +1,32 @@
+# Plan for #photogeeks on Freenode and Libera.chat
+
+Updated: 2021-05-31
+   Date: 2021-05-28
+
+The recent disruptions at Freenode have prompted a discussion to move
+to the Libera.chat network.
+
+NOTE TO FREENODE STAFF: No decision has been made as of now.
+
+Status of of channel ownership:
+
+* Freenode/#photogeeks - founder: Coraxyn, taken over from gerikson 2021-05-31
+* Libera.chat/#photogeeks - founder: Coraxyn, taken over from leonardus 
+
+## Short-term plans
+
+I will not be involved in the day-to-day management of the channel
+other than as participant.
+
+## Medium term plans
+
+Any decision on moving networks rests on the channel community.
+
+## Disclaimer
+
+This document was prepared to inform channel participants of the
+current situation. If current Freenode staff interprets it as an
+advertisment of another network, please reach out to the current
+channel founder before any action regarding channel takeover and
+removing of participants is taken.
+

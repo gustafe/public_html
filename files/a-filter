@@ -1,0 +1,31 @@
+use strict;
+
+use Irssi;
+
+%Irssi::IRSSI = ( name => 'A filter' );
+
+my %to_ignore = ( 'Idiot' => ['Durrr', 'drools'],
+                  'Racist' => ['I love Obama', 'is filled with peace for all mankind' ], );
+
+sub event_privmsg {
+# $data = "nick/#channel :text"
+    my ($server, $data, $nick, $address) = @_;
+    my ($target, $text) = split(/ :/, $data, 2);
+
+    if ( exists $to_ignore{$nick} ) {
+        $data = "$target :$to_ignore{$nick}->[0]";
+        Irssi::signal_continue($server, $data, $nick, $address);
+    }
+}
+
+sub message_irc_action {
+    my ($server, $msg, $nick, $address, $target) = @_;
+    if ( exists $to_ignore{$nick} ) {
+        Irssi::signal_continue($server, $to_ignore{$nick}->[1], $nick, $address, $target);
+    }
+}
+
+Irssi::signal_add("event privmsg", "event_privmsg");
+Irssi::signal_add("message irc action", "message_irc_action");
+
+1;

@@ -1,0 +1,12 @@
+a.skip {
+  display: none;
+  speak: none;
+}
+
+cite, address {
+  font-style: normal;
+}
+
+del, .strike {
+  text-decoration: line-through;
+}

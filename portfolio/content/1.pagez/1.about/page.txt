@@ -1,0 +1,9 @@
+title: About Gustaf Erikson
+-
+content: 
+Amateur photographer living in Stockholm.
+
+* [blog](http://gerikson.com/blog/)
+* [gerikson on Flickr](http://www.flickr.com/photos/gerikson/)
+* [gerikson on Twitter](https://twitter.com/#!/gerikson)
+* [gerikson on Tumblr](http://gerikson.tumblr.com/)
