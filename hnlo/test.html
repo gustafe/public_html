@@ -1,0 +1,76 @@
+
+<html>
+<head>
+<title>HN&&LO</title>
+
+<link rel="stylesheet" href="http://gerikson.com/stylesheets/hnlo.css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+<meta charset="utf-8"/>
+
+
+<script src="http://gerikson.com/js/pretty.js"></script>
+
+<script>
+window.onload = function(){
+	var links = document.getElementById("generated");	
+
+		if ( links.getAttribute("timestamp")) {
+			var date = prettyDate(links.getAttribute("timestamp"));
+			if ( date )
+				links.innerHTML = date;
+		}
+};
+</script>
+
+</head>
+<body>
+
+<h1>HN&&LO</h1>
+
+<p>This page shows the URLs submitted to both <a
+href="https://news.ycombinator.com/">Hacker News</a> and <a
+href="https://lobste.rs">Lobste.rs</a> in the last <strong>3</strong> days.<p>
+
+<p>Each entry contains links to the submission on each site, and the
+submission's <strong>S</strong>core, number of <strong>C</strong>omments, and
+the <strong>R</strong>atio of comments to score (if the sum of scores and
+comments is greater than 9).</p>
+
+<p>This page was generated <span id="generated" 
+timestamp="2019-07-21 10:02:11" 
+title="2019-07-21 10:02:11">2019-07-21 10:02:11</span>. It usually
+updates hourly. <a href="about.html">About</a>.</p>
+
+
+
+<h2 class="link">
+<img src="http://gerikson.com/img/lo_hn.png"/>&nbsp;
+<a href="https://twitter.com/RooneyMcNibNug/status/1152327783055601664">A Chapter from the FBI's History with OpenBSD and an OpenSSH Vuln</a>&nbsp;<span class="domain">twitter.com</span></h2>
+
+
+
+<p>
+<span class="lo">
+First seen on <strong>Lobste.rs</strong>
+as <a href="https://lobste.rs/s/hiddok">A Chapter from the FBI's History with OpenBSD and an OpenSSH Vuln</a>
+on <span class="tooltip" title="2019-07-20 13:57:31Z">20 Jul 2019</span>, 
+submitted by <a href="https://lobste.rs/u/rooneymcnibnug">rooneymcnibnug</a>.</span>&nbsp;
+<span class="tooltip" title="Score | Comments | &lt;Ratio c/s&gt;"><code>S:30 C:0 R:0.00</code></span></p>
+
+
+<p>
+<span class="hn">
+Then appeared on <strong>Hacker News</strong>
+<span class="tooltip" title="2019-07-21 04:07:17Z">14h9m</span> later
+as <a href="https://news.ycombinator.com/item?id=20489904">A Chapter from the FBI's History with OpenBSD and an OpenSSH Vuln</a>
+submitted by <a href="https://news.ycombinator.com/user?id=signa11">signa11</a>.</span>
+&nbsp
+<span class="tooltip" title="Score | Comments | &lt;Ratio c/s&gt;"><code>S:5 C:0 </code></span></p>
+
+<hr />
+<address>
+<p>Lovingly handcrafted in Perl 5 using Emacs. Scheduling services generously provided by Vixie Cron.
+</address>
+</body>
+</html>

@@ -1,0 +1,2338 @@
+
+http://akrl.sdf.org/gccemacs.html ‎gccemacs    2019-11-28 10:53:41Z hn
+    2019-11-28 19:06:06Z hn
+    2019-11-29 18:36:09Z hn
+    2019-12-01 05:53:42Z lo
+  
+https://benedikt-bitterli.me/histogram-tiling/ Histogram-Preserving Tiling    2019-11-28 16:58:37Z hn
+    2019-11-29 03:06:38Z lo
+    2019-12-01 11:29:30Z hn
+  
+https://www.youtube.com/watch?v=m0rSJ9xdsdk Interactive Programming for Artificial Intelligence    2019-11-28 19:43:23Z hn
+    2019-12-04 10:44:46Z lo
+  
+https://rachelbythebay.com/w/2019/11/28/sb8200/ Resolving a minor turkey day networking mystery    2019-11-29 06:52:06Z hn
+    2019-11-29 13:36:29Z lo
+    2019-12-01 20:08:53Z hn
+  
+https://drewdevault.com/2019/11/29/dotorg.html Save .ORG    2019-11-29 13:47:11Z lo
+    2019-11-29 14:30:23Z hn
+    2019-11-30 00:47:52Z hn
+    2019-12-01 20:14:02Z hn
+  
+https://www.youtube.com/watch?v=5fG_lyNuEAw React to the Future    2019-11-29 14:08:23Z hn
+    2019-11-30 00:14:56Z hn
+    2019-12-01 19:19:41Z hn
+    2019-12-09 04:07:06Z lo
+  
+https://letterstoanewdeveloper.com/2019/01/28/learn-two-languages/ Learn two programming languages    2019-11-29 16:20:48Z lo
+    2019-11-29 16:21:12Z hn
+    2019-12-01 20:15:54Z hn
+    2020-04-22 16:25:04Z hn
+    2020-10-17 13:16:54Z hn
+  
+http://tycon.github.io/git-inconsistencies.html Vagaries of Git Merge    2019-11-29 17:40:43Z hn
+    2019-11-30 02:27:03Z lo
+    2019-12-01 20:18:27Z hn
+  
+https://www.youtube.com/watch?v=_j544ELauus 1958 FACOM 128B Japanese Relay Computer, still working    2019-11-30 00:34:34Z hn
+    2019-12-12 05:34:40Z lo
+  
+https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/ Go memory ballast    2019-11-30 14:35:23Z hn
+    2019-12-02 12:49:10Z lo
+  
+https://soptik.tech/articles/beware-of-shell-globs.html Beware of shell globs    2019-11-30 15:50:07Z hn
+    2019-11-30 22:58:46Z lo
+    2019-12-01 09:24:27Z hn
+  
+https://0a.io/chapter1/calculus-explained.html Calculus Explained with pics and gifs    2019-11-30 17:41:36Z hn
+    2019-12-01 08:21:51Z lo
+  
+http://craftinginterpreters.com/garbage-collection.html Garbage Collection · Crafting Interpreters    2019-11-30 18:58:14Z hn
+    2019-12-01 10:54:06Z lo
+  
+https://rachelbythebay.com/w/2019/11/30/plug/ That packet looks familiar, and that one, and that one    2019-11-30 21:31:56Z hn
+    2019-11-30 22:11:41Z lo
+    2019-12-02 00:39:49Z hn
+  
+https://oli.me.uk/neovim-configuration-and-plugins-in-fennel-lisp/ Neovim configuration and plugins in Fennel (Lisp)    2019-11-30 22:00:22Z hn
+    2019-12-01 17:33:00Z hn
+    2019-12-01 20:50:13Z lo
+  
+https://daiyi.co/blog/2017/07/19/a-smol-comic-about-clojure/ a smol comic about Clojure    2019-12-01 00:36:49Z lo
+    2019-12-01 00:37:22Z hn
+  
+https://lwn.net/Articles/326505/ People should aim to make “badly written” code “just work” (2009)    2019-12-01 02:14:34Z hn
+    2019-12-01 02:18:49Z lo
+    2019-12-01 04:27:21Z pr
+  
+https://victorzhou.com/blog/bag-of-words/ A Simple Explanation of the Bag-of-Words Model    2019-12-01 03:48:57Z lo
+    2019-12-01 09:21:35Z hn
+  
+http://terathon.com/blog/rgb-xyz-conversion-matrix-accuracy/ RGB/XYZ Conversion Matrix Accuracy    2019-12-01 04:59:29Z lo
+    2020-01-24 22:38:02Z hn
+  
+https://tech.fpcomplete.com/rust/pid1 Implementing pid1 with Rust and async/await    2019-12-01 07:06:42Z hn
+    2019-12-06 18:42:17Z lo
+  
+https://sysadvent.blogspot.com/2019/12/day-1-alerting-with-prometheus.html SysAdvent Day 1 - Alerting with Prometheus    2019-12-01 07:24:25Z lo
+    2019-12-01 23:41:07Z hn
+  
+https://github.com/manateelazycat/emacs-application-framework EAF: Extending Emacs with GUI Support Using Python PyQt    2019-12-01 08:09:59Z hn
+    2019-12-01 10:59:48Z lo
+    2020-05-10 18:52:13Z hn
+    2021-01-17 15:22:31Z hn
+  
+https://pointlessramblings.com/posts/Why_You_Should_Try_pyinfra/ Why you should try pyinfra    2019-12-01 08:54:41Z hn
+    2019-12-01 12:46:17Z pr
+    2020-06-04 19:05:26Z lo
+  
+https://functional.christmas/2019/1 What is Functional Programming?    2019-12-01 14:14:27Z hn
+    2019-12-01 14:28:20Z lo
+    2019-12-01 14:37:24Z pr
+    2019-12-02 10:25:26Z hn
+  
+https://initialcommit.io/blog/Technical-Guide-VCS-Internals A Technical Guide to Version Control System (VCS) Internals    2019-12-01 17:16:11Z pr
+    2019-12-02 00:09:42Z lo
+    2019-12-02 01:13:26Z hn
+    2019-12-06 11:33:33Z hn
+  
+https://cgamesplay.com/post/2019/12/01/dotfiles/ Thoughts on dotfiles    2019-12-01 17:46:58Z hn
+    2019-12-01 17:53:13Z lo
+    2019-12-03 10:34:20Z hn
+  
+https://wiki.c2.com/?EmacsIsSuperman Emacs Is Superman    2019-12-01 18:45:51Z lo
+    2020-08-09 15:29:46Z lo
+  
+https://fire.ci/blog/the-difference-between-ci-and-cd/ The real difference between CI and CD    2019-12-01 21:13:46Z hn
+    2019-12-02 12:39:09Z lo
+  
+https://squadrick.github.io/journal/better-ipc-locks.html (Better) Interprocess Locks    2019-12-01 21:16:13Z hn
+    2019-12-01 21:18:39Z lo
+    2019-12-01 21:22:42Z pr
+  
+https://flak.tedunangst.com/post/ryzen-build-for-openbsd ryzen build (for openbsd)    2019-12-01 22:28:45Z lo
+    2019-12-02 18:18:39Z hn
+  
+http://adventures.michaelfbryan.com/posts/how-to-riir/ How to RiiR    2019-12-02 00:15:53Z lo
+    2020-01-16 09:43:47Z hn
+  
+https://twitter.com/jessfraz/status/1201276464630390784 "On The Metal" podcast announcement    2019-12-02 01:05:09Z lo
+    2019-12-02 08:39:07Z hn
+  
+https://blog.mindlessness.life/2019/12/01/tags-simplified.html TAGS, simplified    2019-12-02 08:13:55Z lo
+    2019-12-02 14:02:05Z hn
+    2019-12-16 09:26:17Z hn
+  
+https://www.fast.ai/2019/12/02/nbdev/ nbdev: use Jupyter Notebooks for everything    2019-12-02 10:31:58Z hn
+    2019-12-02 14:05:43Z pr
+    2019-12-02 22:24:51Z lo
+  
+http://www.os2museum.com/wp/wireless-networking-in-dos/ Wireless Networking in DOS    2019-12-02 10:44:59Z lo
+    2019-12-03 14:01:45Z hn
+  
+https://nakedsecurity.sophos.com/2019/12/02/fake-android-apps-uploaded-to-play-store-by-notorious-sandworm-hackers/ Fake Android apps uploaded to Play store by notorious Sandworm hackers    2019-12-02 11:33:46Z hn
+    2019-12-02 11:35:11Z lo
+  
+https://www.djangoproject.com/weblog/2019/dec/02/django-3-released/ Django 3.0 Released    2019-12-02 11:45:48Z hn
+    2019-12-02 13:10:03Z lo
+  
+https://flak.tedunangst.com/post/go-regexpReplace-notes go regexp.Replace notes    2019-12-02 12:49:51Z hn
+    2019-12-02 22:20:19Z lo
+  
+https://observablehq.com/@jobleonard/ordered-error-diffusion-dithering Ordered Error Diffusion Dithering    2019-12-02 13:22:54Z hn
+    2021-01-05 12:24:30Z lo
+  
+https://julien.danjou.info/properly-managing-your-gitignore/ Properly managing your .gitignore file    2019-12-02 13:37:57Z lo
+    2019-12-08 14:36:36Z hn
+  
+https://blog.jessfraz.com/post/born-in-a-garage/ Born in a Garage    2019-12-02 14:11:53Z hn
+    2019-12-02 14:23:54Z lo
+  
+https://www.zdnet.com/article/microsoft-were-creating-a-new-rust-based-programming-language-for-secure-coding/ Microsoft: We're creating a new Rust-based programming language for secure coding    2019-12-02 14:57:02Z pr
+    2019-12-02 15:00:17Z hn
+    2019-12-03 05:24:37Z pr
+    2019-12-03 08:10:07Z lo
+    2019-12-04 14:26:16Z pr
+  
+https://github.com/watscho/express-graphql-mongodb-boilerplate Node.js boilerplate / Authentication from scratch - (express, graphql, mongodb)    2019-12-02 14:57:50Z hn
+    2019-12-05 08:42:45Z hn
+    2019-12-09 09:34:39Z hn
+    2019-12-12 18:54:57Z lo
+    2019-12-14 06:30:52Z hn
+    2019-12-18 09:08:07Z hn
+    2019-12-23 08:14:51Z hn
+    2020-01-02 21:30:23Z hn
+    2020-01-08 16:18:47Z hn
+    2020-01-18 08:00:53Z hn
+    2020-02-13 16:40:50Z hn
+  
+https://mail-index.netbsd.org/netbsd-announce/2019/12/02/msg000305.html First release candidate for NetBSD 9.0 available    2019-12-02 15:00:41Z hn
+    2019-12-02 15:00:46Z lo
+    2019-12-02 23:12:33Z hn
+  
+https://blog.anp.lol/rust/moxie-intro/ moxie: incremental declarative UI in Rust    2019-12-02 15:17:21Z hn
+    2019-12-02 16:25:25Z pr
+    2019-12-03 04:07:28Z lo
+  
+https://getstream.io/blog/building-an-end-to-end-encrypted-chatbot-with-stream-react-chat-virgil-security-and-google-dialogflow/ E2E Encrypted Chat Tutorial with Stream, Virgil, and Dialogflow    2019-12-02 15:26:38Z pr
+    2019-12-02 16:13:23Z lo
+    2019-12-02 16:38:05Z hn
+  
+https://blog.mozilla.org/security/2019/12/02/help-test-firefoxs-built-in-html-sanitizer-to-protect-against-uxss-bugs/ Help Test Firefox’s built-in HTML Sanitizer to protect against UXSS bugs    2019-12-02 15:31:28Z lo
+    2019-12-02 16:04:25Z hn
+  
+https://dzone.com/articles/keydb-and-the-tao-of-the-unikernel KeyDB and the Tao of the Unikernel    2019-12-02 16:58:39Z lo
+    2019-12-10 01:01:45Z pr
+  
+https://kwa.ng/procedurally-generated-svg-landscapes/ Procedurally Generated SVG Landscapes    2019-12-02 17:29:59Z hn
+    2019-12-02 20:16:39Z pr
+    2019-12-03 10:29:36Z lo
+    2019-12-03 12:52:20Z hn
+  
+https://aws.amazon.com/braket/ Explore and experiment with quantum computing on AWS    2019-12-02 17:41:19Z hn
+    2019-12-02 19:43:24Z hn
+    2019-12-03 14:00:54Z hn
+    2020-08-14 02:57:06Z lo
+    2020-08-14 15:35:49Z hn
+    2020-08-15 01:52:11Z hn
+    2020-08-20 05:57:11Z hn
+  
+https://blog.webb.page/2019/a-personal-api A personal API    2019-12-02 18:05:32Z hn
+    2019-12-28 19:53:58Z lo
+  
+https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/ Amazon Braket – Get Started with Quantum Computing    2019-12-02 18:25:21Z hn
+    2019-12-02 19:47:03Z lo
+  
+https://yorickpeterse.com/articles/deciding-when-to-collect-garbage/ Deciding when to collect garbage    2019-12-02 18:37:43Z lo
+    2019-12-02 18:48:19Z hn
+    2019-12-03 05:44:28Z hn
+  
+https://blog.jonlu.ca/posts/spf-dkim Email authentication: SPF, DKIM and DMARC out in the wild    2019-12-02 18:42:54Z lo
+    2019-12-02 22:23:49Z hn
+  
+https://www.sanity.io/blog/why-we-wrote-yet-another-parser-compiler Why we wrote yet another parser compiler    2019-12-02 19:03:22Z hn
+    2019-12-02 19:58:43Z lo
+    2019-12-04 20:00:43Z hn
+    2019-12-12 06:28:07Z hn
+  
+https://plaintextproject.online/ The Plain Text Project    2019-12-02 19:07:04Z hn
+    2019-12-03 13:48:44Z lo
+  
+http://www.brendangregg.com/blog/2019-12-02/bpf-a-new-type-of-software.html BPF: A New Type of Software    2019-12-02 21:08:40Z hn
+    2019-12-02 21:33:56Z lo
+    2019-12-03 09:24:52Z hn
+    2019-12-03 12:04:05Z pr
+  
+http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf How can you be so certain?    2019-12-02 21:35:00Z hn
+    2019-12-03 12:21:50Z hn
+    2019-12-04 01:26:08Z lo
+    2019-12-04 01:41:43Z hn
+    2020-01-02 23:58:18Z hn
+    2020-01-22 09:27:04Z hn
+  
+https://pythonspeed.com/articles/pandas-reduce-memory-lossy/ Reducing Pandas memory usage with lossy compression    2019-12-02 21:46:44Z hn
+    2019-12-02 21:47:09Z lo
+  
+https://github.com/kelvich/tlaplus_jupyter Jupyter kernel for TLA+    2019-12-02 23:26:47Z hn
+    2019-12-03 01:52:39Z lo
+  
+https://gist.github.com/rgs/6509585 Falsehoods programmers believe about prices    2019-12-03 00:12:45Z lo
+    2019-12-03 15:14:48Z pr
+    2019-12-04 19:09:37Z hn
+    2021-01-13 16:45:34Z hn
+  
+https://unicodepowersymbol.com/we-did-it-how-a-comment-on-hackernews-lead-to-4-%c2%bd-new-unicode-characters/ We did it! How a comment on HackerNews lead to 4 ½ new Unicode characters (2016)    2019-12-03 04:21:13Z hn
+    2019-12-03 11:39:04Z pr
+    2019-12-03 17:27:29Z lo
+  
+https://www.taniarascia.com/overview-of-css-concepts/ CSS: An Art, a Science, a Nightmare    2019-12-03 06:30:17Z lo
+    2019-12-03 14:24:33Z hn
+  
+https://functional.christmas/2019/3 Immutable by default    2019-12-03 07:27:18Z hn
+    2019-12-03 07:42:06Z lo
+    2019-12-03 07:42:17Z pr
+    2020-03-23 17:18:17Z hn
+  
+https://andregarzia.com/2019/12/a-week-with-the-surface-pro-x.html A week with the Surface Pro X    2019-12-03 10:11:33Z lo
+    2020-01-26 01:21:31Z hn
+  
+https://www.youtube.com/watch?v=MKf6KfdTems Test Fast, Fix More - Property based testing with Hypothesis by Alexander Hultnér    2019-12-03 12:23:29Z lo
+    2019-12-03 20:13:51Z hn
+    2019-12-08 14:38:50Z hn
+  
+https://blog.rust-lang.org/inside-rust/2019/12/02/const-prop-on-by-default.html Constant propagation is now on by default in nightly    2019-12-03 12:36:47Z pr
+    2019-12-04 02:32:57Z lo
+  
+http://blog.loadzero.com/blog/si78c/ Space Invaders in C    2019-12-03 12:46:44Z lo
+    2019-12-03 12:49:06Z pr
+    2019-12-03 12:54:42Z hn
+    2019-12-06 05:53:37Z hn
+  
+https://www.theverge.com/2019/12/3/20980741/fake-news-facebook-twitter-misinformation-lies-fact-check-how-to-internet-guide How to fight lies, tricks, and chaos online    2019-12-03 14:19:01Z hn
+    2019-12-04 06:03:38Z hn
+    2019-12-05 10:38:59Z hn
+    2019-12-12 15:34:04Z hn
+    2020-01-15 07:43:57Z hn
+    2020-01-16 20:46:50Z lo
+  
+https://vim.reversed.top/ Big Pile of Vim-like    2019-12-03 14:20:53Z hn
+    2019-12-03 14:52:08Z lo
+  
+https://foonathan.net/2019/11/implementer-vs-user-names/#content Naming Things: Implementer vs. User Names    2019-12-03 14:38:04Z pr
+    2019-12-04 02:32:24Z lo
+  
+https://programming.guide/worlds-most-copied-so-snippet.html The most copied StackOverflow snippet of all time is flawed    2019-12-03 15:15:24Z pr
+    2019-12-03 15:57:17Z hn
+    2019-12-04 00:59:16Z hn
+    2019-12-04 02:32:13Z lo
+  
+http://www.chrisfenton.com/the-zedripper-part-1/ ZedRipper: A 16-core Z80 laptop    2019-12-03 15:50:39Z hn
+    2019-12-10 19:59:14Z hn
+    2019-12-11 16:34:16Z lo
+    2019-12-11 18:55:35Z pr
+  
+https://michaelfeathers.silvrback.com/scaling-and-the-friction-of-dimension Scaling and the Friction of Dimension    2019-12-03 16:38:09Z lo
+    2019-12-03 19:14:28Z hn
+    2020-01-16 15:18:52Z hn
+  
+https://www.tbray.org/ongoing/When/201x/2019/12/02/Strongly-Typed-Events Strongly Typed Events    2019-12-03 17:11:24Z hn
+    2019-12-03 17:28:23Z pr
+    2019-12-04 10:23:24Z hn
+    2019-12-05 22:20:58Z hn
+    2019-12-05 22:24:17Z lo
+  
+https://blog.rust-lang.org/2019/12/03/survey-launch.html Launching the 2019 State of Rust Survey    2019-12-03 17:27:29Z hn
+    2019-12-03 18:01:57Z pr
+    2019-12-04 18:14:27Z lo
+  
+https://research.swtch.com/vgo-principles The Principles of Versioning in Go (Go & Versioning, Part 11)    2019-12-03 19:22:20Z hn
+    2019-12-04 10:16:04Z lo
+    2019-12-24 15:43:49Z pr
+  
+https://areknawo.com/vs-code-is-not-what-it-seems/ VS Code is not what it seems    2019-12-03 20:58:59Z hn
+    2019-12-04 06:59:49Z lo
+    2019-12-04 07:00:20Z hn
+    2019-12-04 07:02:25Z pr
+  
+https://blog.mozilla.org/blog/2019/12/03/questions-about-org/ Questions About .org    2019-12-03 23:41:25Z hn
+    2019-12-05 19:13:57Z lo
+    2019-12-06 10:20:08Z pr
+  
+https://jvns.ca/blog/2019/12/03/solutions-to-the-tiny-window-manager-challenge/ Solutions to the tiny window manager challenge    2019-12-03 23:59:00Z lo
+    2019-12-04 04:56:41Z hn
+  
+https://blog.paranoidcoding.com/2019/12/02/borrowing.html Exploring borrowed annotations in C#    2019-12-04 00:35:29Z pr
+    2019-12-04 02:34:07Z lo
+  
+https://www.losinglena.com/ Losing Lena    2019-12-04 05:56:19Z hn
+    2019-12-09 14:46:00Z hn
+    2019-12-10 11:52:41Z lo
+  
+https://susam.in/blog/sinkholed/ Sinkholed (2019)    2019-12-04 06:45:06Z hn
+    2020-09-07 18:57:10Z lo
+  
+https://functional.christmas/2019/4 Minesweeper in Elm    2019-12-04 08:46:29Z pr
+    2019-12-04 08:49:39Z lo
+    2019-12-04 08:50:20Z hn
+  
+https://github.com/at16k/at16k Open source library and trained models for speech recognition    2019-12-04 12:55:02Z hn
+    2019-12-06 00:18:46Z lo
+  
+http://helpful.cat-v.org/Blog/2019/12/03/0/ How [sl] Switched To Plan 9    2019-12-04 13:05:41Z hn
+    2019-12-04 18:32:57Z lo
+    2019-12-05 00:58:54Z hn
+  
+https://github.com/netblue30/firejail Firejail: Sandbox Linux Applications    2019-12-04 13:38:22Z hn
+    2020-01-17 15:26:27Z hn
+    2020-11-10 21:39:10Z hn
+    2020-11-11 11:45:47Z lo
+  
+https://www.gitclear.com/blog/introducing_open_repos_a_free_product_to_aid_open_source_development Open Repos: a free product to aid open source development    2019-12-04 16:18:09Z hn
+    2019-12-04 17:22:18Z lo
+    2019-12-04 22:35:58Z pr
+  
+https://arstechnica.com/information-technology/2019/12/hackerone-breach-lets-outside-hacker-read-customers-private-bug-reports/ HackerOne breach lets outside hacker read customers’ private bug reports    2019-12-04 16:23:49Z lo
+    2019-12-04 23:15:28Z hn
+    2019-12-05 11:55:10Z hn
+    2019-12-07 13:57:18Z hn
+  
+https://hacks.mozilla.org/2019/12/using-webassembly-from-dotnet-with-wasmtime/ Using WebAssembly from .NET with Wasmtime    2019-12-04 16:24:51Z hn
+    2019-12-04 21:45:51Z pr
+    2019-12-04 22:12:01Z pr
+    2019-12-05 03:53:26Z lo
+  
+https://medium.com/@spiceywasabi/7724332663d2 Rock the Cash Box    2019-12-04 17:27:46Z hn
+    2019-12-04 17:47:34Z pr
+    2019-12-04 21:23:30Z lo
+  
+https://www.openwall.com/lists/oss-security/2019/12/04/5 Authentication vulnerabilities in OpenBSD    2019-12-04 20:57:38Z lo
+    2019-12-04 21:39:45Z hn
+  
+https://mailman.nanog.org/pipermail/nanog/2019-December/104502.html Interoperability Issue of Google Mail and G Suite    2019-12-04 21:09:19Z hn
+    2019-12-04 21:13:15Z lo
+  
+http://news.mit.edu/2019/computing-magnetic-waves-efficient-1128 Toward more efficient computing, with magnetic waves    2019-12-04 21:23:32Z hn
+    2019-12-05 13:47:02Z lo
+    2019-12-05 15:01:35Z hn
+  
+https://www.dougengelbart.org/content/view/378/000/ Doug's 1969 Demo    2019-12-04 23:41:21Z hn
+    2019-12-05 21:43:42Z lo
+  
+https://www.drdobbs.com/parallel/inside-softram-95/184409937 Inside SoftRAM 95 (1996)    2019-12-05 00:31:36Z lo
+    2019-12-05 04:13:51Z hn
+    2019-12-12 00:29:34Z hn
+  
+https://norvig.com/java-lisp.html Lisp as an Alternative to Java    2019-12-05 00:45:38Z hn
+    2021-04-07 03:49:17Z hn
+    2021-04-07 06:11:26Z lo
+  
+https://seclists.org/oss-sec/2019/q4/122 [CVE-2019-14899]  Inferring and hijacking VPN-tunneled TCP connections    2019-12-05 03:22:05Z hn
+    2019-12-05 13:58:19Z hn
+    2019-12-17 10:41:42Z lo
+  
+http://boston.conman.org/2019/12/04.1 Using the same blogging software for 20 years    2019-12-05 03:50:55Z lo
+    2019-12-05 04:22:06Z hn
+    2019-12-06 04:37:29Z hn
+    2019-12-12 00:29:11Z hn
+  
+https://www.amazon.com/Art-Computer-Programming-Fascicle-Preliminaries/dp/0134671791 The Art of Computer Programming, Volume 4, Fascicle 5    2019-12-05 05:12:39Z hn
+    2019-12-07 07:58:46Z lo
+  
+http://spinroot.com/pico/pjw.html PJW's Face    2019-12-05 05:36:35Z lo
+    2020-09-30 19:50:43Z hn
+  
+https://lemire.me/blog/2019/12/05/instructions-per-cycle-amd-versus-intel/ Instructions per cycle: AMD Zen 2 versus Intel    2019-12-05 06:04:09Z hn
+    2019-12-05 19:58:04Z hn
+    2019-12-06 05:17:24Z hn
+    2019-12-06 21:34:08Z lo
+  
+https://blogs.gnome.org/tbernard/2019/12/04/there-is-no-linux-platform-1/ There is no “Linux” Platform (Part 1)    2019-12-05 07:51:05Z hn
+    2019-12-06 01:13:03Z lo
+    2019-12-06 03:20:10Z hn
+    2020-05-07 17:51:58Z hn
+    2020-07-31 15:37:32Z hn
+  
+https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/ Creating a Rootkit to Learn C    2019-12-05 08:14:51Z hn
+    2019-12-05 09:43:20Z pr
+    2019-12-06 01:27:45Z lo
+  
+https://www.gwern.net/Improvements My Ordinary Life: Improvements Since the 1990s    2019-12-05 11:56:50Z hn
+    2020-02-28 10:36:05Z hn
+    2020-02-29 09:29:30Z lo
+  
+https://learnk8s.io/troubleshooting-deployments A visual guide on troubleshooting Kubernetes deployments    2019-12-05 12:22:28Z hn
+    2019-12-06 13:23:54Z pr
+    2021-01-28 13:33:07Z lo
+  
+https://www.youtube.com/watch?v=z43bmaMwagI If considered harmful: How to eradicate 95% of all your bugs in one simple step    2019-12-05 12:43:42Z hn
+    2020-12-06 10:59:37Z hn
+    2020-12-18 15:23:38Z lo
+  
+https://www.snoyman.com/blog/2019/12/rust-crash-course-09-tokio-0-2 Tokio 0.2 - Rust Crash Course lesson 9    2019-12-05 13:02:16Z lo
+    2019-12-05 13:27:50Z hn
+  
+https://en.jeffprod.com/blog/2019/automating-tasks-in-a-virtualized-os/ Automating tasks in a virtualized OS    2019-12-05 13:19:01Z hn
+    2019-12-05 18:43:14Z lo
+  
+https://gitlab.com/olaris/olaris-server olaris / olaris-server    2019-12-05 13:52:46Z lo
+    2019-12-06 04:25:03Z hn
+  
+https://gist.github.com/mfikes/a649ee58b3e9d5c8ecb91f3dbc6be224 Instructions for loading ClojureScript onto an ESP32 microcontroller    2019-12-05 13:56:26Z lo
+    2019-12-05 13:57:24Z pr
+    2019-12-05 18:13:15Z pr
+    2019-12-05 19:14:21Z hn
+  
+https://blog.petdance.com/2019/12/04/thinking-functional-in-perl/ An unexpected benefit of thinking functional in Perl    2019-12-05 15:24:05Z lo
+    2019-12-05 17:41:28Z hn
+  
+https://aws.amazon.com/builders-library/ How Amazon builds and operates distributed systems    2019-12-05 17:28:24Z hn
+    2019-12-07 15:42:34Z lo
+  
+https://travisdowns.github.io/blog/2019/12/05/kreg-facts.html A note on mask registers    2019-12-05 17:45:59Z hn
+    2019-12-05 17:46:04Z pr
+    2019-12-06 01:28:38Z lo
+  
+https://www.swiftlatex.com SwiftLaTeX    2019-12-05 18:25:36Z lo
+    2019-12-06 00:29:51Z hn
+  
+https://ethw.org/First-Hand:No_Damned_Computer_is_Going_to_Tell_Me_What_to_DO_-_The_Story_of_the_Naval_Tactical_Data_System,_NTDS The Story of the Naval Tactical Data System, NTDS    2019-12-05 22:43:48Z hn
+    2019-12-06 00:40:07Z lo
+    2020-06-20 01:26:42Z hn
+  
+https://apenwarr.ca/log/20120326 [2012] A profitable, growing, useful, legal, well-loved... failure    2019-12-05 23:40:35Z lo
+    2019-12-06 07:41:04Z hn
+  
+https://github.com/gregfjohnson/aplette aplette: a version of APL is oriented toward scripting within a Unix-style computing    2019-12-06 01:08:58Z hn
+    2019-12-06 17:46:37Z hn
+    2019-12-07 20:14:56Z hn
+    2019-12-09 05:12:34Z hn
+    2020-01-09 15:33:13Z lo
+    2020-01-09 15:46:13Z pr
+  
+https://github.com/trekhleb/nano-neuron NanoNeuron - 7 simple JavaScript functions that will give you a feeling of how machines can learn    2019-12-06 07:04:55Z hn
+    2019-12-06 07:14:34Z lo
+    2019-12-06 14:29:27Z pr
+  
+https://dev.to/baweaver/the-night-before-code-freeze-1146 The Night Before Code Freeze    2019-12-06 07:22:53Z lo
+    2019-12-06 08:15:12Z hn
+  
+https://www.technologyreview.com/s/614775/a-new-way-to-make-quadratic-equations-easy/ A new way to make quadratic equations easy    2019-12-06 10:49:42Z hn
+    2019-12-07 06:13:02Z lo
+  
+http://metaredux.com/posts/2019/12/06/ruby-where-do-we-go-now.html Ruby, Where do We Go Now?    2019-12-06 12:55:15Z lo
+    2019-12-07 05:20:06Z hn
+  
+https://dev.to/alediaferia/git-tips-for-trunk-based-development-1i1g Git tips for trunk-based development    2019-12-06 13:34:51Z lo
+    2019-12-06 15:42:17Z hn
+  
+https://d4stiny.github.io/Insecure-by-Design-Weaponizing-Windows-against-Usermode-Anticheats/ Insecure by Design, Weaponizing Windows against User-Mode Anti-Cheats    2019-12-06 13:39:29Z lo
+    2019-12-06 15:38:06Z hn
+  
+https://erthalion.info/2019/12/06/postgresql-stay-curious/ PostgreSQL at low level: stay curious    2019-12-06 14:07:25Z hn
+    2019-12-06 17:54:17Z lo
+    2019-12-06 18:29:01Z pr
+  
+https://bytes.yingw787.com/posts/2019/12/06/monads/ Monads aren't as hard as you think    2019-12-06 15:08:46Z hn
+    2019-12-06 15:19:49Z lo
+  
+https://www.w3.org/blog/news/archives/8123 W3C Recommends WebAssembly to push the limits for speed, efficiency and responsiveness    2019-12-06 15:12:24Z hn
+    2019-12-06 17:21:30Z lo
+  
+https://www.quantamagazine.org/scant-evidence-of-power-laws-found-in-real-world-networks-20180215/ Scant Evidence of Power Laws Found in Real-World Networks (2018)    2019-12-06 16:06:22Z lo
+    2020-12-12 21:20:58Z hn
+    2020-12-13 22:57:44Z hn
+  
+https://vincent.bernat.ch/en/blog/2019-zsh-async-vcs-info Zsh prompt with asynchronous Git status    2019-12-06 16:50:30Z lo
+    2019-12-06 19:47:47Z pr
+    2019-12-07 10:06:25Z hn
+  
+https://github.com/WICG/ScrollToTextFragment Web Incubator Community Group: ScrollToTextFragment    2019-12-06 17:10:48Z lo
+    2020-05-09 21:10:39Z hn
+  
+https://rufposten.de/blog/2019/12/05/privacy-analysis-of-tiktoks-app-and-website/ Privacy Analysis of Tiktok’s App and Website    2019-12-06 19:26:13Z hn
+    2019-12-07 06:03:31Z pr
+    2019-12-07 15:09:04Z lo
+  
+https://anydsl.github.io/ AnyDSL - A Partial Evaluation Framework for Programming High-Performance Libraries    2019-12-06 21:16:25Z lo
+    2019-12-08 18:07:26Z hn
+  
+https://github.com/romkatv/powerlevel10k A fast reimplementation of Powerlevel9k ZSH theme    2019-12-06 21:20:39Z lo
+    2020-02-01 17:50:51Z lo
+    2020-02-01 17:51:56Z hn
+    2020-02-02 10:40:00Z hn
+    2020-02-08 13:34:19Z hn
+    2020-03-29 17:10:23Z hn
+    2020-04-29 08:10:18Z hn
+    2020-11-29 21:05:36Z hn
+    2020-12-15 15:43:48Z hn
+  
+http://marianoguerra.org/posts/rfc-elixir-module-and-struct-interoperability-for-erlang.html Elixir Module and Struct Interoperability for Erlang    2019-12-06 21:38:25Z hn
+    2019-12-06 21:39:24Z lo
+  
+https://www.youtube.com/watch?v=gibVyxpi-qA Advent of Code: Behind the Scenes    2019-12-07 02:57:50Z hn
+    2019-12-07 21:53:06Z lo
+  
+http://muratbuffalo.blogspot.com/2019/11/sosp19-file-systems-unfit-as.html File Systems Unfit as Distributed Storage Backends: Lessons from 10 Years of Ceph Evolution    2019-12-07 05:42:53Z hn
+    2019-12-07 06:02:34Z lo
+    2019-12-07 14:45:43Z hn
+  
+https://www.javaadvent.com/2019/12/smalltalk-with-the-graalvm.html Smalltalk with the GraalVM    2019-12-07 09:48:35Z hn
+    2019-12-07 17:58:53Z hn
+    2019-12-08 13:26:18Z hn
+    2019-12-08 13:54:27Z lo
+  
+http://www.oilshell.org/preview/doc/json.html JSON Support in Oil Shell    2019-12-07 10:06:35Z lo
+    2019-12-07 16:46:23Z hn
+  
+https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime/ Lisp in Vim with Slimv or Vlime    2019-12-07 10:09:06Z hn
+    2019-12-07 10:14:03Z pr
+    2019-12-08 09:57:02Z hn
+    2019-12-08 22:37:20Z pr
+    2020-05-04 16:13:10Z lo
+  
+https://emacsair.me/2017/09/01/magit-walk-through/ A walk through the Magit interface    2019-12-07 10:55:30Z hn
+    2019-12-09 21:20:26Z lo
+  
+https://markkarpov.com/post/haskell-vs-ocaml.html Haskell vs OCaml    2019-12-07 12:47:31Z lo
+    2019-12-07 16:23:11Z hn
+    2019-12-08 17:11:34Z hn
+    2020-10-11 22:20:06Z hn
+    2021-05-03 22:30:22Z hn
+  
+https://adi.tilde.institute/mkws/ make website - a preview    2019-12-07 15:09:35Z lo
+    2019-12-08 06:13:31Z hn
+    2019-12-08 10:55:46Z pr
+  
+https://0x65.dev/blog/2019-12-07/indexing-billions-of-text-vectors.html Indexing Billions of Text Vectors    2019-12-07 16:34:10Z hn
+    2019-12-08 04:04:26Z pr
+    2019-12-08 05:01:00Z lo
+  
+http://cr.openjdk.java.net/~briangoetz/valhalla/sov/02-object-model.html State of Valhalla - Section 2: Language Model    2019-12-07 16:37:54Z hn
+    2019-12-08 15:03:40Z hn
+    2019-12-08 20:24:48Z pr
+    2019-12-09 04:16:15Z lo
+  
+https://www.youtube.com/watch?v=V2YDApNRK3g Growing Human Neurons Connected to a Computer    2019-12-07 17:22:33Z hn
+    2019-12-31 16:56:49Z lo
+  
+https://savo.la/introduction-to-gate.html Introduction to Gate    2019-12-07 17:37:13Z pr
+    2019-12-08 02:35:09Z lo
+    2019-12-09 17:50:17Z hn
+  
+https://blog.kabir.sh/posts/optimal-virtual-dom.html Optimal Virtual DOM    2019-12-07 19:35:15Z hn
+    2019-12-07 19:37:40Z lo
+    2019-12-08 15:08:31Z hn
+  
+https://florimond.dev/blog/articles/2019/08/introduction-to-asgi-async-python-web/ Introduction to ASGI: Emergence of an Async Python Web Ecosystem    2019-12-07 21:31:53Z hn
+    2019-12-18 22:25:47Z lo
+    2020-01-06 18:41:37Z hn
+  
+https://medium.com/koodoo/tla-for-startups-part-1-8b162863824b TLA+ for startups (part 1)    2019-12-08 00:40:58Z lo
+    2019-12-09 20:24:13Z hn
+  
+https://lewisjkl.com/require-anti-pattern/ Require is an Anti-Pattern    2019-12-08 03:17:16Z lo
+    2019-12-08 03:17:45Z hn
+  
+https://megayuchi.com/2019/12/08/surface-pro-x-benchmark-from-the-programmers-point-of-view/ Surface Pro X benchmark from the programmer’s point of view    2019-12-08 06:40:48Z pr
+    2019-12-08 15:23:56Z lo
+  
+https://libre.space/2019/12/07/lsf-head-back-to-orbit-with-the-qubik-mission/ LSF returns to orbit with new mission featuring open hardware pico-satellites and deployer    2019-12-08 15:08:32Z lo
+    2019-12-09 04:45:08Z hn
+  
+http://www.catb.org/%7Eesr/writings/taoup/html/ch06s06.html Security Wrappers and Bernstein Chaining (2003)    2019-12-08 15:20:49Z lo
+    2019-12-08 15:47:16Z hn
+  
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls The Go runtime scheduler's clever way of dealing with system calls    2019-12-08 15:30:20Z hn
+    2019-12-08 18:19:21Z lo
+    2019-12-08 21:04:04Z pr
+  
+https://whalesalad.com/blog/doing-python-configuration-right Doing Python Configuration Right    2019-12-08 18:35:56Z lo
+    2019-12-09 00:51:00Z hn
+  
+https://medium.com/@johnlatwc/the-githubification-of-infosec-afbdbfaad1d1 The Githubification of InfoSec    2019-12-08 18:39:05Z hn
+    2019-12-10 09:08:01Z hn
+    2019-12-17 08:15:25Z lo
+  
+https://blog.cryptographyengineering.com/2019/12/08/on-client-side-media-scanning/ Can end-to-end encrypted systems detect child sexual abuse imagery?    2019-12-08 19:02:50Z hn
+    2020-01-28 00:11:14Z lo
+  
+https://www.evanjones.ca/ordered-vs-unordered-indexes.html Why databases use ordered indexes but programming uses hash tables    2019-12-08 22:20:06Z pr
+    2019-12-08 22:20:15Z hn
+    2019-12-09 04:16:38Z lo
+    2019-12-09 06:52:49Z hn
+    2019-12-09 16:45:37Z hn
+    2019-12-10 02:27:13Z pr
+  
+https://muhammadraza.me/2018/sending-sms-using-python/ Send SMS using python (Without Twilio)    2019-12-08 22:55:07Z lo
+    2020-05-28 03:52:17Z hn
+  
+http://notes.eatonphil.com/compiler-basics-an-x86-upgrade.html Compiler basics: an x86 upgrade    2019-12-08 23:22:59Z hn
+    2019-12-09 00:37:11Z pr
+    2019-12-15 14:59:54Z lo
+    2019-12-16 12:52:25Z pr
+  
+http://mark.masmcode.com/ Assembly Optimization Tips by Mark Larson    2019-12-09 00:12:43Z hn
+    2019-12-09 00:15:38Z lo
+  
+https://lispblog.xach.com/post/189499356038/working-with-letsencrypts-certbot-for-a-lisp Working with letsencrypt’s certbot for a Lisp webserver    2019-12-09 00:21:57Z lo
+    2019-12-09 03:18:55Z hn
+    2019-12-09 20:41:33Z hn
+    2020-01-01 04:14:22Z hn
+  
+https://christine.website/blog/wasmcloud-progress-2019-12-08 Wasmcloud Progress: Hello, World    2019-12-09 01:39:00Z lo
+    2019-12-09 02:28:54Z hn
+  
+https://2012books.lardbucket.org/ 2012 Book Archive (Of Flat World Publishing's book catalogue)    2019-12-09 01:54:22Z lo
+    2019-12-09 01:55:31Z hn
+  
+https://randomascii.wordpress.com/2019/12/08/on2-again-now-in-wmi/ O(n^2), again, now in WMI    2019-12-09 05:30:05Z hn
+    2019-12-09 05:51:18Z lo
+    2019-12-09 08:40:50Z pr
+    2019-12-09 15:30:35Z hn
+    2021-03-03 18:02:49Z pr
+  
+https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172 Dismissing Python Garbage Collection at Instagram (2017)    2019-12-09 05:30:32Z hn
+    2019-12-11 00:16:40Z hn
+    2020-01-18 03:38:40Z lo
+  
+https://tanin.nanakorn.com/technical/2019/12/08/tests-for-timezones.html Tests for timezones    2019-12-09 05:56:26Z pr
+    2019-12-09 10:28:30Z lo
+    2019-12-11 18:42:42Z hn
+  
+https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net-next.git/commit/?id=e7096c131e5161fa3b8e52a650d7719d2857adfd WireGuard VPN on track to land in 5.6    2019-12-09 08:21:03Z hn
+    2019-12-09 11:58:34Z lo
+    2019-12-09 12:54:49Z pr
+  
+https://github.com/netdata/netdata/issues/7366 Netdata system monitor embeds spyware    2019-12-09 10:23:40Z hn
+    2019-12-09 10:24:34Z lo
+  
+https://github.com/Storyyeller/IntercalScript The IntercalScript Programming Language    2019-12-09 12:40:03Z hn
+    2019-12-09 14:30:08Z pr
+    2019-12-11 02:13:18Z lo
+    2019-12-12 05:43:36Z hn
+    2020-04-01 12:21:27Z pr
+    2020-04-02 12:09:38Z pr
+  
+https://github.com/infostreams/db infostreams/db: Version control for databases    2019-12-09 13:06:35Z hn
+    2019-12-09 15:15:28Z lo
+    2019-12-10 14:21:38Z pr
+  
+https://wordsandbuttons.online/sine_and_cosine.html Sine and cosine    2019-12-09 13:17:08Z pr
+    2019-12-09 14:44:52Z lo
+    2019-12-09 18:43:29Z hn
+    2020-02-16 22:56:18Z hn
+  
+https://www.beyondlogic.org/usbnutshell/usb1.shtml USB in a NutShell    2019-12-09 13:47:46Z lo
+    2019-12-11 14:50:42Z hn
+  
+https://drewdevault.com/2019/12/09/Developers-shouldnt-distribute.html Developers shouldn't distribute their own software    2019-12-09 14:52:10Z hn
+    2019-12-09 17:39:59Z lo
+    2019-12-10 01:43:02Z hn
+    2019-12-11 03:35:46Z hn
+    2019-12-12 10:20:30Z hn
+    2019-12-18 23:06:02Z hn
+    2020-01-01 07:17:48Z hn
+  
+https://www.omgubuntu.co.uk/2019/12/new-ubuntu-user-survey Ubuntu 20.04 LTS Survey Launched    2019-12-09 14:53:48Z hn
+    2019-12-09 14:54:49Z lo
+  
+https://jsantell.com/l-systems L-systems    2019-12-09 15:16:08Z lo
+    2019-12-10 05:16:51Z hn
+  
+https://jamesmunns.com/blog/fmt-unreasonably-expensive/ Formatting is Unreasonably Expensive for Embedded Rust    2019-12-09 15:41:11Z hn
+    2019-12-09 22:23:02Z pr
+    2019-12-10 10:44:40Z lo
+  
+https://www.youtube.com/watch?v=4vd2rCBjHp8 My Love Letter To Computer Science Is Very Short And I Also Forgot To Mail It    2019-12-09 16:24:06Z hn
+    2020-01-04 16:46:38Z lo
+    2020-01-06 13:18:20Z hn
+  
+https://signal.org/blog/signal-private-group-system/ Signal Private Group System    2019-12-09 17:10:11Z hn
+    2019-12-09 23:41:45Z lo
+    2021-04-21 10:03:27Z hn
+  
+https://docs.rs/dtolnay/0.0.7/dtolnay/macro._03__soundness_bugs.html Soundness bugs in Rust libraries: can't live with 'em, can't live without 'em    2019-12-09 17:33:17Z hn
+    2019-12-10 16:17:53Z lo
+    2019-12-10 17:04:18Z hn
+    2019-12-13 15:29:22Z hn
+    2019-12-14 18:43:04Z hn
+  
+https://devblogs.microsoft.com/oldnewthing/20191209-00/?p=103195 C++ coroutines: Getting started with awaitable objects    2019-12-09 17:39:15Z hn
+    2019-12-10 01:57:49Z hn
+    2019-12-10 02:47:10Z lo
+    2019-12-10 12:48:45Z pr
+    2019-12-10 15:43:49Z hn
+    2019-12-12 16:01:03Z hn
+  
+https://pythonspeed.com/articles/system-packages-docker/ Installing system packages in Docker with minimal bloat    2019-12-09 18:31:50Z hn
+    2019-12-09 18:32:10Z pr
+    2019-12-09 18:32:37Z lo
+    2019-12-10 05:10:19Z hn
+  
+https://opensourceconnections.com/blog/2019/12/09/demystifying-ndcg-and-err/ Demystifying nDCG and ERR    2019-12-09 19:44:35Z hn
+    2019-12-10 16:45:43Z hn
+    2019-12-10 16:52:44Z lo
+  
+https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/ Things end users care about but programmers don't    2019-12-09 19:47:14Z pr
+    2019-12-09 19:47:45Z hn
+    2019-12-10 10:44:06Z lo
+    2019-12-10 15:31:48Z hn
+    2019-12-12 08:20:06Z pr
+  
+https://youtu.be/xH2x99FTY4k?t=385 Declarative UI Patterns in Rust    2019-12-09 20:16:36Z hn
+    2019-12-09 20:43:08Z lo
+  
+https://www.papercall.io/clojure-north-2020 Clojure/north 2020 CFP is open (Toronto)    2019-12-09 20:58:18Z lo
+    2019-12-09 21:10:29Z hn
+  
+https://nullprogram.com/blog/2019/12/09/ Chunking Optimizations: Let the Knife Do the Work    2019-12-09 22:51:42Z hn
+    2019-12-10 01:31:28Z pr
+    2019-12-10 02:48:07Z lo
+    2019-12-11 03:02:25Z hn
+  
+https://artemix.org/blog/rust-is-fun.html Rust is fun    2019-12-10 00:35:57Z lo
+    2019-12-10 00:36:06Z hn
+  
+https://nullprogram.com/blog/2019/12/10/ Efficient Alias of a Built-In Emacs Lisp Function    2019-12-10 04:42:07Z lo
+    2019-12-18 05:44:58Z hn
+  
+https://iq.opengenus.org/list-of-c-compilers/ List of C Compilers (As early as 1973 and with the latest one at 2017)    2019-12-10 12:35:14Z hn
+    2020-01-27 12:51:25Z lo
+  
+https://www.elementsofai.com/eu2019fi Democratizing AI – Finland offers free AI education to every EU citizen    2019-12-10 12:35:16Z hn
+    2019-12-10 13:32:50Z lo
+  
+https://www.simform.com/test-automation-strategy/ How to Build a Test Automation Strategy?    2019-12-10 13:06:23Z hn
+    2019-12-10 13:12:50Z lo
+  
+https://www.pixelstech.net/article/1575773786-Understand-Virtual-DOM Understand Virtual DOM    2019-12-10 13:07:41Z pr
+    2019-12-11 13:24:11Z lo
+  
+https://github.com/dankamongmen/notcurses blingful character graphics/TUI library. definitely not curses    2019-12-10 13:10:42Z hn
+    2020-06-03 03:39:32Z hn
+    2021-01-21 09:26:12Z lo
+  
+https://lambdaforge.io/2019/12/08/replicate-datahike-wherever-you-go.html Replicate Datahike wherever you go    2019-12-10 13:37:54Z lo
+    2019-12-11 12:56:53Z hn
+  
+https://vermaden.wordpress.com/2019/12/10/freebsd-desktop-part-19-configuration-plank-skippy-xd/ FreeBSD Desktop - Part 19 - Configuration - Plank - Skippy-XD    2019-12-10 13:44:00Z lo
+    2019-12-10 13:44:12Z hn
+  
+http://www.therandymon.com/index.php?/archives/338-This-isnt-fun-anymore.html This isn't fun anymore (2017)    2019-12-10 15:52:02Z lo
+    2019-12-10 22:19:33Z hn
+  
+https://szy.io/thonks/no-email-to-sms/ Don't Use Email to SMS Gateways. Please    2019-12-10 16:53:08Z lo
+    2020-02-20 15:02:14Z hn
+  
+https://roscidus.com/blog/blog/2019/11/14/cicd-pipelines/ CI/CD pipelines: Monad, Arrow or Dart?    2019-12-10 17:08:22Z pr
+    2019-12-11 02:40:57Z hn
+    2019-12-11 10:28:35Z lo
+  
+https://anildash.com/2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/ “Link In Bio” is a slow knife    2019-12-10 17:34:42Z hn
+    2019-12-11 05:24:19Z hn
+    2019-12-12 10:40:59Z lo
+  
+https://stressgrid.com/blog/cowboy_performance_part_2/ Survey of Cowboy Webserver Performance - Part 2    2019-12-10 18:50:22Z lo
+    2019-12-11 18:24:04Z hn
+  
+https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Microsoft-Teams-is-now-available-on-Linux/ba-p/1056267 Microsoft Teams is now available on Linux    2019-12-10 20:27:49Z hn
+    2019-12-11 07:01:25Z hn
+    2019-12-11 20:23:28Z hn
+    2019-12-16 23:52:57Z lo
+    2020-02-07 15:49:43Z hn
+  
+https://plundervolt.com/ Plundervolt - Recover keys from Intel SGX    2019-12-10 21:57:36Z hn
+    2019-12-11 13:39:39Z hn
+    2019-12-11 14:19:10Z lo
+    2019-12-12 01:29:12Z hn
+  
+https://medium.com/unsplash/introducing-unsplash-for-brands-3b60d1b4ad0c Introducing Unsplash for Brands    2019-12-11 02:49:35Z hn
+    2019-12-12 10:35:49Z lo
+  
+https://blog.mozilla.org/nnethercote/2019/12/11/how-to-speed-up-the-rust-compiler-one-last-time-in-2019/ How to speed up the Rust compiler one last time in 2019    2019-12-11 03:20:53Z hn
+    2019-12-11 11:36:47Z pr
+    2019-12-12 00:51:42Z lo
+  
+https://beta.aceparent.me/#/t420 Creating the Ultimate T420    2019-12-11 04:48:21Z hn
+    2019-12-11 05:31:09Z lo
+  
+https://colatkinson.site/macos/fuse/2019/09/29/osxfuse/ osxfuse is no longer open source    2019-12-11 06:00:57Z hn
+    2019-12-11 08:56:11Z lo
+  
+http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf On Understanding Data Abstraction, Revisited (2009)    2019-12-11 10:09:14Z hn
+    2021-03-06 15:27:39Z lo
+  
+https://blog.confiant.com/new-macos-bundlore-loader-analysis-ca16d19c058c New macOS Bundlore Loader analysis    2019-12-11 10:36:22Z lo
+    2019-12-26 14:24:53Z hn
+  
+https://dev.to/lmatteis/depending-less-on-structure-5bl8 Depending Less on Structure    2019-12-11 11:05:02Z lo
+    2019-12-12 12:02:35Z hn
+    2019-12-17 12:37:54Z hn
+  
+http://blog.cyborch.com/how-to-use-cryptographic-accumulators-to-prove-set-membership-without-exposing-the-set-or-the-member/ Using zero knowledge proofs to prove set membership without exposing the set or the member    2019-12-11 11:57:33Z lo
+    2019-12-12 05:36:15Z hn
+  
+https://github.com/antirez/disque-module disque, a message queue, is being ported to Redis    2019-12-11 12:26:19Z hn
+    2019-12-11 15:54:43Z lo
+    2019-12-12 00:51:01Z hn
+  
+https://www.ijcai.org/Proceedings/81-2/Papers/071.pdf ZMOB: A New Computing Engine for AI (1981)    2019-12-11 12:43:04Z hn
+    2020-12-01 05:26:34Z lo
+  
+http://tech.nextroll.com/blog/culture/2019/11/26/hackweek-at-nextroll.html How NextRoll encourages Engineering and Friends to take a week off to build amazing stuff    2019-12-11 12:48:24Z pr
+    2019-12-11 12:53:19Z hn
+    2019-12-11 12:56:45Z lo
+  
+https://time.com/person-of-the-year-2019-greta-thunberg/ Greta Thunberg Is TIME’s 2019 Person of the Year    2019-12-11 13:18:46Z hn
+    2019-12-11 18:46:03Z lo
+  
+https://twitter.com/jack/status/1204766078468911106 Twitter backing initiative for open and decentralized standard for social media    2019-12-11 14:17:57Z hn
+    2019-12-11 14:37:13Z lo
+  
+https://matthisk.com/first-class-failure-scenarios-in-java/ First class failure scenarios in Java    2019-12-11 14:43:26Z lo
+    2019-12-12 02:18:29Z hn
+  
+https://dev.to/lethargilistic/who-made-my-phone-do-this-1aan Who Made My Phone Do THIS?    2019-12-11 15:04:51Z lo
+    2019-12-11 15:05:13Z hn
+    2019-12-12 10:11:54Z hn
+  
+https://www.icann.org/news/blog/org-update .ORG Update    2019-12-11 15:23:20Z hn
+    2019-12-16 01:01:24Z hn
+    2019-12-16 03:16:57Z lo
+  
+https://github.com/dabreegster/abstreet A/B Street: Traffic simulation game written in Rust    2019-12-11 15:58:02Z hn
+    2019-12-12 15:23:22Z pr
+    2019-12-13 16:12:33Z lo
+  
+https://arne-mertz.de/2019/12/constexpr-fizzbuzz/ Constexpr FizzBuzz - An Exercise in Compile-Time    2019-12-11 16:06:42Z lo
+    2019-12-17 23:01:06Z hn
+  
+https://ai.facebook.com/blog/deepfake-detection-challenge-launches-with-new-data-set-and-kaggle-site/ Deepfake Detection Challenge launches with new data set and Kaggle site    2019-12-11 17:19:01Z lo
+    2019-12-12 07:42:41Z hn
+  
+https://twitter.com/textfiles/status/1204428311553642496 A thread about Internet Archive's "Silent Killer"    2019-12-11 17:22:35Z hn
+    2019-12-11 19:10:54Z lo
+  
+https://www.sourcesort.com/interview/getting-into-open-source-as-an-outreachy-intern Getting into open source as an Outreachy intern    2019-12-11 17:37:13Z hn
+    2019-12-11 17:39:35Z lo
+  
+http://web.eecs.utk.edu/~azh/blog/challengingprojects.html Challenging projects every programmer should try    2019-12-11 18:15:02Z hn
+    2019-12-14 17:42:30Z hn
+    2019-12-14 18:19:53Z pr
+    2019-12-14 21:17:18Z pr
+    2019-12-15 05:22:07Z lo
+  
+https://interrupt.memfault.com/blog/reproducible-firmware-builds Reproducible Firmware Builds    2019-12-11 19:02:58Z lo
+    2019-12-11 19:03:17Z hn
+  
+https://conroy.org/introducing-sqlc Introducing sqlc - Compile SQL queries to type-safe Go    2019-12-11 19:08:13Z hn
+    2019-12-11 19:52:53Z lo
+  
+https://medium.com/@nedmcclain/devops-lessons-from-the-ski-industry-e90cd4ae3633 DevOps Lessons from the Ski Industry    2019-12-11 19:46:08Z hn
+    2019-12-11 19:46:37Z lo
+  
+https://www.openwall.com/lists/oss-security/2019/12/11/9 Local Privilege Escalation in OpenBSD's dynamic loader (CVE-2019-19726)    2019-12-11 21:18:39Z lo
+    2019-12-11 21:36:59Z hn
+  
+https://nalaginrut.com/archives/2019/12/11/hurd%2c%20sel4%2c%20thoughts Hurd, seL4, thoughts    2019-12-11 22:00:43Z hn
+    2020-10-09 17:29:32Z lo
+    2020-10-09 17:34:25Z hn
+  
+https://queue.acm.org/detail.cfm?id=3375635 API Practices If You Hate Your Customers    2019-12-11 23:55:00Z hn
+    2019-12-13 10:49:55Z hn
+    2019-12-18 16:47:15Z hn
+    2019-12-21 21:24:03Z hn
+    2019-12-29 15:43:45Z pr
+    2019-12-30 05:19:23Z lo
+  
+https://medium.com/@nusenu/the-growing-problem-of-malicious-relays-on-the-tor-network-2f14198af548 The Growing Problem of Malicious Relays on the Tor Network    2019-12-12 00:11:40Z lo
+    2019-12-12 02:19:55Z hn
+  
+https://blog.malwarebytes.com/exploits-and-vulnerabilities/2019/09/everything-you-need-to-know-about-the-heartbleed-vulnerability/ Five years later, Heartbleed vulnerability still unpatched    2019-12-12 07:30:36Z hn
+    2019-12-12 07:31:38Z pr
+    2019-12-12 15:25:18Z lo
+  
+https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/ Meshing in a Minecraft Game    2019-12-12 09:22:04Z pr
+    2019-12-12 09:22:07Z hn
+    2019-12-12 17:41:24Z lo
+  
+http://calpaterson.com/amazon-premium.html The Amazon Premium    2019-12-12 10:04:03Z hn
+    2019-12-12 10:47:59Z pr
+    2019-12-12 10:55:50Z lo
+    2019-12-12 22:44:50Z hn
+    2019-12-13 09:26:29Z hn
+    2019-12-14 13:43:04Z hn
+    2019-12-19 14:54:28Z hn
+    2020-02-05 16:08:04Z pr
+  
+https://blog.appsignal.com/2019/12/12/how-to-use-broadway-in-your-elixir-application.html How to Use Broadway in Your Elixir Application    2019-12-12 10:58:36Z hn
+    2019-12-14 15:34:53Z lo
+  
+https://twitter.com/AntNesterov/status/1205086129504104460 Nginx Moscow office is being raided by police    2019-12-12 12:07:37Z hn
+    2019-12-12 12:30:54Z lo
+  
+https://www.codepedia.org/ama/improved-bookmarking-of-stackoverflow-questions Improved bookmarking of StackOverflow questions    2019-12-12 12:27:30Z pr
+    2019-12-12 13:07:42Z lo
+  
+https://jpmens.net/2019/12/11/on-building-an-ansible-training-environment-on-freebsd/ Building Ansible Training Environment on FreeBSD    2019-12-12 12:43:04Z hn
+    2019-12-15 11:09:01Z lo
+  
+https://asthasr.github.io/posts/mind-the-gaps/ Mind the Gaps    2019-12-12 14:46:11Z lo
+    2019-12-12 15:36:40Z pr
+  
+https://github.com/arp242/uni uni: Query the Unicode database from the commandline, with good support for emojis    2019-12-12 14:48:00Z lo
+    2019-12-12 22:01:59Z hn
+  
+https://lihautan.com/json-parser-with-javascript/ JSON Parser with JavaScript    2019-12-12 15:02:29Z hn
+    2020-02-27 01:01:12Z pr
+    2020-02-27 03:47:59Z lo
+  
+https://www.vim.org/vim-8.2-released.php vim 8.2 released    2019-12-12 15:16:13Z hn
+    2019-12-13 09:44:07Z lo
+    2019-12-13 18:50:44Z pr
+  
+https://ops.tips/notes/practical-look-into-overlayfs/ a practical look into overlayfs    2019-12-12 15:21:31Z hn
+    2020-01-25 16:08:39Z lo
+  
+https://github.com/houqp/gtest Go test utility: Setup/teardown and reusable fixtures    2019-12-12 15:43:17Z hn
+    2019-12-12 15:49:03Z lo
+    2019-12-19 16:33:39Z hn
+  
+https://unit42.paloaltonetworks.com/what-i-learned-from-reverse-engineering-windows-containers/ What I Learned from Reverse Engineering Windows Containers    2019-12-12 16:49:13Z hn
+    2019-12-15 14:39:42Z lo
+  
+https://www.anishathalye.com/2019/12/12/constraint-based-graphic-design/ Experiments in Constraint-based Graphic Design    2019-12-12 17:30:49Z hn
+    2019-12-12 17:32:06Z lo
+    2019-12-12 17:33:19Z pr
+  
+https://www.azavea.com/blog/2019/12/12/modeling-state-with-typescript/ Modeling State with TypeScript    2019-12-12 19:58:53Z lo
+    2019-12-12 20:02:32Z pr
+    2019-12-12 20:06:10Z hn
+  
+https://blog.npmjs.org/post/189618601100/binary-planting-with-the-npm-cli Binary Planting with the npm CLI    2019-12-12 20:10:57Z pr
+    2019-12-12 21:54:32Z hn
+    2019-12-13 03:27:11Z lo
+  
+https://telegra.ph/Why-OpenBSD-is-marginally-less-horrible-12-05 Why computers suck and how learning from OpenBSD can make them marginally less horrible    2019-12-12 20:57:36Z hn
+    2019-12-12 22:04:36Z lo
+  
+https://jorin.me/crux-as-general-purpose-database/ Crux as General-Purpose Database    2019-12-12 22:43:51Z lo
+    2019-12-14 09:42:13Z hn
+  
+https://ungleich.ch/u/blog/has-a-name-for-every-ipv6-address/ Every IPv6 address now has a name    2019-12-12 23:02:34Z hn
+    2019-12-14 18:33:30Z hn
+    2019-12-16 17:24:13Z pr
+    2019-12-16 23:43:31Z lo
+    2019-12-18 14:02:12Z hn
+  
+https://decoder.cloud/2019/12/12/from-iphone-to-nt-authoritysystem/ From iPhone to NT AUTHORITY\SYSTEM    2019-12-12 23:58:29Z hn
+    2019-12-13 09:08:18Z hn
+    2019-12-13 09:14:05Z lo
+  
+https://vllmrt.net/spam/subverting-elm.html Subverting Elm packaging for fun and profit    2019-12-13 00:35:50Z lo
+    2019-12-18 23:51:34Z hn
+  
+https://boingboing.net/2019/12/12/they-literally-own-you.html Abbott Labs kills free tool that lets you own the blood-sugar data from your glucose monitor, saying it violates copyright law    2019-12-13 00:45:00Z hn
+    2020-01-04 14:56:31Z lo
+  
+https://codegolf.stackexchange.com/questions/196917/sleep-for-1000-years Sleep for 1000 years    2019-12-13 01:26:32Z lo
+    2019-12-17 06:47:04Z hn
+  
+http://lsub.org/who/nemo/9.intro.pdf Introduction to Operating System Abstractions using Plan 9 [2007]    2019-12-13 03:01:15Z hn
+    2020-05-12 00:06:07Z lo
+  
+https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2 Parsing 18 billion lines JSON with Go    2019-12-13 03:32:42Z lo
+    2019-12-23 14:58:58Z hn
+  
+https://www.bitsoffreedom.nl/2019/12/12/amazons-rekognition-shows-its-true-colors/ Amazon's Rekognition shows its true colors    2019-12-13 09:54:44Z hn
+    2019-12-13 09:54:59Z lo
+  
+https://exploringjs.com/deep-js/ Deep JavaScript: Theory and techniques    2019-12-13 09:57:56Z hn
+    2019-12-13 10:00:46Z pr
+    2020-06-17 14:57:13Z hn
+    2020-06-18 04:28:07Z lo
+  
+https://sicp.comp.nus.edu.sg/announcement.html Structure and Interpretation of Computer Programs, JavaScript Adaptation    2019-12-13 10:15:36Z hn
+    2019-12-13 10:17:49Z pr
+    2019-12-17 15:04:20Z hn
+    2019-12-17 16:23:39Z lo
+  
+https://tboox.org/2019/11/15/quickstart-5-build-android/ Xmake Getting Started Tutorial 5: Introduction to Android platform compilation    2019-12-13 13:10:02Z hn
+    2019-12-13 13:10:52Z lo
+  
+https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf JavaScript Visualized: the JavaScript Engine    2019-12-13 13:33:16Z hn
+    2019-12-17 09:47:11Z hn
+    2020-01-02 12:46:16Z hn
+    2020-01-03 07:09:02Z lo
+    2020-01-09 17:50:11Z hn
+  
+https://www.ruby-lang.org/en/news/2019/12/12/separation-of-positional-and-keyword-arguments-in-ruby-3-0/ Planned separation of positional and keyword arguments in Ruby 3.0    2019-12-13 13:44:03Z hn
+    2019-12-14 23:58:25Z lo
+  
+https://python-poetry.org/blog/announcing-poetry-1-0-0.html Poetry 1.0: Python dependency management and packaging made easy    2019-12-13 13:56:40Z hn
+    2019-12-14 00:23:06Z lo
+    2019-12-14 12:36:14Z hn
+    2019-12-15 14:34:32Z hn
+    2019-12-16 20:40:08Z hn
+    2019-12-19 18:09:50Z hn
+    2019-12-20 17:25:27Z hn
+  
+https://www.openwall.com/lists/oss-security/2019/12/13/1 Multiple vulnerabilities fixed in Git    2019-12-13 14:07:14Z lo
+    2019-12-17 10:10:09Z hn
+  
+https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering/ Probability Theory for Physically Based Rendering    2019-12-13 14:25:19Z hn
+    2019-12-13 14:29:19Z pr
+    2019-12-13 16:36:47Z lo
+  
+https://vermaden.wordpress.com/2019/12/13/manage-contacts-the-unix-way/ Manage Contacts the UNIX Way    2019-12-13 14:56:44Z lo
+    2019-12-13 14:57:42Z hn
+  
+https://gameanalytics.com/blog/reduce-costs-https-api-aws.html How to reduce costs for your HTTP(S) API on Amazon Web Services    2019-12-13 15:12:29Z hn
+    2019-12-13 15:40:13Z pr
+    2019-12-13 18:00:53Z lo
+  
+https://practicaltypography.com/the-cowardice-of-brave.html The cowardice of Brave    2019-12-13 15:36:55Z lo
+    2019-12-13 17:27:10Z pr
+    2021-04-05 11:12:46Z hn
+  
+https://github.com/KillingSpark/rustysd KillingSpark/rustysd - systemd reimplementation in rust    2019-12-13 15:49:07Z hn
+    2019-12-15 13:12:21Z pr
+    2019-12-15 17:13:30Z hn
+    2019-12-16 06:12:24Z lo
+  
+https://www.fastly.com/blog/optimise-api-cache-improved-performance Designing APIs for cache friendliness    2019-12-13 16:04:00Z lo
+    2019-12-13 20:30:58Z hn
+  
+https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/ An Introduction to System.Threading.Channels    2019-12-13 17:27:06Z pr
+    2019-12-14 01:22:23Z lo
+    2020-07-16 18:54:54Z pr
+  
+https://www.ponylang.io/blog/2019/12/0.33.1-released/ Pony 0.33.1    2019-12-13 19:45:15Z hn
+    2019-12-13 19:45:57Z lo
+  
+https://www.theverge.com/2019/12/12/21012553/twitter-bluesky-decentralized-social-network-developers-reaction-mastodon-activitypub Twitter wants to decentralize, but decentralized social network creators don’t trust it    2019-12-13 20:00:24Z lo
+    2019-12-13 20:01:00Z hn
+  
+https://blog.mattbierner.com/10-years-stack-overflow-learnings/ What I've learned over 10 years on Stack Overflow    2019-12-13 21:17:06Z hn
+    2019-12-16 00:47:40Z pr
+    2019-12-16 05:02:43Z lo
+  
+https://www.transposit.com/blog/2019.12.13-querying-cloudwatch-logs-with-athena/ Query your CloudWatch logs from Athena    2019-12-13 21:31:36Z lo
+    2019-12-13 22:22:39Z hn
+  
+https://www.bleepingcomputer.com/news/google/google-now-bans-some-linux-web-browsers-from-their-services/ Google Now Bans Some Linux Web Browsers From Their Services    2019-12-13 23:41:21Z hn
+    2019-12-14 14:39:31Z lo
+    2019-12-14 17:39:53Z pr
+    2019-12-14 18:57:43Z hn
+  
+https://artagnon.com/articles/rM reMarkable: the perfect tablet for academics    2019-12-14 05:32:38Z lo
+    2019-12-14 10:30:04Z hn
+    2019-12-20 21:14:41Z hn
+  
+https://github.com/xoba/sc Storage Combinators in Go    2019-12-14 09:46:20Z hn
+    2019-12-14 09:48:34Z lo
+  
+https://stevedower.id.au/blog/python-a-great-language/ What makes Python a great language?    2019-12-14 11:06:24Z pr
+    2019-12-16 11:19:27Z lo
+    2019-12-16 13:28:58Z hn
+    2019-12-17 03:00:45Z hn
+  
+https://neilkakkar.com/unix.html How Unix Works: Become a Better Software Engineer    2019-12-14 12:52:11Z hn
+    2019-12-14 13:49:18Z lo
+    2019-12-14 16:59:48Z pr
+    2019-12-14 22:26:19Z hn
+  
+https://bowero.nl/blog/2019/12/14/a-function-to-sleep-a-1000-years-explained/ A function to sleep a 1000 years: explained    2019-12-14 14:06:30Z lo
+    2019-12-14 14:06:58Z hn
+    2019-12-14 15:30:03Z pr
+  
+https://kgrz.io/coping-with-flexbox.html Coping with flexbox    2019-12-14 14:54:48Z lo
+    2019-12-14 17:33:56Z hn
+  
+https://www.spinellis.gr/blog/20191214/ Convert file I/O into pipe I/O with /dev/fd    2019-12-14 15:12:38Z pr
+    2019-12-14 16:08:38Z lo
+  
+https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html The Architecture of a Large-Scale Web Search Engine, circa 2019    2019-12-14 17:16:18Z hn
+    2019-12-14 23:40:35Z lo
+    2019-12-15 07:31:27Z pr
+  
+https://blog.metaobject.com/2019/12/the-4-stages-of-objective-smalltalk.html The Four Stages of Objective-Smalltalk    2019-12-14 18:33:58Z hn
+    2019-12-14 18:38:05Z lo
+  
+https://finnoleary.net/kernel-code.html Dissecting Linux Kernel Code    2019-12-14 20:50:58Z hn
+    2019-12-14 20:52:20Z lo
+  
+https://github.com/artagnon/clayoven/blob/master/README.md clayoven: a minimalist website generator with a carefully curated set of features    2019-12-14 21:15:58Z lo
+    2019-12-14 21:18:14Z pr
+  
+https://kimh.github.io/clojure-by-example/ Clojure by Example    2019-12-14 21:55:04Z lo
+    2019-12-15 17:14:49Z hn
+    2019-12-31 18:50:59Z hn
+    2020-07-19 04:16:54Z hn
+  
+http://marktarver.com/thecathedralandthebizarre.html The Cathedral and the Bizarre    2019-12-14 22:14:01Z hn
+    2019-12-15 00:37:51Z lo
+    2019-12-15 01:15:41Z pr
+  
+https://www.jeremymorgan.com/blog/linux/blazor-in-linux/ Build and Deploy a Blazor App Without Touching a Windows Machine    2019-12-15 00:35:32Z pr
+    2019-12-15 16:47:57Z lo
+  
+https://github.com/artagnon/clayoven Beautiful website generator aimed at math-heavy sites    2019-12-15 05:04:59Z hn
+    2021-04-03 12:52:16Z lo
+    2021-04-04 12:12:54Z hn
+  
+https://www.pixelstech.net/article/1576317821-A-mini-post-on-GoLang-context A mini post on GoLang context    2019-12-15 09:52:48Z pr
+    2019-12-22 16:23:56Z lo
+  
+https://iq.opengenus.org/find-articulation-points-or-cut-vertices-in-a-graph/ Find articulation points or cut vertices in a graph    2019-12-15 10:42:51Z pr
+    2019-12-16 07:46:59Z lo
+  
+https://bowero.nl/blog/2019/12/15/c-what-the-fuck/ C, what the fuck??    2019-12-15 11:13:08Z hn
+    2019-12-15 11:14:40Z lo
+    2019-12-15 11:31:06Z pr
+  
+https://htmlpasta.com/want-to-be-a-better-coder-type-faster/ Want to be a better coder? Type faster    2019-12-15 11:48:42Z hn
+    2019-12-15 11:50:00Z pr
+    2019-12-15 12:06:50Z lo
+  
+https://bugs.chromium.org/p/chromium/issues/detail?id=1033655 1033655 -    chromium -   An open-source project to help move the web forward. -   Monorail    2019-12-15 13:28:29Z hn
+    2019-12-15 17:49:46Z lo
+    2019-12-15 22:26:18Z pr
+  
+https://initialcommit.io/blog/Learn-Git-Header-Files An Overview of Git's Original C Header File    2019-12-15 15:05:31Z pr
+    2019-12-15 15:12:31Z hn
+    2019-12-15 15:23:23Z lo
+  
+http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html Beyond Liskov: Type Safe Equality in Scala    2019-12-15 15:44:29Z hn
+    2019-12-15 15:45:19Z pr
+    2019-12-16 06:19:53Z lo
+    2019-12-17 04:50:29Z hn
+    2019-12-18 15:35:25Z hn
+  
+https://shekhargulati.com/2019/12/15/the-5-minute-introduction-to-duckdb-the-sqlite-for-analytics/ The 5 Minute Introduction to DuckDB: The SQLite for Analytics    2019-12-15 15:50:00Z hn
+    2020-11-23 21:43:22Z lo
+  
+https://root.cern.ch/cling Cling | ROOT a Data analysis Framework    2019-12-15 18:19:15Z hn
+    2020-03-18 15:42:25Z lo
+  
+https://dev.to/sonnk/we-should-have-an-email-for-each-website-fhh We should have an email for each website    2019-12-15 21:05:38Z hn
+    2019-12-16 07:44:41Z hn
+    2020-01-05 22:04:53Z lo
+  
+https://blog.samwhited.com/2019/12/evaluating-cloud-providers/ Evaluating Cloud Providers    2019-12-15 22:25:31Z lo
+    2019-12-16 21:13:08Z hn
+  
+https://floooh.github.com/2019/12/13/cycle-stepped-6502.html A new cycle-stepped 6502 CPU emulator    2019-12-15 22:48:56Z lo
+    2019-12-17 11:43:04Z hn
+  
+https://serverfault.com/q/995605 Finding all public IPv4 and IPv6 addresses in a UNIX shell script w/ GNU Parallel    2019-12-16 01:38:05Z lo
+    2019-12-16 01:50:17Z hn
+    2019-12-16 01:54:54Z pr
+  
+https://www.hammerspoon.org/ Hammerspoon    2019-12-16 06:32:31Z hn
+    2021-04-05 17:36:57Z lo
+  
+https://daniel.haxx.se/blog/2019/12/16/how-randomly-skipping-tests-made-them-better/ How randomly skipping tests made them better    2019-12-16 07:22:55Z hn
+    2019-12-16 20:03:44Z hn
+    2019-12-16 20:27:50Z lo
+    2019-12-17 11:22:06Z hn
+    2020-01-03 14:50:57Z hn
+  
+https://mystery.knightlab.com/ SQLite Practice: SQL Murder Mystery    2019-12-16 08:43:12Z pr
+    2019-12-16 16:38:28Z lo
+  
+https://thecloud.christmas/2019/15 How clouds impact environment    2019-12-16 08:49:15Z hn
+    2019-12-16 09:53:44Z lo
+  
+https://docs.quantifiedcode.com/python-anti-patterns/index.html The Little Book of Python Anti-Patterns    2019-12-16 09:05:00Z hn
+    2019-12-20 11:29:30Z lo
+    2020-07-22 08:44:31Z hn
+    2020-08-19 06:23:58Z hn
+  
+https://www.google.com/intl/en/ipv6/statistics.html#30 IPv6 Adoption Breaks 30%    2019-12-16 10:31:33Z hn
+    2019-12-16 10:51:52Z lo
+    2019-12-17 04:53:59Z hn
+  
+https://zge.us.to/counterfactual.html What if personal computers were a mistake, actually?    2019-12-16 10:33:52Z lo
+    2019-12-16 11:07:08Z hn
+    2019-12-16 20:52:56Z hn
+    2019-12-17 14:15:17Z hn
+  
+https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf The Essential Guide To Electronics in Shenzhen    2019-12-16 10:50:11Z hn
+    2019-12-16 15:13:13Z lo
+    2019-12-17 19:29:16Z hn
+  
+https://www.golem.de/news/encryption-software-german-bsi-withholds-truecrypt-security-report-1912-145552.html German BSI withholds Truecrypt security report    2019-12-16 12:36:20Z hn
+    2019-12-16 16:54:53Z lo
+  
+https://bowero.nl/blog/2019/12/16/syntactic-sugar-in-c-accessing-arrays/ Syntactic sugar in C: accessing arrays    2019-12-16 13:16:07Z lo
+    2019-12-16 13:35:48Z hn
+  
+https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/ Stop worrying about blocking: the new async-std runtime, inspired by Go    2019-12-16 14:02:49Z lo
+    2019-12-16 14:03:25Z hn
+    2019-12-16 23:21:44Z hn
+    2019-12-17 19:43:43Z hn
+    2019-12-18 14:43:05Z hn
+  
+https://nolannicholson.com/latency.html Negative Latency    2019-12-16 14:46:42Z pr
+    2019-12-16 17:47:02Z hn
+    2019-12-17 01:07:51Z lo
+    2019-12-17 03:58:47Z hn
+    2019-12-17 22:59:25Z hn
+  
+https://abe-winter.github.io/2019/12/15/ltarch.html Should you even bother loadtesting    2019-12-16 15:07:41Z lo
+    2019-12-16 21:03:49Z hn
+  
+https://gregberge.com/blog/gatsby-seo/ The missing guide of SEO with Gatsby    2019-12-16 15:48:37Z hn
+    2019-12-16 15:50:55Z lo
+  
+https://blog.sigplan.org/2019/12/16/runtime-support-for-multicore-haskell-a-retrospective/ Runtime Support for Multicore Haskell: a Retrospective    2019-12-16 15:55:53Z hn
+    2019-12-18 00:05:29Z lo
+  
+https://cache.edge.apple Apple Edge Cache    2019-12-16 16:34:21Z lo
+    2019-12-16 16:35:00Z hn
+    2020-02-14 18:25:08Z hn
+  
+https://github.com/GPUOpen-Effects/FEMFX GPUOpen-Effects/FEMFX    2019-12-16 17:20:33Z hn
+    2019-12-16 21:29:39Z lo
+  
+https://aiweirdness.com/post/189511103367/play-ai-dungeon-2-become-a-dragon-eat-the-moon Play AI Dungeon 2. Become a dragon. Eat the moon    2019-12-16 17:29:30Z hn
+    2019-12-17 00:33:58Z lo
+  
+https://raymii.org/s/blog/and_or_are_valid_Cpp.html and & or are valid in C++ (alternative tokens)    2019-12-16 17:36:24Z lo
+    2019-12-17 04:52:28Z hn
+  
+https://blog.hboeck.de/archives/898-include-etcshadow.html #include </etc/shadow>    2019-12-16 17:42:14Z lo
+    2019-12-16 17:43:14Z hn
+    2019-12-17 03:36:10Z hn
+    2019-12-17 17:38:42Z pr
+  
+https://nshipster.com/direct/ Objective-C Direct Methods    2019-12-16 18:40:31Z hn
+    2019-12-17 06:47:03Z hn
+    2020-06-23 05:38:25Z lo
+    2020-06-23 07:01:42Z hn
+  
+https://pythonspeed.com/articles/numpy-memory-footprint/ Reducing NumPy memory usage with lossless compression    2019-12-16 19:03:46Z hn
+    2019-12-16 19:06:05Z lo
+  
+https://elk.audio/stdalgorithm-for-audio-part-i/ std::algorithm for audio, part I    2019-12-16 19:09:25Z pr
+    2019-12-16 19:09:51Z hn
+    2019-12-17 05:21:19Z lo
+  
+http://beza1e1.tuxen.de/no_real_numbers.html No real numbers    2019-12-16 19:10:22Z lo
+    2020-04-29 19:48:33Z hn
+  
+https://oxide.computer/blog/on-the-metal-3-ron-minnich/ Oxide Computer Company: On the Metal: Ron Minnich    2019-12-16 22:06:21Z lo
+    2019-12-17 16:12:23Z hn
+    2019-12-18 12:31:21Z hn
+    2019-12-20 19:25:02Z hn
+  
+https://blog.eventide-project.org/articles/announcing-message-db/ Announcing Message DB: Event Store and Message Store for PostgreSQL    2019-12-16 22:11:28Z lo
+    2019-12-17 03:33:40Z hn
+  
+https://arstechnica.com/information-technology/2019/12/russian-media-group-rambler-attempting-to-hold-nginx-hostage/ Russian media group Rambler attempting to hold Nginx hostage    2019-12-16 22:51:54Z hn
+    2019-12-17 07:26:49Z hn
+    2019-12-17 10:12:32Z lo
+  
+https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/ Hacking GitHub with Unicode's dotless 'i'    2019-12-17 00:54:25Z hn
+    2019-12-19 22:19:37Z pr
+    2020-07-03 20:41:25Z lo
+  
+https://insight.ieeeusa.org/articles/california-bill-ab-5-threatens-consultants/ California Bill Threatens Consultants    2019-12-17 02:43:47Z hn
+    2019-12-23 17:00:12Z lo
+  
+https://www.learningfromincidents.io/blog/teaching-the-smell Teaching "The Smell"    2019-12-17 06:59:26Z hn
+    2019-12-21 07:13:14Z hn
+    2019-12-22 12:38:05Z lo
+  
+https://www.troyhunt.com/still-why-no-https/ Still Why No HTTPS?    2019-12-17 07:18:52Z hn
+    2019-12-18 17:13:17Z lo
+  
+https://tech.davis-hansson.com/p/make/ Your Makefiles are wrong    2019-12-17 10:01:43Z lo
+    2019-12-17 11:53:48Z hn
+    2019-12-17 17:38:23Z pr
+  
+https://blog.regnat.ovh/posts/ocaml-vs-haskell/ OCaml vs Haskell (a parodic take)    2019-12-17 12:02:51Z lo
+    2019-12-17 13:07:43Z hn
+  
+https://beepb00p.xyz/sad-infra.html The sad state of personal data and infrastructure    2019-12-17 12:56:34Z lo
+    2019-12-17 19:29:11Z hn
+    2019-12-20 13:56:49Z hn
+  
+https://randyzwitch.com/benchmarktools-julia-benchmarking/ A Beginner's Look at BenchmarkTools.jl    2019-12-17 13:46:12Z hn
+    2019-12-21 03:51:22Z lo
+  
+https://eklitzke.org/summing-integer-ranges-with-dc Summing Integer Ranges With dc    2019-12-17 14:23:45Z hn
+    2020-07-23 12:18:55Z lo
+  
+https://www.silvestar.codes/articles/how-i-built-my-second-progressive-web-app-pwa/ How I built my second Progressive Web App (PWA)    2019-12-17 14:37:41Z lo
+    2019-12-17 14:37:47Z hn
+    2019-12-18 11:10:20Z pr
+  
+https://blog.ploeh.dk/2019/12/16/zone-of-ceremony/ Zone of Ceremony    2019-12-17 16:23:29Z hn
+    2019-12-17 16:24:15Z pr
+    2019-12-17 16:25:17Z lo
+  
+https://www.luu.io/posts/dont-use-booleans/ Don't use booleans    2019-12-17 16:26:37Z pr
+    2019-12-17 16:28:02Z hn
+    2019-12-17 16:37:01Z lo
+    2019-12-18 09:43:03Z hn
+  
+https://cloud.google.com/security/beyondprod/ BeyondProd: A new approach to cloud-native security (Google)    2019-12-17 16:55:23Z hn
+    2019-12-18 17:25:42Z lo
+  
+https://aster.cloud/2019/12/17/what-you-probably-didnt-know-about-sudo/ What You Probably Didn’t Know About Sudo    2019-12-17 17:13:34Z pr
+    2019-12-19 01:54:15Z lo
+    2019-12-19 14:07:20Z pr
+    2020-01-17 19:18:24Z hn
+  
+https://interrupt.memfault.com/blog/zero-to-main-rust-1 From zero to main(): Bare Metal Rust    2019-12-17 18:43:04Z hn
+    2019-12-17 18:45:39Z lo
+    2019-12-18 03:29:29Z pr
+  
+https://saagarjha.com/blog/2019/12/15/bypassing-objc-msgsend/ Bypassing objc_msgSend    2019-12-17 19:02:04Z hn
+    2019-12-17 19:04:38Z pr
+    2019-12-18 05:00:03Z lo
+    2019-12-18 13:20:18Z hn
+    2020-07-31 12:17:16Z hn
+  
+https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit Tech lead expectations for leading projects on my team    2019-12-17 21:21:08Z hn
+    2019-12-17 21:28:42Z lo
+    2019-12-18 16:49:43Z hn
+  
+http://wenyan-lang.lingdong.works/ Programming Language for the ancient Chinese    2019-12-17 21:21:30Z hn
+    2019-12-18 11:22:53Z hn
+    2019-12-19 05:55:14Z lo
+  
+https://blog.drewolson.org/asynchronous-purescript Asynchronous PureScript    2019-12-18 02:15:11Z lo
+    2019-12-19 15:33:58Z pr
+    2020-01-28 21:26:51Z hn
+  
+https://ahuth.github.io/raycast/ Raycasting Demo in React    2019-12-18 04:27:06Z hn
+    2020-01-29 16:04:54Z lo
+    2020-03-30 04:35:42Z hn
+  
+https://www.towardssoftware.com/blog#blog26 Why Functional Programming    2019-12-18 06:04:33Z lo
+    2019-12-23 16:05:44Z pr
+  
+https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/ The #1 bug predictor is not technical, it's organizational complexity    2019-12-18 08:10:42Z pr
+    2019-12-18 09:23:30Z hn
+    2019-12-18 11:04:19Z lo
+  
+https://functional.christmas/2019/18 That one time I thought I understood recursion    2019-12-18 08:39:10Z pr
+    2019-12-18 08:39:40Z hn
+    2019-12-18 09:43:29Z lo
+  
+https://xorhash.gitlab.io/xhblog/0010.html OpenSSH Key Shielding    2019-12-18 12:38:24Z lo
+    2019-12-18 16:30:18Z hn
+  
+http://harmful.cat-v.org/software/ All software sucks    2019-12-18 13:09:27Z hn
+    2020-11-07 19:40:35Z lo
+  
+https://kevq.uk/librem-5-my-thoughts/ Librem 5 - My Thoughts    2019-12-18 14:14:20Z hn
+    2019-12-18 14:19:18Z lo
+  
+https://gregberge.com/blog/react-scalable-layout Create scalable layouts using React    2019-12-18 14:16:38Z lo
+    2020-05-24 22:51:27Z hn
+  
+https://drewdevault.com//2019/12/18/PinePhone-review.html PinePhone review    2019-12-18 15:13:24Z lo
+    2019-12-18 19:30:31Z hn
+    2019-12-19 11:44:42Z hn
+  
+https://www.mattlayman.com/blog/2019/failed-saas-postmortem/ A Failed SaaS Postmortem    2019-12-18 17:46:08Z hn
+    2019-12-18 21:13:56Z lo
+  
+https://lapcatsoftware.com/articles/macl.html Undocumented Catalina file access change    2019-12-18 17:59:05Z hn
+    2019-12-18 18:35:30Z lo
+  
+https://davmac.wordpress.com/2019/12/18/escape-from-system-d-episode-vi-freedom-in-sight/ Escape from System D, episode VI: freedom in sight    2019-12-18 18:21:19Z hn
+    2019-12-19 10:18:27Z lo
+    2019-12-20 04:17:13Z hn
+  
+https://www.crowdsupply.com/starcat/hackeeg HackEEG: Arduino Shield for Reading Brainwaves    2019-12-18 18:55:22Z hn
+    2019-12-27 21:06:36Z lo
+    2019-12-30 18:47:20Z hn
+  
+https://blog.heroku.com/curious-case-table-locking-update-query The Curious Case of the Table-Locking UPDATE Query    2019-12-18 19:18:16Z lo
+    2019-12-18 19:19:08Z hn
+    2019-12-19 10:43:04Z hn
+    2019-12-21 19:33:58Z hn
+  
+https://jvns.ca/blog/how-tracking-pixels-work/ How tracking pixels work    2019-12-18 20:01:52Z lo
+    2019-12-19 05:07:12Z hn
+    2019-12-19 16:18:19Z pr
+  
+https://github.com/watscho/express-mongodb-rest-api-boilerplate Node.js boilerplate / REST API / Authentication from scratch - (express, mongodb)    2019-12-18 20:03:33Z hn
+    2019-12-18 20:07:36Z lo
+    2019-12-23 08:14:31Z hn
+    2020-01-02 21:30:56Z hn
+    2020-01-08 16:18:34Z hn
+    2020-01-18 08:00:24Z hn
+    2020-02-13 16:41:10Z hn
+    2020-05-26 14:08:54Z lo
+  
+https://jsomers.net/glove-codenames/ Automatically finding Codenames clues with GloVe vectors    2019-12-18 22:45:02Z hn
+    2020-03-29 19:48:41Z lo
+  
+https://medium.com/@sasha_f/why-mmap-is-faster-than-system-calls-24718e75ab37 Why mmap is faster than system calls    2019-12-19 03:00:21Z hn
+    2020-10-19 15:05:07Z pr
+    2020-10-19 15:05:20Z hn
+    2020-10-20 04:09:16Z lo
+    2020-10-20 21:43:09Z hn
+  
+https://2019.stateofjs.com/ The State of JavaScript 2019    2019-12-19 03:14:13Z hn
+    2019-12-19 06:08:28Z pr
+    2019-12-19 12:23:15Z pr
+    2020-02-11 20:46:04Z lo
+  
+http://yeokhengmeng.com/2019/12/building-a-new-win-3-1-app-in-2019-part-1-slack-client/ Building a new Win 3.1 app in 2019 Part 1: Slack client    2019-12-19 04:05:40Z hn
+    2019-12-19 06:31:03Z pr
+    2019-12-19 13:33:39Z lo
+  
+https://software.rajivprab.com/2019/12/19/when-feature-flags-do-and-dont-make-sense/ When Feature Flags Do And Don’t Make Sense (2019)    2019-12-19 05:04:24Z pr
+    2019-12-19 05:04:48Z hn
+    2020-07-11 17:46:13Z pr
+    2020-07-12 01:31:22Z lo
+    2020-07-12 02:35:27Z hn
+    2020-08-08 13:42:40Z pr
+    2020-08-12 18:30:30Z hn
+    2020-09-22 01:11:47Z hn
+  
+http://blog.cyborch.com/trusted-time/ Trusted time    2019-12-19 06:12:30Z lo
+    2019-12-19 06:23:46Z hn
+  
+https://chelseatroy.com/2019/12/18/reviewing-pull-requests/ Reviewing Pull Requests    2019-12-19 06:52:33Z lo
+    2019-12-19 16:03:14Z hn
+  
+https://jeffhuang.com/designed_to_last/ This Page is Designed to Last    2019-12-19 07:49:11Z lo
+    2019-12-19 12:41:27Z hn
+    2019-12-19 22:58:17Z hn
+    2019-12-20 10:05:26Z pr
+    2021-04-07 11:41:12Z hn
+  
+https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html Twelve Million Phones, One Dataset, Zero Privacy    2019-12-19 10:46:37Z hn
+    2019-12-20 03:47:04Z lo
+  
+https://blog.cerebralab.com/Neural_networks_as_non-leaky_mathematical_abstraction Neural networks as non-leaky mathematical abstraction    2019-12-19 12:10:58Z lo
+    2019-12-19 12:24:08Z pr
+    2019-12-20 12:22:26Z hn
+  
+https://opensourceconnections.com/blog/2019/12/18/bert-and-search-relevance-part2-dense-vs-sparse/ What problem does BERT hope to solve for search?    2019-12-19 12:30:02Z hn
+    2019-12-20 16:24:31Z lo
+    2019-12-24 13:29:15Z hn
+    2020-08-12 07:28:35Z hn
+  
+https://www.simform.com/nodejs-use-case/ Node.JS Use Case: When & How Node.JS Should be Used | Simform    2019-12-19 13:23:52Z hn
+    2019-12-20 10:27:26Z lo
+  
+https://github.com/sponsors/The-Compiler/ Fundraising for qutebrowser (a vim-like browser) with shirts and stickers    2019-12-19 14:26:35Z lo
+    2019-12-19 14:28:12Z hn
+  
+https://arxiv.org/abs/1909.13639 NeuroVectorizer: End-to-End Vectorization with Deep Reinforcement Learning    2019-12-19 14:58:11Z hn
+    2020-01-06 15:07:41Z lo
+  
+https://threadreaderapp.com/thread/927593460642615296.html "Almost everything on computers is perceptually slower than it was in 1983"    2019-12-19 15:00:52Z hn
+    2020-02-19 03:40:43Z lo
+    2020-02-19 14:43:15Z hn
+    2020-07-01 13:27:17Z hn
+  
+https://discourse.mozilla.org/t/synchronous-messaging-at-mozilla-the-decision/50620 Synchronous Messaging at Mozilla: The Decision    2019-12-19 15:35:54Z hn
+    2019-12-19 15:58:24Z lo
+    2019-12-19 16:18:50Z pr
+  
+https://www.ctrl.blog/entry/firefox-linux-flatpak-snap.html Firefox contained in Flatpak vs Snap comparison    2019-12-19 15:47:56Z hn
+    2019-12-26 02:06:19Z lo
+    2019-12-26 08:58:42Z hn
+    2019-12-27 02:11:40Z hn
+  
+https://alpinelinux.org/posts/Alpine-3.11.0-released.html Alpine 3.11.0 released    2019-12-19 16:25:36Z lo
+    2019-12-20 01:15:55Z hn
+  
+https://multipass.run/ Multipass 1.0 - A mini-cloud on your Mac or Windows workstation    2019-12-19 16:46:32Z lo
+    2019-12-19 16:46:41Z hn
+    2021-04-12 02:21:46Z hn
+  
+https://developer.okta.com/blog/2019/12/19/multi-factor-authentication-sucks Multi-Factor Authentication Sucks    2019-12-19 17:26:01Z lo
+    2019-12-19 18:06:18Z hn
+  
+https://mcfunley.com/google-reader-killed-rss Google Reader Killed RSS    2019-12-19 17:33:07Z hn
+    2019-12-19 21:08:00Z lo
+  
+https://beginnerjunwoo.wordpress.com/2019/12/20/project-cafeteria-monitoring-system-real-time-congestion-data-provider-and-how-i-ended-up-receiving-an-award-from-minister-of-education-department-of-korea/ Cafeteria Monitoring System (Real time Congestion data provider)    2019-12-19 18:32:48Z pr
+    2019-12-21 03:43:37Z lo
+  
+https://medium.com/@nedmcclain/frontend-monitoring-with-prometheus-38f798406125 Frontend Monitoring with Prometheus    2019-12-19 19:31:21Z hn
+    2019-12-20 00:58:31Z lo
+  
+https://signal.org/blog/secure-value-recovery/ Signal Technology Preview for secure value recovery    2019-12-19 19:38:24Z hn
+    2019-12-20 04:19:51Z lo
+  
+https://www.in-ulm.de/~mascheck/various/argmax/ The maximum length of arguments for a new process    2019-12-19 22:28:44Z hn
+    2019-12-20 00:00:55Z lo
+  
+https://flak.tedunangst.com/post/putting-stuff-in-a-proliant-dl325 putting stuff in a proliant dl325    2019-12-19 23:27:11Z lo
+    2019-12-20 15:34:15Z hn
+  
+https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/ Xor Filters: Faster and Smaller Than Bloom Filters    2019-12-20 00:46:45Z hn
+    2019-12-20 00:47:05Z pr
+    2019-12-20 03:44:51Z lo
+  
+https://wormsandviruses.com/2019/12/catalyst-and-cohesion/ Catalyst and Cohesion    2019-12-20 05:28:36Z lo
+    2019-12-23 08:34:01Z hn
+    2019-12-26 03:58:56Z hn
+  
+https://www.natano.net/blog/2019-12-19-compiler-opt-fun/ Optimizing for Size    2019-12-20 06:37:19Z lo
+    2019-12-20 08:13:00Z hn
+  
+https://fy.blackhats.net.au/blog/html/2019/12/18/packaging_vendoring_and_how_it_s_changing.html Packaging, Vendoring, and How It’s Changing    2019-12-20 08:23:39Z pr
+    2019-12-20 08:23:45Z hn
+    2019-12-20 16:48:03Z lo
+    2020-01-14 17:56:48Z hn
+  
+https://www.salon.com/1998/10/13/feature_269/ The joy of Perl (1998)    2019-12-20 09:00:49Z hn
+    2019-12-21 17:13:26Z lo
+  
+https://nim-lang.org/blog/2019/12/20/community-survey-2019.html Nim Community Survey 2019    2019-12-20 09:28:44Z lo
+    2019-12-20 09:29:34Z hn
+    2019-12-20 21:09:22Z hn
+    2019-12-21 06:09:50Z hn
+  
+https://research.nccgroup.com/2019/12/19/on-linuxs-random-number-generation/ On Linux's Random Number Generation    2019-12-20 10:34:07Z hn
+    2019-12-20 18:22:17Z lo
+    2019-12-21 04:39:12Z pr
+  
+https://bartwronski.com/2016/10/30/dithering-in-games-mini-series/ Dithering in games – mini series    2019-12-20 10:37:13Z hn
+    2019-12-20 10:37:16Z pr
+    2019-12-20 16:37:07Z lo
+    2021-01-20 22:17:29Z hn
+  
+https://geidav.wordpress.com/2014/04/27/an-overview-of-direct-memory-access/ An overview of direct memory access    2019-12-20 13:08:39Z hn
+    2019-12-22 06:52:03Z pr
+    2019-12-22 15:38:04Z lo
+  
+http://onqtam.com/programming/2019-12-20-pch-unity-cmake-3-16/ CMake 3.16 added support for precompiled headers & unity builds - what you need to know    2019-12-20 14:01:08Z hn
+    2019-12-20 14:09:46Z pr
+    2019-12-27 12:09:48Z lo
+    2019-12-28 10:47:09Z hn
+  
+https://julienrenaux.fr/2019/12/20/github-actions-security-risk/ Use GitHub actions at your own risk    2019-12-20 15:26:38Z hn
+    2019-12-20 17:55:05Z lo
+    2019-12-20 18:19:04Z pr
+  
+https://www.onmsft.com/news/santagate-gets-github-all-riled-up-over-visual-studio-code-icon “SantaGate” gets GitHub all riled up over Visual Studio Code icon    2019-12-20 15:28:21Z hn
+    2019-12-21 06:36:05Z lo
+  
+https://0x65.dev/blog/2019-12-20/not-all-adblockers-are-born-equal.html Not all adblockers are born equal    2019-12-20 15:44:40Z lo
+    2019-12-20 17:47:25Z hn
+  
+https://cloudfour.com/thinks/css-circles/ CSS Circles    2019-12-20 15:52:57Z hn
+    2019-12-20 15:53:22Z lo
+  
+https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/ Porting Flask to FastAPI for ML Model Serving    2019-12-20 18:27:10Z hn
+    2019-12-20 18:28:14Z lo
+  
+https://luaradio.io/new-to-sdr.html New to SDR?    2019-12-20 19:02:59Z hn
+    2019-12-20 19:52:26Z lo
+  
+https://arstechnica.com/science/2019/12/new-boson-hidden-in-beryllium-decay-check-new-physics-maybe/ New boson appears in nuclear decay, breaks standard model    2019-12-20 19:10:33Z hn
+    2019-12-20 20:00:41Z lo
+  
+https://engineering.khanacademy.org/posts/goliath.htm Go + Services = One Goliath Project    2019-12-20 21:06:14Z pr
+    2019-12-21 06:09:57Z hn
+    2019-12-21 15:12:07Z lo
+    2019-12-21 22:37:09Z hn
+  
+https://www.williamwalcher.xyz/hacking-libvmmalloc-fun-profit/ Emulating Persistent Memory in the Linux Kernel with Different Page Sizes    2019-12-20 21:23:04Z lo
+    2019-12-20 21:25:50Z hn
+  
+https://privacy.twitter.com/en/blog Twitter for Android Security Issue    2019-12-20 22:49:47Z hn
+    2019-12-20 23:02:22Z lo
+    2019-12-21 07:45:57Z hn
+  
+https://blog.emberjs.com/2019/12/20/octane-is-here.html Ember.js: Octane is Here    2019-12-20 22:55:20Z hn
+    2019-12-21 14:33:40Z lo
+  
+https://omarabid.com/the-modern-web The modern web is becoming an unusable, user-hostile wasteland    2019-12-20 23:56:25Z hn
+    2019-12-21 00:24:17Z pr
+    2019-12-21 03:41:28Z lo
+  
+https://www.vice.com/en_us/article/7x5kpb/anyone-can-build-this-open-source-drm-free-kindle-alternative Anyone Can Build This Open Source, DRM-Free Kindle Alternative    2019-12-21 00:31:05Z hn
+    2019-12-22 01:14:30Z lo
+    2020-06-20 16:43:45Z hn
+  
+http://www.hcs.harvard.edu/~jrus/Site/cocoa-text.html Cocoa Text System (2006)    2019-12-21 03:26:37Z lo
+    2019-12-22 16:40:05Z hn
+    2019-12-23 05:12:20Z hn
+    2019-12-23 20:04:46Z hn
+  
+http://laser-calcium.glitch.me/ Sarah2: A strong pen-and-paper cipher    2019-12-21 03:35:38Z lo
+    2019-12-21 14:39:56Z hn
+  
+https://github.com/TypeError/Bookmarks Bookmarks Burp Suite Extension    2019-12-21 10:46:37Z lo
+    2019-12-21 10:49:30Z hn
+  
+https://medium.com/mindorks/building-mobile-apps-ios-and-android-with-clojurescript-4600235f826c Building Mobile Apps (iOS and Android) with Clojurescript    2019-12-21 13:46:03Z hn
+    2019-12-22 03:31:57Z lo
+    2019-12-22 03:32:13Z hn
+  
+http://metamodular.com/closos.pdf CLOSOS: Specification of a Lisp operating system (2013)    2019-12-21 14:39:03Z hn
+    2020-07-04 04:24:08Z hn
+    2021-03-22 19:21:43Z lo
+  
+https://raymii.org/s/software/ScreenSaverStopper.html ScreensaverStopper, 14kb C++ utility to stop the screensaver    2019-12-21 17:47:29Z lo
+    2019-12-21 17:50:03Z hn
+  
+https://blog.bshah.in/2019/12/20/plasma-mobile-as-daily-driver/ Plasma Mobile as Daily Driver on PinePhone    2019-12-21 19:35:25Z lo
+    2019-12-22 02:52:31Z hn
+  
+https://alexnixon.github.io/2019/12/10/writing.html It's time to start writing    2019-12-21 20:13:32Z pr
+    2019-12-22 02:25:17Z lo
+    2019-12-22 09:10:29Z hn
+    2019-12-22 20:54:02Z hn
+    2019-12-23 05:08:48Z hn
+    2020-07-21 22:15:24Z hn
+  
+https://people.cs.clemson.edu/~mark/admired_designs.html Which machines do computer architects admire?    2019-12-21 20:27:31Z lo
+    2020-01-07 04:06:06Z hn
+    2020-01-08 03:48:11Z hn
+  
+https://stuartsierra.com/2019/12/21/clojure-start-time-in-2019 Clojure Start Time in 2019    2019-12-21 21:45:30Z hn
+    2019-12-22 01:32:21Z lo
+    2019-12-22 10:14:23Z hn
+    2019-12-23 11:31:04Z hn
+  
+https://samcurry.net/filling-in-the-blanks-exploiting-null-byte-buffer-overflow-for-a-40000-bounty/ Exploiting Null Byte Buffer Overflow for a $40,000 bounty    2019-12-22 02:48:26Z hn
+    2019-12-22 17:56:28Z lo
+    2019-12-26 15:19:18Z hn
+  
+https://raymii.org/s/articles/Tiny-Tiny-RSS-Readability-plaintext.html Tiny Tiny RSS + Readability == The best way to read RSS feed    2019-12-22 11:28:09Z hn
+    2019-12-22 11:52:19Z lo
+  
+https://kevq.uk/moving-to-progressive-web-apps/ Moving To Progressive Web Apps    2019-12-22 11:29:35Z hn
+    2019-12-22 11:30:02Z lo
+  
+https://relistan.com/the-kernel-may-be-slowing-down-your-app The Kernel Change That May Be Slowing Down Your App    2019-12-22 11:45:02Z lo
+    2019-12-22 11:49:48Z hn
+    2019-12-22 22:05:01Z hn
+    2020-03-09 16:06:42Z hn
+  
+https://shkspr.mobi/blog/2019/12/the-future-of-the-web-isnt-the-web/ The future of the web, isn't the web    2019-12-22 13:00:18Z hn
+    2019-12-22 13:00:46Z lo
+    2019-12-23 15:59:43Z hn
+    2020-01-02 15:02:21Z hn
+  
+https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu.html Implementing WebGPU in Gecko    2019-12-22 19:42:41Z pr
+    2019-12-23 06:01:13Z lo
+    2019-12-23 12:04:34Z hn
+  
+https://overreacted.io/on-let-vs-const/ On let vs const    2019-12-22 20:41:20Z hn
+    2019-12-23 15:26:11Z lo
+  
+http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html NSA Backdoor Key from Lotus-Notes    2019-12-22 20:51:47Z hn
+    2019-12-23 16:01:58Z lo
+  
+https://www.gamasutra.com/blogs/TristanJung/20191206/355250/How_Do_Bullets_Work_in_Video_Games.php How Do Bullets Work in Video Games?    2019-12-22 21:20:27Z hn
+    2019-12-23 11:40:42Z hn
+    2019-12-25 15:33:45Z lo
+  
+http://www.anthillcommunities.com/archives/001653.html Ant's Eye View: TrackBack: A Tragedy in Three Acts    2019-12-22 21:28:23Z hn
+    2019-12-22 21:54:27Z lo
+  
+http://www.oilshell.org/blog/2019/12/22.html Oil Example: Recognizing Python Integer Literals    2019-12-22 21:34:26Z lo
+    2019-12-23 06:16:31Z hn
+  
+https://www.ultrasaurus.com/2019/12/memory-safety-necessary-not-sufficient/ memory safety: necessary, not sufficient    2019-12-22 23:48:40Z lo
+    2019-12-24 02:52:28Z hn
+  
+https://github.com/ffwff/lilith lilith an OS made in Crystal    2019-12-23 00:47:19Z hn
+    2019-12-23 07:20:34Z pr
+    2019-12-30 22:21:51Z lo
+  
+http://degoes.net/articles/fp-glossary A Glossary of Functional Programming    2019-12-23 02:05:38Z hn
+    2019-12-23 19:48:23Z lo
+    2019-12-23 19:48:54Z hn
+    2019-12-29 09:13:45Z hn
+    2020-01-10 21:15:24Z hn
+  
+https://github.com/DoctorWkt/acwj A Compiler Writing Journey - self-compiling C subset    2019-12-23 03:59:36Z lo
+    2019-12-23 04:00:45Z hn
+    2020-01-06 11:51:10Z hn
+    2020-01-06 20:08:44Z hn
+    2020-01-07 15:00:59Z hn
+    2020-01-08 13:34:34Z pr
+  
+http://reasonablypolymorphic.com/blog/protos-are-wrong/index.html Protobuffers Are Wrong    2019-12-23 04:57:25Z lo
+    2019-12-24 01:28:02Z hn
+    2019-12-24 10:48:18Z pr
+    2019-12-24 12:21:04Z hn
+  
+http://cliffle.com/p/dangerust/ Learn Rust the Dangerous Way    2019-12-23 07:33:16Z pr
+    2019-12-23 07:38:20Z hn
+    2019-12-23 15:59:32Z lo
+  
+https://github.com/satwikkansal/wtfpython/blob/master/README.md WTF Python    2019-12-23 07:39:35Z hn
+    2019-12-23 09:42:18Z lo
+    2019-12-23 10:10:17Z pr
+  
+https://www.pixelstech.net/article/1577096152-A-tutorial-on-Github-Actions A tutorial on Github Actions    2019-12-23 11:43:28Z pr
+    2019-12-27 14:16:57Z pr
+    2019-12-28 15:05:20Z lo
+  
+https://www.silvestar.codes/articles/2019-lookback/ Reflection on 2019 web technologies    2019-12-23 11:55:08Z hn
+    2019-12-23 11:55:15Z lo
+    2019-12-23 12:02:16Z pr
+  
+https://www.bitquabit.com/post/hooks-versus-class-components/ When class-based React beats Hooks    2019-12-23 16:45:40Z lo
+    2019-12-23 19:37:26Z hn
+  
+https://www.hyperbola.info/news/announcing-hyperbolabsd-roadmap/ Hyperbola - News: Announcing HyperbolaBSD Roadmap    2019-12-23 20:44:15Z hn
+    2019-12-24 01:55:35Z lo
+  
+https://blog.yoshuawuyts.com/streams-concurrency/ Streams Concurrency    2019-12-23 20:47:29Z lo
+    2019-12-27 15:43:04Z hn
+  
+https://www.unboundtech.com/rsa-randomness-iot/ RSA, Randomness and IoT    2019-12-23 20:56:52Z lo
+    2019-12-24 12:59:59Z hn
+  
+https://raymii.org/s/blog/Run_CLion_on_Android.html Run CLion native on Android, ditch your desktop    2019-12-23 22:10:22Z lo
+    2019-12-23 22:15:06Z hn
+    2019-12-24 14:57:59Z pr
+  
+https://github.com/thedevs-network/kutt Free libre URL shortener made with TypeScript to self-host and use with custom domain (MIT license)    2019-12-23 22:18:51Z hn
+    2020-04-01 17:03:33Z lo
+  
+https://github.com/jgbyrne/jann jann - Configuration deployment utility (alternative to GNU Stow)    2019-12-23 23:50:38Z lo
+    2019-12-24 15:41:55Z hn
+  
+https://hannes.nqsb.io/Posts/DnsServer Deploying authoritative OCaml-DNS servers as MirageOS unikernels    2019-12-23 23:52:20Z hn
+    2019-12-24 23:40:09Z lo
+  
+https://github.com/shdown/luastatus luastatus — universal status bar content generator    2019-12-24 02:23:28Z lo
+    2020-12-16 17:31:53Z hn
+  
+https://objective-see.com/blog/blog_0x52.html Mass Surveillance, is an (un)Complicated Business    2019-12-24 03:57:22Z lo
+    2019-12-24 12:55:45Z hn
+  
+https://raphlinus.github.io/graphics/curves/2019/12/23/flatten-quadbez.html Flattening quadratic Béziers    2019-12-24 06:03:05Z lo
+    2019-12-24 16:29:05Z hn
+  
+https://www.junglecoder.com/blog/tabulaScriptaFirstThoughts Tabula Scripta    2019-12-24 06:48:21Z lo
+    2019-12-24 15:59:41Z hn
+    2020-01-04 06:16:08Z hn
+  
+http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2019-12.html#e2019-12-23T10_23_15.htm When did we start calling our code "programming languages?    2019-12-24 08:47:38Z lo
+    2019-12-24 08:47:45Z hn
+    2019-12-27 15:46:47Z hn
+  
+https://www.technologyreview.com/s/614893/classroom-technology-holding-students-back-edtech-kids-education/ How classroom technology is holding students back    2019-12-24 09:12:37Z hn
+    2019-12-26 18:49:00Z hn
+    2020-01-01 18:04:30Z lo
+  
+http://macias.info/entry/201912201300_graal_aot.md Java JIT vs Java AOT vs Go for small, short-lived processes    2019-12-24 09:36:39Z pr
+    2019-12-24 12:43:53Z hn
+    2019-12-24 14:44:36Z lo
+  
+https://cristianadam.eu/20191222/using-github-actions-with-c-plus-plus-and-cmake/ Using GitHub Actions with C++ and CMake    2019-12-24 09:36:42Z hn
+    2019-12-27 12:08:03Z lo
+  
+https://akrzemi1.wordpress.com/2019/12/23/short-circuiting-in-meta-functions/ Short-circuiting in meta-functions    2019-12-24 09:37:08Z hn
+    2019-12-27 12:08:33Z lo
+  
+https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/ My Business Card Runs Linux    2019-12-24 10:15:42Z hn
+    2019-12-24 10:58:45Z lo
+    2019-12-24 23:03:52Z pr
+    2019-12-25 16:31:25Z pr
+  
+https://mkws.sh/ mkws(1) - Made a website for it    2019-12-24 10:52:15Z lo
+    2019-12-24 11:09:46Z pr
+    2019-12-24 11:11:05Z hn
+    2019-12-25 03:51:56Z hn
+    2020-06-24 13:22:11Z lo
+    2020-06-25 13:30:44Z hn
+    2020-08-18 19:53:20Z hn
+    2020-08-24 13:41:08Z hn
+    2020-11-27 12:03:08Z hn
+    2021-02-12 11:26:59Z lo
+  
+https://blog.scottlogic.com/2019/12/24/webassembly-2019.html WebAssembly 2019 Year In Review    2019-12-24 10:55:44Z hn
+    2019-12-24 23:36:17Z pr
+    2019-12-28 12:15:31Z lo
+  
+https://write.privacytools.io/privacy-simplified/why-privacy-matters-even-if-you-have-nothing-to-hide Why Privacy Matters Even if “You have nothing to hide”    2019-12-24 12:49:46Z hn
+    2019-12-27 14:58:13Z lo
+    2019-12-31 19:04:33Z hn
+  
+https://blog.jonlu.ca/posts/aa-tracker Tracking flight details while in the air    2019-12-24 13:15:24Z hn
+    2019-12-24 13:16:10Z lo
+  
+https://kevq.uk/privacy-security-are-different-round-2/ Privacy & Security Are Different - Round 2    2019-12-24 13:37:58Z lo
+    2019-12-24 13:38:28Z hn
+  
+https://labs.iamhamy.xyz/posts/i-moved-to-netlify-from-gke-and-saved-60-per-month/ I moved my sites from Google Kubernetes Engine to Netlify and saved $1000 / year (plus numerous hours of maintenance)    2019-12-24 16:08:38Z hn
+    2019-12-24 19:36:02Z lo
+  
+https://thenewstack.io/how-the-u-s-air-force-deployed-kubernetes-and-istio-on-an-f-16-in-45-days/ How the U.S. Air Force Deployed Kubernetes and Istio on an F-16 in 45 days    2019-12-24 17:30:29Z hn
+    2019-12-25 10:55:14Z hn
+    2019-12-25 12:09:24Z lo
+    2019-12-25 22:01:46Z hn
+    2019-12-26 13:17:13Z hn
+    2019-12-30 17:53:55Z hn
+    2020-01-20 14:46:51Z hn
+    2020-04-18 13:13:15Z hn
+  
+https://m-cacm.acm.org/magazines/2020/1/241717-publish-and-perish/fulltext Publish and Perish    2019-12-24 17:31:50Z hn
+    2019-12-25 21:48:36Z lo
+  
+https://www.polygon.com/features/2019/12/24/21029936/castle-wolfenstein-silas-warner The man who made Wolfenstein    2019-12-24 17:51:11Z hn
+    2020-01-02 15:01:27Z lo
+  
+https://www.taniarascia.com/2019-into-2020/ Everything I learned and built in 2019    2019-12-24 21:38:30Z hn
+    2019-12-25 21:25:43Z lo
+  
+https://blog.nelhage.com/post/two-kinds-of-testing/ Two kinds of testing    2019-12-24 22:18:31Z lo
+    2019-12-26 21:24:15Z hn
+    2020-01-16 15:27:55Z hn
+  
+https://thehighnibble.com/imsai8080/ IMSAI 8080 CP-A Front Panel replica    2019-12-25 01:09:13Z hn
+    2019-12-26 07:03:38Z lo
+  
+https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/ Learning hardware programming as a software engineer    2019-12-25 05:31:58Z pr
+    2019-12-25 05:48:06Z lo
+    2019-12-25 12:38:22Z hn
+  
+https://tools.ietf.org/html/rfc8700 RFC 8700 - Fifty Years of RFCs    2019-12-25 06:15:31Z hn
+    2019-12-26 13:50:37Z pr
+    2020-01-07 08:45:05Z lo
+  
+https://github.com/coosto/redex A Redis like server for Cloud Native read intensive workloads in Elixir    2019-12-25 14:28:47Z lo
+    2019-12-26 17:46:51Z hn
+  
+https://overreacted.io/what-are-the-react-team-principles/ What Are the React Team Principles?    2019-12-25 14:55:22Z hn
+    2019-12-25 15:00:27Z lo
+  
+https://hannes.nqsb.io/Posts/Pinata The Bitcoin Piñata - no candy for you    2019-12-25 18:00:57Z lo
+    2019-12-25 23:13:33Z hn
+  
+http://www.chiark.greenend.org.uk/~peterb/hawking/ Professor Hawking's Voice    2019-12-25 22:03:06Z hn
+    2020-01-20 22:35:56Z lo
+  
+https://lord-left.github.io/posts/love-coding-c.html Why I love Coding in C    2019-12-26 13:43:27Z hn
+    2019-12-26 14:41:15Z pr
+    2019-12-26 15:21:06Z lo
+  
+https://blog.joshwalsh.me/lyrics-3/ Lyrics 3.0 - Abusing CSS Custom Properties to create themeable synchronised lyrics    2019-12-26 15:10:55Z pr
+    2019-12-26 15:26:02Z lo
+  
+https://qvault.io/2019/12/26/very-basic-shamirs-secret-sharing/ (Very) Basic Shamir's Secret Sharing    2019-12-26 15:56:38Z hn
+    2019-12-26 21:30:16Z pr
+    2019-12-29 18:56:29Z lo
+  
+https://www.evanmiller.org/statistical-shortcomings-in-standard-math-libraries.html Statistical Shortcomings in Standard Math Libraries (And How To Fix Them) (2014)    2019-12-26 17:21:17Z hn
+    2020-06-17 21:01:42Z lo
+  
+https://medium.com/@foghina/reverse-engineering-a-tcp-protocol-455d248d68fa Reverse Engineering a TCP protocol    2019-12-26 17:43:31Z hn
+    2019-12-26 17:55:41Z pr
+    2019-12-27 01:21:23Z lo
+  
+https://vimways.org/2019/writing-vim-plugin/ Writing a Vim Plugin    2019-12-26 19:30:22Z hn
+    2019-12-26 22:45:48Z lo
+  
+https://ahelwer.ca/post/2019-12-21-quantum-chemistry/ Simulating physical reality with a quantum computer    2019-12-26 20:01:40Z hn
+    2019-12-26 20:08:56Z lo
+  
+https://jvns.ca/blog/2019/12/26/whats-a-server/ "server" is hard to define    2019-12-26 20:55:18Z hn
+    2019-12-26 21:57:17Z lo
+    2019-12-27 05:25:53Z hn
+    2019-12-27 23:56:14Z hn
+    2019-12-30 00:33:32Z hn
+    2020-04-11 09:51:50Z hn
+  
+https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf The Genuine Sieve of Eratosthenes    2019-12-26 20:56:33Z hn
+    2020-01-06 22:53:01Z lo
+  
+https://currencyscoop.com/the-bahamas-central-bank-to-introduce-a-digital-version-of-the-bahamian-dollar/ The Bahamas Central Bank to Introduce a Digital Version of the Bahamian Dollar    2019-12-26 22:33:04Z hn
+    2019-12-26 22:33:41Z lo
+  
+https://github.com/charmbracelet/glow glow: a stylish markdown viewer for the CLI    2019-12-27 00:51:44Z lo
+    2019-12-27 22:32:19Z hn
+    2020-10-09 22:10:39Z hn
+    2020-10-17 14:45:36Z hn
+    2020-10-19 19:21:59Z pr
+    2020-10-26 12:30:19Z pr
+  
+https://feoh.org/2019/12/27/the-eternal-novice-trap/ The Eternal Novice Trap    2019-12-27 01:25:43Z lo
+    2019-12-27 04:35:27Z pr
+    2019-12-27 09:18:08Z hn
+    2019-12-27 18:55:37Z hn
+    2019-12-28 23:38:22Z hn
+  
+https://mjtsai.com/blog/2019/12/26/apple-news-no-longer-supports-rss/ Apple News No Longer Supports RSS    2019-12-27 05:21:24Z hn
+    2019-12-27 17:34:33Z hn
+    2019-12-27 18:22:37Z lo
+  
+https://utcc.utoronto.ca/~cks/space/blog/unix/CLibraryAPIRequiresC The Unix C library API can only be reliably used from C    2019-12-27 06:46:33Z lo
+    2019-12-27 06:46:56Z hn
+  
+https://mjg59.dreamwidth.org/53968.html Wifi deauthentication attacks and home security    2019-12-27 06:47:49Z lo
+    2019-12-27 07:48:56Z hn
+  
+https://www.youtube.com/watch?v=85ZCTuekjGA Building a 6800 CPU on an FPGA with nMigen (part 1)    2019-12-27 07:36:38Z lo
+    2020-01-28 02:38:00Z hn
+  
+https://streaming.media.ccc.de/36c3 36C3 live Streaming    2019-12-27 07:54:16Z lo
+    2019-12-27 08:14:35Z hn
+  
+https://kunigami.blog/2019/12/26/python-type-hints/ Python Type Hints    2019-12-27 08:49:04Z hn
+    2019-12-29 03:06:55Z lo
+  
+https://www.embeddeduse.com/2019/12/21/safe-guarding-the-lgpl-future-of-qt/ Safe-Guarding the (L)GPL Future of Qt    2019-12-27 12:11:26Z lo
+    2019-12-29 15:46:01Z hn
+    2019-12-31 00:51:30Z hn
+    2019-12-31 10:39:47Z hn
+  
+https://www.bunniestudios.com/blog/?p=5706 Can We Build Trustable Hardware?    2019-12-27 12:55:57Z hn
+    2019-12-27 15:13:07Z lo
+    2020-02-04 12:22:03Z pr
+  
+http://slipset.github.io/posts/Why-Clojure-is-my-favourite-language Why Clojure Is My Favourite Language    2019-12-27 13:40:26Z lo
+    2019-12-27 13:41:40Z hn
+  
+https://www.parsonsmatt.org/2019/12/26/write_junior_code.html A plea to Haskellers everywhere: Write Junior Code    2019-12-27 14:12:24Z lo
+    2019-12-28 16:17:02Z hn
+  
+https://github.com/riggraz/astuto Astuto: an open source customer feedback tool    2019-12-27 14:36:04Z lo
+    2019-12-27 16:18:35Z hn
+    2020-01-10 15:03:16Z pr
+  
+https://www.davidsopas.com/gone-in-30-seconds-a-hid-cable-story-tale/ Gone in 30 seconds – a HID cable story tale    2019-12-27 14:43:56Z lo
+    2019-12-27 16:07:57Z hn
+    2019-12-28 07:34:48Z hn
+  
+https://eprint.iacr.org/2019/1336.pdf Critical Perspectives on Provable Security: Fifteen Years of "Another Look" Papers    2019-12-27 15:48:16Z lo
+    2020-01-14 11:22:35Z hn
+    2021-04-21 16:38:05Z hn
+  
+https://www.kamilgrzybek.com/design/modular-monolith-architectural-drivers/ Modular Monolith: Architectural Drivers    2019-12-27 15:58:36Z pr
+    2019-12-28 06:18:38Z lo
+  
+http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/ A Thought Experiment: Using the ECS Pattern Outside of Game Engines    2019-12-27 16:16:06Z hn
+    2019-12-28 00:45:34Z hn
+    2019-12-28 13:02:03Z lo
+  
+https://blog.pragmaticengineer.com/readable-code/ Readable Code    2019-12-27 16:19:59Z hn
+    2019-12-27 17:17:46Z lo
+    2019-12-27 18:25:53Z pr
+    2019-12-28 17:58:14Z hn
+  
+https://write.privacytools.io/privacy-simplified/privacy-by-compartmentalisation Privacy by Compartmentalisation    2019-12-27 17:06:19Z hn
+    2019-12-27 17:06:52Z lo
+  
+https://www.multicians.org/ The story of the Multics Operating system    2019-12-27 18:00:37Z hn
+    2019-12-28 13:05:11Z lo
+  
+http://nsl.com/papers/style.pdf K: Remarks on style    2019-12-27 20:13:32Z hn
+    2019-12-28 20:02:57Z hn
+    2019-12-30 10:54:02Z hn
+    2019-12-31 17:54:31Z hn
+    2019-12-31 19:27:53Z lo
+  
+https://artemix.org/blog/barebones-git.html Barebones git    2019-12-27 21:07:54Z hn
+    2019-12-27 21:08:22Z lo
+  
+https://media.ccc.de/v/36c3-10703-the_ultimate_acorn_archimedes_talk The Ultimate Acorn Archimedes talk    2019-12-27 22:19:33Z hn
+    2019-12-28 08:36:25Z hn
+    2019-12-28 19:16:45Z hn
+    2020-01-03 07:23:31Z lo
+  
+https://blog.saeloun.com/2019/10/23/ruby-lazy-enumerators.html Ruby Lazy Enumerators    2019-12-28 00:41:12Z hn
+    2019-12-29 16:47:42Z pr
+    2019-12-29 21:05:34Z pr
+    2019-12-30 09:45:31Z lo
+  
+https://attractivechaos.wordpress.com/2019/12/28/deletion-from-hash-tables-without-tombstones/ Deletion from hash tables without tombstones    2019-12-28 02:50:38Z pr
+    2019-12-28 06:18:04Z lo
+  
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusGrafanaSetup-2019 Our setup of Prometheus and Grafana (as of the end of 2019)    2019-12-28 07:56:36Z lo
+    2019-12-28 07:57:08Z hn
+  
+https://blog.sesse.net/blog/tech/2019-12-28-00-03_introduction_to_the_unicode_collation_algorithm.html Introduction to the Unicode Collation Algorithm    2019-12-28 08:30:22Z lo
+    2019-12-29 22:05:37Z hn
+  
+https://github.com/aws/jsii jsii — use Javascript from any language    2019-12-28 09:35:52Z lo
+    2020-05-21 11:01:26Z hn
+  
+https://media.ccc.de/v/36c3-10936-inside_the_fake_like_factories Inside the Fake Like Factories    2019-12-28 10:54:38Z hn
+    2019-12-30 03:24:40Z hn
+    2019-12-30 14:16:23Z hn
+    2020-10-28 16:27:31Z lo
+  
+https://docs.google.com/document/d/1-aLUwnN0XzLbzICnFLWfCLuD4ULYXGcKAoyRAqTuAIY/preview# The Type System of the Future    2019-12-28 11:00:15Z hn
+    2019-12-29 01:05:08Z lo
+    2019-12-29 16:26:15Z hn
+  
+https://kemenaran.winosx.com/posts/links-awakening-disassembly-progress-report-part-9/ Link’s Awakening disassembly progress report – part 9    2019-12-28 16:24:45Z lo
+    2019-12-29 08:35:57Z hn
+  
+https://rosettagit.org/ RosettaGit = RosettaCode - MediaWiki + Github    2019-12-28 18:03:31Z hn
+    2019-12-28 19:44:30Z pr
+    2019-12-29 16:39:31Z lo
+  
+https://ahelwer.ca/post/2018-12-07-chsh/ Walking the faster-than-light tightrope: quantum entanglement and the CHSH game    2019-12-28 18:12:33Z lo
+    2020-09-14 22:24:45Z hn
+  
+https://nullprogram.com/blog/2019/12/28/ Unintuitive JSON Parsing    2019-12-28 18:36:58Z hn
+    2019-12-28 19:54:41Z lo
+    2019-12-28 20:25:15Z pr
+  
+https://ebababi.net/dockerfile-for-ruby-on-rails-deployments.html Dockerfile for Ruby on Rails Deployments    2019-12-28 20:48:55Z lo
+    2019-12-28 20:59:41Z hn
+  
+http://ucbvax.berkeley.edu/passing-of-ucbvax.txt The passing of ucbvax    2019-12-28 23:10:10Z hn
+    2019-12-28 23:14:02Z lo
+  
+https://www.benkuhn.net/11 The unreasonable effectiveness of one-on-ones    2019-12-29 03:05:42Z lo
+    2019-12-30 01:26:09Z hn
+  
+http://bofh.bjash.com/ The Bastard Operator From Hell Complete WWW Archive    2019-12-29 03:09:45Z hn
+    2020-12-05 16:43:12Z lo
+  
+https://nullprogram.com/blog/2019/12/29/ Purgeable Memory Allocations for Linux    2019-12-29 03:48:43Z lo
+    2019-12-29 05:33:12Z hn
+    2019-12-29 20:35:03Z hn
+    2019-12-30 22:06:31Z hn
+    2020-05-02 02:59:44Z hn
+  
+https://feeding.cloud.geek.nz/posts/encoding-wifi-access-point-passwords-qr-code/ Encoding your WiFi access point password into a QR code    2019-12-29 07:50:15Z hn
+    2019-12-29 12:03:50Z pr
+    2019-12-29 15:07:49Z lo
+  
+https://github.com/launchbadge/sqlx SQLx -- typesafe pure SQL on Rust    2019-12-29 07:57:19Z lo
+    2019-12-30 07:15:03Z hn
+    2020-01-03 15:43:58Z hn
+    2020-01-04 09:42:56Z hn
+  
+https://www.youtube.com/watch?v=WGe-gYRSM7c Mathematical diseases in climate models and how to cure them    2019-12-29 09:14:29Z hn
+    2019-12-31 04:49:40Z hn
+    2020-01-05 10:48:41Z lo
+  
+https://medium.com/@franzejr/the-power-of-elm-in-javascript-816b127e4553 The Power of Elm in JavaScript    2019-12-29 11:36:36Z lo
+    2019-12-29 11:36:59Z hn
+  
+https://medium.com/@byuu_san/googles-monopoly-is-stifling-free-software-e63dea114f39 Google’s Monopoly is Stifling Free Software    2019-12-29 11:38:03Z hn
+    2019-12-29 12:18:15Z lo
+  
+https://blog.neillyons.io/I-tried-to-win-1000-dollars-recently/ I tried to win $1,000 recently    2019-12-29 12:45:35Z hn
+    2019-12-30 20:03:47Z lo
+  
+https://charemza.name/blog/posts/methodologies/dependencies/questions-to-ask-yourself-when-considering-a-dependency/ Questions to ask yourself when considering a dependency    2019-12-29 12:54:38Z hn
+    2020-01-15 16:50:33Z lo
+    2020-01-16 00:26:34Z hn
+    2020-04-20 12:28:47Z pr
+  
+https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc Notes on the Go translation of Reposurgeon    2019-12-29 13:04:56Z hn
+    2020-01-25 11:30:26Z hn
+    2020-01-29 15:19:44Z hn
+    2020-02-11 23:32:00Z hn
+    2020-02-11 23:33:43Z pr
+    2020-02-12 08:44:37Z lo
+    2020-02-15 13:25:18Z pr
+  
+https://mauricio.szabo.link/blog/2019/12/27/ubiquitous-interface-how-to-integrate-things-in-clojure/ Ubiquitous interface – how to integrate things in Clojure    2019-12-29 13:06:37Z lo
+    2019-12-29 13:08:30Z hn
+  
+https://www.neuraxio.com/en/blog/clean-code/2019/12/26/machine-learning-competition-code.html A Rant on Kaggle Competition Code (and Most Research Code)    2019-12-29 16:37:32Z hn
+    2019-12-29 17:01:34Z lo
+  
+https://www.neuraxio.com/en/blog/deep-learning/2019/12/29/why-deep-learning-has-a-bright-future.html Why Deep Learning has a Bright Future    2019-12-29 16:41:40Z hn
+    2019-12-29 17:00:26Z lo
+    2019-12-30 14:05:33Z hn
+  
+https://www.sourcesort.com/interview/making-an-open-source-privacy-conscious-alternative-to-google-analytics Making an open source, privacy-conscious alternative to Google Analytics    2019-12-29 16:46:53Z hn
+    2019-12-29 19:35:59Z lo
+  
+https://www.huderlem.com/blog/posts/carrot-crazy-1/ Reverse Engineering Carrot Crazy - Part 1 - Passwords    2019-12-29 19:20:09Z hn
+    2019-12-29 19:26:31Z pr
+    2019-12-30 05:43:40Z lo
+  
+https://media.ccc.de/v/36c3-10519-a_systematic_evaluation_of_openbsd_s_mitigations A systematic evaluation of OpenBSD's mitigations    2019-12-29 20:51:18Z hn
+    2019-12-29 22:01:00Z lo
+  
+https://blog.jabberhead.tk/2019/12/29/re-the-ecosystem-is-moving/ Re: The Ecosystem is Moving    2019-12-29 21:41:26Z hn
+    2019-12-31 10:44:48Z lo
+    2019-12-31 21:58:11Z hn
+  
+https://blog.pragmaticengineer.com/distributed-systems-learnings-in-2019/ Distributed systems learnings in 2019    2019-12-29 22:04:45Z lo
+    2019-12-29 22:05:20Z hn
+  
+https://piechowski.io/post/what-is-the-best-time-for-standup-meetings/ What is the best time for stand-up meetings?    2019-12-29 22:08:36Z hn
+    2020-01-02 16:35:42Z pr
+    2020-01-05 06:18:47Z lo
+  
+https://www.vincit.fi/en/software-development-450-words-per-minute/ (Blind) software development 450 words per minute    2019-12-29 23:18:36Z lo
+    2019-12-30 15:19:11Z pr
+    2020-01-28 13:44:44Z hn
+  
+https://www.juricho.me/posts/puzzle-generator/ Write a jigsaw puzzle generator in Elm    2019-12-30 00:41:01Z lo
+    2020-01-02 04:39:49Z hn
+  
+https://nanxiao.me/en/cacheline-orientated-programming/ Cacheline-Orientated programming    2019-12-30 02:31:20Z hn
+    2019-12-30 11:53:20Z lo
+  
+https://magic-wormhole.readthedocs.io/en/latest/ Magic-Wormhole: Get Things From One Computer To Another, Safely    2019-12-30 05:07:11Z lo
+    2019-12-31 20:08:17Z hn
+  
+https://gamozolabs.github.io/metrology/2019/12/30/load-port-monitor.html CPU Introspection: Intel Load Port Snooping    2019-12-30 05:44:56Z hn
+    2019-12-30 05:45:57Z pr
+    2019-12-30 15:59:10Z lo
+  
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusWhyHistory The history and background of us using Prometheus    2019-12-30 06:44:35Z hn
+    2019-12-30 06:45:10Z lo
+  
+https://lethalguitar.wordpress.com/2019/12/29/rigelengine-adding-a-wide-screen-mode/ RigelEngine: Adding a wide-screen mode    2019-12-30 09:13:48Z lo
+    2019-12-30 20:10:52Z hn
+  
+https://jameshfisher.com/2019/12/29/what-are-css-percentages/ What are CSS percentages?    2019-12-30 09:41:01Z lo
+    2019-12-30 17:34:13Z hn
+  
+https://donatstudios.com/UNIX-Keyboards The Joys of UNIX Keyboards    2019-12-30 09:47:32Z hn
+    2019-12-30 13:36:33Z lo
+  
+https://github.com/kesiev/rewtro Rewtro: play tiny videogames encoded in origami cartridges    2019-12-30 12:19:21Z hn
+    2019-12-30 17:12:01Z lo
+  
+https://arturdryomov.dev/posts/on-technical-writing/ On Technical Writing    2019-12-30 12:33:23Z hn
+    2019-12-31 09:32:32Z lo
+  
+https://tonsky.me/blog/good-times-weak-men/ Good times create weak men    2019-12-30 12:51:40Z hn
+    2019-12-31 13:20:00Z hn
+    2020-01-02 01:00:02Z hn
+    2020-01-02 10:14:34Z lo
+  
+https://protonmail.com/blog/protoncalendar-beta-announcement/ The ProtonCalendar beta is available now    2019-12-30 14:08:22Z hn
+    2019-12-30 17:32:54Z lo
+    2019-12-30 20:21:12Z hn
+  
+https://drewdevault.com//2019/12/30/dotfiles.html Managing my dotfiles as a git repository    2019-12-30 14:11:57Z hn
+    2019-12-30 15:57:37Z lo
+  
+https://github.com/p-ranav/tabulate Table Maker for Modern C++    2019-12-30 16:24:48Z hn
+    2019-12-31 03:41:05Z pr
+    2020-01-02 13:19:32Z lo
+    2020-08-19 22:38:33Z hn
+  
+https://github.com/mvdan/sh mvdan/sh: POSIX shell in Go    2019-12-30 17:00:52Z lo
+    2019-12-30 17:05:31Z hn
+  
+https://chelseatroy.com/2019/12/30/posd-2-what-causes-insidious-bugs/ PoSD 2: What causes insidious bugs?    2019-12-30 17:59:49Z lo
+    2020-01-08 00:07:30Z hn
+  
+https://jameshfisher.com/2019/12/30/browsing-my-genome/ Browsing my genome    2019-12-30 18:51:48Z lo
+    2019-12-30 21:33:45Z hn
+  
+https://writings.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/ Dropping In on Gottfried Leibniz (2013)    2019-12-30 19:10:59Z hn
+    2021-03-31 02:10:23Z hn
+    2021-03-31 02:10:57Z lo
+    2021-03-31 02:21:38Z pr
+  
+https://piechowski.io/post/how-to-use-greater-than-less-than-active-record/ Rails: How to Use Greater Than/Less Than in Active Record where Statements    2019-12-30 19:23:33Z hn
+    2020-01-04 19:07:06Z lo
+  
+https://blog.alexellis.io/faasd-for-lightweight-serverless/ faasd - lightweight Serverless for your Raspberry Pi    2019-12-30 20:43:35Z hn
+    2019-12-30 21:34:37Z lo
+    2019-12-31 10:00:31Z hn
+    2020-01-01 12:53:57Z hn
+    2020-01-03 12:33:03Z hn
+    2020-01-09 12:47:39Z hn
+    2020-04-25 09:08:03Z hn
+    2020-10-24 08:48:17Z hn
+  
+https://blog.sigplan.org/2019/12/30/defunctionalization-everybody-does-it-nobody-talks-about-it/ Defunctionalization: Everybody Does It, Nobody Talks About It    2019-12-30 21:14:16Z hn
+    2019-12-31 03:42:19Z lo
+    2020-01-16 08:43:18Z pr
+  
+https://eprint.iacr.org/2019/1492.pdf Too much crypto    2019-12-30 21:47:29Z lo
+    2019-12-30 21:57:51Z hn
+  
+https://www.doxsey.net/blog/strategies-for-working-with-message-queues Strategies for Working with Message Queues    2019-12-30 21:47:59Z lo
+    2019-12-30 21:48:24Z hn
+  
+https://neilmadden.blog/2019/12/30/a-few-comments-on-age/ A few comments on ‘age’    2019-12-30 21:49:08Z hn
+    2019-12-30 21:50:18Z lo
+    2019-12-31 08:00:46Z hn
+  
+https://99percentinvisible.org/episode/the-eliza-effect/ The ELIZA Effect    2019-12-30 22:14:19Z hn
+    2020-08-16 00:54:54Z hn
+    2020-08-16 17:57:57Z lo
+  
+https://www.transposit.com/blog/2019.12.30-20-years-since-y2k-evolution-of-it-operations-and-devops/ 20 Years Since Y2K: The Evolution of IT Operations and DevOps    2019-12-30 23:05:00Z hn
+    2020-01-24 11:16:10Z lo
+  
+https://pulsar.apache.org/ Apache Pulsar is an open-source distributed pub-sub messaging system    2019-12-31 01:33:55Z hn
+    2019-12-31 23:05:06Z lo
+    2020-01-02 15:40:17Z hn
+    2020-01-02 19:12:54Z pr
+  
+https://github.com/Fire30/CTF-WRITEUPS/tree/master/36c3_ctf/wisdom SerenityOS was hacked in a 36c3 CTF! (Exploit and write-up)    2019-12-31 01:49:30Z hn
+    2019-12-31 02:19:32Z pr
+    2019-12-31 02:30:09Z lo
+  
+https://cvlad.info/junior-developers/ Hire and Train Haskell Junior Developers    2019-12-31 03:55:19Z lo
+    2019-12-31 11:15:35Z hn
+  
+https://mlir.llvm.org/ MLIR is now an LLVM subproject    2019-12-31 04:12:44Z lo
+    2020-09-04 18:48:26Z hn
+  
+https://orbifold.xyz/zen-of-python.html Meditations on the Zen of Python    2019-12-31 05:02:25Z lo
+    2020-01-01 14:43:42Z hn
+    2020-01-13 04:57:44Z hn
+  
+https://spectrum.ieee.org/tech-history/silicon-revolution/the-crazy-story-of-how-soviet-russia-bugged-an-american-embassys-typewriters The Crazy Story of How Soviet Russia Bugged an American Embassy’s Typewriters    2019-12-31 05:16:51Z hn
+    2019-12-31 20:06:06Z hn
+    2020-01-02 09:56:13Z hn
+    2020-01-03 21:34:38Z hn
+    2020-01-07 20:16:56Z hn
+    2020-01-09 05:26:59Z hn
+    2020-12-01 23:34:32Z lo
+  
+https://en.wikipedia.org/sec-warning Wikipedia removing support for old Android smartphones and "Web Security" software    2019-12-31 06:38:34Z lo
+    2019-12-31 15:42:29Z hn
+  
+https://probablydance.com/2019/12/30/measuring-mutexes-spinlocks-and-how-bad-the-linux-scheduler-really-is/ Measuring Mutexes, Spinlocks and how Bad the Linux Scheduler Really is    2019-12-31 06:52:42Z lo
+    2019-12-31 09:56:04Z hn
+    2019-12-31 18:45:16Z hn
+  
+https://privacylog.blogspot.com/2019/12/the-second-sha-collision.html The Second SHA Collision    2019-12-31 07:38:42Z hn
+    2019-12-31 13:03:33Z lo
+    2019-12-31 13:28:24Z pr
+  
+https://leimao.github.io/blog/noexcept-Specifier-CPP/ Use noexcept for Exception Handling in C++ Programs    2019-12-31 08:02:53Z hn
+    2020-01-01 10:29:59Z lo
+  
+https://github.com/pingcap/chaos-mesh Chaos Mesh: A cloud-native Chaos Engineering platform    2019-12-31 08:51:21Z hn
+    2020-01-01 06:17:05Z hn
+    2020-01-02 07:33:25Z lo
+    2020-01-03 07:01:42Z pr
+  
+https://blog.codecentric.de/en/2019/12/lessons-learned-from-a-successful-project/ Lessons learned from a successful project    2019-12-31 08:57:29Z lo
+    2020-01-24 08:27:07Z hn
+  
+https://pointieststick.com/2019/12/31/2019-the-year-in-review/ 2019: the KDE year in review    2019-12-31 08:59:16Z lo
+    2019-12-31 10:13:27Z hn
+  
+https://anthony.som.codes/blog/2019-12-30-jvm-hackery-noverify/ Circumventing the JVM's bytecode verifier    2019-12-31 09:56:03Z lo
+    2019-12-31 16:01:29Z hn
+    2019-12-31 21:31:51Z pr
+  
+https://krovetz.net/csus/papers/vmac-aead.pdf Patent-Free Authenticated-Encryption As Fast As OCB (2007)    2019-12-31 10:25:38Z hn
+    2019-12-31 10:26:52Z lo
+  
+https://www.pixelstech.net/article/1577768087-Create-temp-file-in-Bash-using-mktemp-and-trap Create temp file in Bash using mktemp and trap    2019-12-31 11:47:52Z pr
+    2020-01-08 16:01:53Z lo
+  
+https://media.ccc.de/v/36c3-10701-select_code_execution_from_using_sqlite SELECT code_execution FROM * USING SQLite    2019-12-31 12:14:49Z hn
+    2020-02-12 13:13:32Z hn
+    2020-06-13 16:22:55Z hn
+    2020-06-13 19:10:58Z lo
+  
+https://www.bfilipek.com/2019/12/cpp-status-2019.html C++ at the end of 2019    2019-12-31 12:50:30Z lo
+    2019-12-31 13:26:00Z hn
+    2019-12-31 18:41:24Z pr
+    2020-01-24 11:25:25Z hn
+  
+https://www.techdirt.com/articles/20191226/12031843636/tracking-college-students-everywhere-they-go-campus-is-new-normal.shtml Tracking College Students Everywhere They Go On Campus Is The New Normal    2019-12-31 14:51:54Z lo
+    2019-12-31 14:52:24Z hn
+  
+https://kronopath.net/blog/atypical-a-differently-optimized-type-system/ Atypical: A Differently-Optimized Type System    2019-12-31 15:47:03Z hn
+    2019-12-31 15:47:31Z pr
+    2020-01-01 14:46:34Z lo
+  
+https://www.thinkprivacy.io/cutting-the-wire Cutting the Wire    2019-12-31 15:58:48Z hn
+    2020-01-01 10:28:00Z hn
+    2020-01-01 10:29:41Z lo
+  
+https://www.python.org/psf/press-release/pr20191220/ Python 2 Series to be Retired by April 2020    2019-12-31 17:54:24Z pr
+    2019-12-31 19:04:58Z hn
+    2020-01-01 16:32:48Z lo
+    2020-01-06 14:21:49Z hn
+  
+https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/ A (Very) Basic Intro To Elliptic Curve Cryptography    2019-12-31 18:09:32Z pr
+    2019-12-31 18:09:55Z hn
+    2020-05-31 15:07:20Z hn
+    2020-06-03 14:57:56Z lo
+  
+https://blog.pragmaticengineer.com/the-decade-in-review-in-software-development/ The Decade in Review for Software Development    2019-12-31 19:11:13Z hn
+    2019-12-31 21:41:09Z lo
+    2020-01-01 18:11:04Z hn
+  
+https://godotengine.org/article/retrospective-and-future Godot Engine - A decade in retrospective and future    2019-12-31 19:23:49Z pr
+    2020-01-01 14:47:56Z lo
+    2020-01-01 16:42:43Z hn
+  
+https://pythonclock.org/?2020 Python 2.7 Happy new year    2019-12-31 19:49:17Z hn
+    2019-12-31 19:50:24Z lo
+    2020-01-01 16:02:19Z hn
+  
+https://sentido-labs.com/en/library/#osm-2019 The Nigerian Oil Spill Monitor, and the Gas Flare Tracker    2019-12-31 22:04:45Z lo
+    2019-12-31 22:07:46Z hn
+  

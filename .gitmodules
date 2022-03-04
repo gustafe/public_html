@@ -1,0 +1,3 @@
+[submodule "portfolio/stacey-template2"]
+	path = portfolio/stacey-template2
+	url = git@github.com:kolber/stacey-template2.git

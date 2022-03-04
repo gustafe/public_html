@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>About HN&amp;&amp;LO</title>
+
+<link rel="stylesheet" href="https://gerikson.com/stylesheets/hnlo.css"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+<meta charset="utf-8"/>
+
+
+<script src="http://gerikson.com/js/pretty.js"></script>
+
+<script>
+window.onload = function(){
+	var links = document.getElementById("generated");	
+
+		if ( links.getAttribute("timestamp")) {
+			var date = prettyDate(links.getAttribute("timestamp"));
+			if ( date )
+				links.innerHTML = date;
+		}
+};
+</script>
+
+</head>
+<body>
+<h1>What's all this about, then?</h1>
+
+<p>This is a little page that scrapes the APIs for 
+<a href="https://lobste.rs">Lobste.rs</a>, 
+<a href="https://news.ycombinator.com/">Hacker News</a>, and 
+<a href="https://www.reddit.com/r/programming/">Reddit's /r/Programming</a>, 
+compares URLs for submissions, and prints a match if the URLs are the same.</p>
+
+<p>I wrote it to give more depth to the  discussions on Lobste.rs.</p>
+
+<p>The numbers at the end of each submission is the score (net number of
+upvotes), the number of comments, and the comment/score ratio. The
+ratio is only printed if the sum of the score and comments is 10 or
+more.</p>
+
+<p><a name="changelog"/></p>
+
+<h2>Changelog</h2>
+
+<ul>
+<li>2021-05-31 - HTTPS implemented    </li>
+<li>2019-08-20 - links from /r/Programming that are shared with the links on Lobste.rs are now shown.</li>
+<li>2019-08-15 - Link  now show multiple entries, if they're present. Items are often reposted on HN , and previously just the first occurence in time was presented. </li>
+</ul>
+
+<h2>How it works</h2>
+
+<p>A script is run hourly, reading the latest entries from both
+sites. Then the page is generated.</p>
+
+<p>The SQL is basically </p>
+
+<pre><code>select lo.url from lobsters lo
+left outer  join hackernews hn 
+on hn.url = lo.url
+left outer join proggit pr
+on pr.url = lo.url
+</code></pre>
+
+<h2>Limitations</h2>
+
+<p>It only matches URLs exactly, so if there are extraneous elements in a
+submission to one site, it won't show up.</p>
+
+<p>While the HN API offers a list of the latest 500 entries, the script
+only scan the <a href="https://lobste.rs/newest"><code>/newest</code></a> page on Lobste.rs,
+and if the number of new entries manages to replace the page entirely
+between reads, the script might miss entries.</p>
+
+<p>The scores and comments are only updated occasionally as I don't want to overload the API endpoints.</p>
+
+<p><a name="todo"/></p>
+
+<h2>TODO</h2>
+
+<ul>
+<li>top scoring and commented post per year</li>
+<li>better formatting of archive page</li>
+<li>ensure "last generated on" JS code works in different timezones</li>
+<li><strike>make sure monthly stats are limited in time</strike></li>
+<li><strike>present data for ratios etc. in an informative way</strike></li>
+<li><strike>add Lobste.rs tags to entries</strike></li>
+<li><strike>stats pages at end of each month</strike></li>
+</ul>
+
+<p>This page was generated on <em>2021-08-25 08:39:39+0200</em>.</p>
+
+
+<hr />
+<address>
+<p>Lovingly handcrafted in Perl 5 using Emacs. This page is manually generated.</p>
+</address>
+</body>
+</html>
+
+
