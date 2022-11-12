@@ -118,7 +118,7 @@ td {
 	padding: 5px 5px;
 	text-align: right;
 }
-
+td.text { text-align: left; }
 hr {
     color: #CCC;
     border: dotted 1px #CCC;
