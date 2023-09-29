@@ -42,11 +42,11 @@ div.dateheader {
 
 /* BODY */
 h1, h2, h3, h4 , h5, h6 {
-        font-family: helvetica, arial, sans-serif;  
+    font-family: helvetica, arial, sans-serif;  
     font-size:1em; 
- 	line-height: 1.286;
-	margin-top: 1.286em;
-	margin-bottom: 1.286em;
+    line-height: 1.286;
+    margin-top: 1.286em;
+    margin-bottom: 1.286em;
 }
 
 body {
@@ -72,7 +72,7 @@ pre,code {
 
 a {
 /*    color:#999; */
-    }
+}
 
 input {
 /*    background: #2B2B2B;
@@ -90,7 +90,7 @@ abbr, acronym {
 }
 blockquote {
 /* 	border-left: 1em solid #e6e6fe; */
- 	padding: 0 0 0 1em; 
+    padding: 0 0 0 1em; 
 }
 
 pre {
@@ -105,26 +105,32 @@ div.hentry  {
 }
 table {
     font: 10px;
-	border-collapse: collapse;
+    border-collapse: collapse;
 /*	width: 100%; */
 }
 caption {
-	text-align: left;
-	font-weight: bold;
-	padding: 5px 5px
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px
 }
 th {
-	text-align: left;
-	font-weight: normal;
-	font-style: italic;
-	border: 1px solid;
-	padding: 5px 5px;
+    text-align: left;
+    font-weight: normal;
+    font-style: italic;
 }
-td {
-	border: 1px solid;
-	padding: 5px 5px;
-	text-align: right;
+th, td {
+    border: 1px solid;
+    padding: 5px 5px;
+    text-align: right;
+    font-feature-settings: "tnum";
 }
+td a {
+    text-decoration: none;
+}
+td a:hover {
+    text-decoration: underline;
+}
+
 td.text { text-align: left; }
 hr {
     color: #CCC;
@@ -141,23 +147,20 @@ hr {
     display:inline-block;
     text-decoration:none;
     color:black;
- }
-
-	
+}
 
 /* header */
 
 div#header h1#blog-title {
     text-align:center;
- 	font-size: 3em; 
- 	margin: 0; 
-
+    font-size: 3em; 
+    margin: 0; 
 }
 
 div#header h1#blog-title a {
-	text-decoration: none ;
+    text-decoration: none ;
 /*    color:#999; */
-	color: black;
+    color: black;
 }
 
 /* headings */
@@ -169,30 +172,28 @@ div#header h1#blog-title a {
 
 
 h3.entry-title {
-	clear: both;
-	font-size: 1.3em; 
-	margin: 0;
+    clear: both;
+    font-size: 1.3em; 
+    margin: 0;
 }
 
 h3.entry-title a {
 /*    color:#999; */
- 	color: black; 
-	text-decoration: none;
+    color: black; 
+    text-decoration: none;
 
 }
 
 h3.entry-title a:hover {
- 	text-decoration: underline; 
+    text-decoration: underline; 
 }
 
 h2.date-header {
-
     text-align:center;
-
-	clear: both;
-	font-size: 1em;
+    clear: both;
+    font-size: 1em;
 /*        font-variant:small-caps; */
-	margin: 0;
+    margin: 0;
 }
 
 /* ### Pinboard links */ 
@@ -212,28 +213,24 @@ a.pinboard_href:hover {
 }
 
 p.pinboard_tags {
-	padding: 5px 20px;
-    
-	font-style: italic;
+    padding: 5px 20px;
+    font-style: italic;
 }    
 
-.link_plain { font-size: 0.8em;
-	      color: #888;
-	      font-family: "helvetica neue", arial, sans-serif;
-	    } 
+.link_plain {
+    font-size: 0.8em;
+    color: #888;
+    font-family: "helvetica neue", arial, sans-serif;
+} 
 
 a.pinboard_tag {
-	font-size: 0.9em;
-
+    font-size: 0.9em;
     text-decoration: none;
+}
 
-    }
 a.pinboard_tag:hover {
     text-decoration: underline;
-    }
-
-
-
+}
 
 /* entries */
 
@@ -261,17 +258,15 @@ div.nav-next {
 }
 
 div.entry-meta {
-	font-style: italic;
-	text-align: right;
-	font-size: 0.7em;
+    font-style: italic;
+    text-align: right;
+    font-size: 0.7em;
 }
 
 div.entry-content p, ul, ol, table{
     font-size: 16px;
- 	line-height: 1.5em; 
+    line-height: 1.5em; 
 }
-
-
 
 div.entry-content blockquote p {
 /* 	line-height: 1em; */
@@ -296,29 +291,29 @@ div#footer li {
 }
 
 div#footer table {
-	border-collapse: collapse;
-	width: 100%;
+    border-collapse: collapse;
+    width: 100%;
 }
 div#footer caption {
-	text-align: left;
-	font-weight: bold;
-	padding: 5px 5px
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px
 }
 div#footer th {
-	text-align: left;
-	font-weight: normal;
-	font-style: italic;
-	border: 1px solid;
-	padding: 5px 5px;
+    text-align: left;
+    font-weight: normal;
+    font-style: italic;
+    border: 1px solid;
+    padding: 5px 5px;
 }
 div#footer td {
-	border: 1px solid;
-	padding: 5px 5px;
-	text-align: right;
+    border: 1px solid;
+    padding: 5px 5px;
+    text-align: right;
 }
 
 div#blog-description p {
-     font-size: 0.8em; 
+    font-size: 0.8em; 
 }
 
 /* Goodreads stuff */
@@ -371,35 +366,3 @@ div#blog-description p {
     /* customize your rating stars here */
     float: right;
 }
-
-/*
-  Josh's Custom CSS Reset
-  https://www.joshwcomeau.com/css/custom-css-reset/
-
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-* {
-  margin: 0;
-}
-html, body {
-  height: 100%;
-}
-body {
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-}
-img, picture, video, canvas, svg {
-  display: block;
-  max-width: 100%;
-}
-input, button, textarea, select {
-  font: inherit;
-}
-p, h1, h2, h3, h4, h5, h6 {
-  overflow-wrap: break-word;
-}
-#root, #__next {
-  isolation: isolate;
-}
-*/

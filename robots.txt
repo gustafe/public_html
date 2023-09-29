@@ -16,3 +16,8 @@ Disallow: /blog/2015/
 Disallow: /blog/scratch
 Disallow: /t
 
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
